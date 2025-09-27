@@ -1,0 +1,271 @@
+{
+  "partnership": {
+    "title": "Program Kemitraan Pengembangan",
+    "subtitle": "Bergabunglah dengan masa depan teknologi pendidikan",
+    "hero": {
+      "alphaBadge": "Fase Alpha - Kemitraan Pengembangan Terbatas",
+      "title": "Kemitraan",
+      "titleHighlight": "Pengembangan",
+      "description": "Bergabunglah dengan kelompok pilihan institusi progresif yang membentuk masa depan teknologi pendidikan. Co-create FabriiQ sambil mendapatkan keunggulan kompetitif.",
+      "partnerCardTitle": "Mitra Pengembangan FabriiQ",
+      "partnerCardSubtitle": "Co-create masa depan pendidikan",
+      "valueLabel": "Nilai Kemitraan",
+      "valueText": "Tak Ternilai",
+      "valueSubtext": "Keunggulan kompetitif",
+      "badge": "Posisi Kemitraan Terbatas"
+    },
+    "benefits": {
+      "strategic": {
+        "title": "Investasi Strategis",
+        "subtitle": "Pertukaran Nilai Timbal Balik",
+        "badge": "Fase Alpha"
+      },
+      "codevelopment": {
+        "title": "Co-development",
+        "subtitle": "Bentuk Roadmap Produk",
+        "badge": "Pengaruh Langsung"
+      },
+      "earlyAccess": {
+        "title": "Akses Awal",
+        "subtitle": "Keunggulan Kompetitif",
+        "badge": "Keunggulan Kompetitif"
+      },
+      "aivy": {
+        "title": "Akses AIVY",
+        "subtitle": "Sistem AI Multi-Agen",
+        "badge": "Eksklusif"
+      },
+      "multiCampus": {
+        "title": "Multi-Campus",
+        "subtitle": "Arsitektur Asli",
+        "badge": "Skalabel"
+      },
+      "ferpa": {
+        "title": "FERPA Asli",
+        "subtitle": "Privasi by Design",
+        "badge": "Compliant"
+      }
+    },
+    "coCreators": {
+      "title": "Co-Creator,",
+      "titleHighlight": "Bukan Pelanggan",
+      "description": "Kami tidak menginginkan pengguna yang menerima apa yang kami bangun - kami menginginkan mitra yang membantu kami membangun apa yang benar-benar dibutuhkan pendidikan. Setiap mitra pengembangan secara langsung mempengaruhi roadmap produk kami, menerima integrasi branding kustom, dan memvalidasi solusi di lingkungan pendidikan nyata."
+    },
+    "journey": {
+      "title": "Perjalanan",
+      "titleHighlight": "Kemitraan",
+      "description": "Timeline interaktif yang menunjukkan jalur Anda dari undangan hingga kemitraan berkelanjutan"
+    },
+    "form": {
+      "header": {
+        "title": "Undangan Kemitraan",
+        "titleHighlight": "Co-Creation",
+        "description": "Penilaian kompatibilitas kemitraan lengkap untuk memulai proses evaluasi strategis"
+      },
+      "title": "Penilaian Co-Creation Kemitraan",
+      "subtitle": "Bantu kami memahami visi institusi Anda dan kesiapan co-development",
+      "sections": {
+        "institution": "Informasi Institusi",
+        "contact": "Informasi Kontak Strategis",
+        "partnership": "Detail Kemitraan Co-Development"
+      },
+      "fields": {
+        "institutionName": "Nama Institusi *",
+        "institutionType": "Jenis Institusi *",
+        "campusCount": "Jumlah Kampus",
+        "studentPopulation": "Populasi Siswa",
+        "contactName": "Nama Kontak Utama *",
+        "email": "Alamat Email *",
+        "phone": "Nomor Telepon",
+        "role": "Peran/Jabatan *",
+        "currentSystems": "Ekosistem Teknologi Saat Ini & Tantangan Strategis",
+        "timeline": "Timeline Investasi & Kesiapan",
+        "commitment": "Level Komitmen Investasi Kemitraan",
+        "customRequirements": "Persyaratan Kustom & Visi"
+      },
+      "placeholders": {
+        "institutionName": "Institusi pendidikan Anda",
+        "institutionType": "Pilih jenis institusi",
+        "campusCount": "Jumlah lokasi kampus",
+        "studentPopulation": "Total pendaftaran siswa di semua kampus",
+        "contactName": "Nama eksekutif atau pembuat keputusan",
+        "email": "executive.email@institution.edu",
+        "phone": "Format internasional lebih disukai",
+        "role": "Pilih peran Anda",
+        "currentSystems": "Deskripsikan sistem teknologi pendidikan saat ini, tantangan operasional, dan tujuan transformasi digital strategis...",
+        "timeline": "Pilih timeline",
+        "commitment": "Pilih level komitmen",
+        "customRequirements": "Deskripsikan kebutuhan spesifik institusi Anda, persyaratan branding, dan visi untuk inovasi teknologi pendidikan..."
+      },
+      "options": {
+        "institutionType": {
+          "multiCampus": "Sistem Sekolah Swasta Multi-Campus",
+          "university": "Universitas/Pendidikan Tinggi",
+          "international": "Jaringan Pendidikan Internasional",
+          "specialized": "Institusi Pendidikan Khusus",
+          "other": "Organisasi Pendidikan Lainnya"
+        },
+        "role": {
+          "ceo": "Chief Executive Officer/Presiden",
+          "cto": "Chief Technology Officer",
+          "cao": "Chief Academic Officer",
+          "director": "Direktur Kampus/Kepala Sekolah",
+          "itDirector": "Direktur IT",
+          "other": "Peran Eksekutif Lainnya"
+        },
+        "timeline": {
+          "immediate": "Segera (Siap memulai dalam 30 hari)",
+          "shortTerm": "Jangka pendek (Siap dalam 2-3 bulan)",
+          "mediumTerm": "Jangka menengah (Siap dalam 4-6 bulan)",
+          "strategic": "Perencanaan strategis (Periode evaluasi 6+ bulan)"
+        },
+        "commitment": {
+          "full": "Kemitraan Strategis Penuh (Partisipasi co-development lengkap)",
+          "focused": "Kemitraan Terfokus (Area kolaborasi spesifik)",
+          "evaluation": "Kemitraan Evaluasi (Fase penilaian dengan potensi ekspansi)"
+        }
+      },
+      "submit": "Kirim Penilaian Co-Creation Kemitraan",
+      "disclaimer": "Dengan mengirimkan, Anda menyatakan minat pada kemitraan co-development strategis dan setuju untuk berpartisipasi dalam proses evaluasi timbal balik untuk kolaborasi fase Alpha.",
+      "success": {
+        "title": "Penilaian Kemitraan Terkirim!",
+        "message": "Kami telah menerima penilaian kemitraan komprehensif Anda. Tim pengembangan kami akan meninjau pengajuan Anda dan menghubungi Anda dalam 48 jam untuk membahas kompatibilitas strategis dan langkah selanjutnya.",
+        "another": "Kirim Penilaian Lain"
+      }
+    }
+  },
+  "partnership_extended": {
+    "timeline": {
+      "steps": {
+        "discovery": {
+          "title": "Undangan & Penemuan",
+          "description": "Penilaian kebutuhan institusional dan evaluasi kompatibilitas strategis"
+        },
+        "selection": {
+          "title": "Seleksi Bersama",
+          "description": "Penandatanganan Piagam Kemitraan dan formalisasi komitmen sumber daya"
+        },
+        "pilot": {
+          "title": "Implementasi Pilot",
+          "description": "Penyebaran sistem inti dengan dukungan khusus dan integrasi branding kustom"
+        },
+        "partnership": {
+          "title": "Kemitraan Penuh",
+          "description": "Akses platform lengkap dengan hak co-development dan kustomisasi alur kerja"
+        },
+        "sustained": {
+          "title": "Melampaui Alpha - Kemitraan Berkelanjutan",
+          "description": "Syarat preferensial, akses inovasi berkelanjutan, dan pengakuan sebagai mitra pendiri"
+        }
+      }
+    },
+    "investment": {
+      "title": "Kerangka",
+      "titleHighlight": "Investasi Seimbang",
+      "description": "Kemitraan strategis di mana institusi dan FabriiQ berinvestasi secara bermakna untuk kesuksesan bersama",
+      "institutions": {
+        "title": "Untuk Institusi Pendidikan",
+        "subtitle": "Investasi strategis dalam penyebaran dan berbagi keahlian",
+        "benefits": {
+          "custom_features": "Pengembangan fitur kustom yang selaras dengan alur kerja institusional",
+          "competitive_advantage": {
+            "title": "Keunggulan kompetitif atas alternatif pasar",
+            "description": "Dapatkan posisi strategis di pasar melalui akses awal ke solusi teknologi pendidikan canggih."
+          },
+          "influence_roadmap": "Pengaruh langsung pada roadmap produk dan prioritas pengembangan",
+          "custom_branding": "Branding kustom dan integrasi identitas institusional",
+          "thought_leadership": "Pengakuan kepemimpinan pemikiran dalam inovasi teknologi pendidikan",
+          "preferential_pricing": "Harga preferensial pasca-Alpha dan syarat kemitraan berkelanjutan"
+        }
+      },
+      "fabriiq": {
+        "title": "Untuk Pengembangan FabriiQ",
+        "subtitle": "Investasi dalam sumber daya co-development khusus dan dukungan prioritas",
+        "benefits": {
+          "validation": "Validasi dunia nyata dalam lingkungan pendidikan autentik",
+          "user_input": "Input desain berpusat pengguna dari pendidik dan administrator sesungguhnya",
+          "quality_assurance": "Jaminan kualitas melalui pengujian multi-institusional komprehensif",
+          "use_case_refinement": "Penyempurnaan kasus penggunaan dan wawasan optimalisasi alur kerja",
+          "market_validation": "Validasi pasar dan pengembangan bukti konsep",
+          "success_stories": "Dokumentasi kisah sukses dan pembuatan studi kasus"
+        }
+      }
+    },
+    "idealPartner": {
+      "title": "Profil",
+      "titleHighlight": "Mitra Ideal",
+      "description": "Kami mencari institusi yang siap untuk kemitraan co-development strategis",
+      "institutional": {
+        "title": "Karakteristik Institusional",
+        "items": {
+          "multi_campus": "Organisasi pendidikan multi-kampus dengan kebutuhan operasional kompleks",
+          "progressive_leadership": "Kepemimpinan progresif yang berkomitmen pada transformasi digital komprehensif",
+          "technology_readiness": "Kesiapan teknologi dengan sumber daya IT khusus dan kapasitas implementasi",
+          "collaborative_culture": "Budaya kolaboratif yang bersedia berpartisipasi dalam co-development iteratif",
+          "financial_readiness": "Kesiapan finansial untuk berinvestasi dalam biaya penyebaran dan infrastruktur"
+        }
+      },
+      "partnership_requirements": {
+        "title": "Persyaratan Kemitraan",
+        "items": {
+          "csuite_commitment": "Komitmen tingkat C-suite untuk adopsi platform dan manajemen perubahan organisasi",
+          "staff_allocation": "Alokasi staf khusus (10-15 jam bulanan) untuk partisipasi co-development",
+          "investment_deployment": "Investasi dalam biaya penyebaran, pelatihan, dan persyaratan infrastruktur",
+          "reference_willingness": "Kesediaan untuk menjadi referensi dan studi kasus kepemimpinan pemikiran",
+          "research_participation": "Partisipasi dalam riset pengguna, sesi umpan balik, dan validasi produk"
+        }
+      }
+    },
+    "charter": {
+      "title": "Piagam Kemitraan",
+      "titleHighlight": "Komitmen",
+      "institution": {
+        "title": "Institusi Anda Berkomitmen Untuk:",
+        "items": {
+          "cover_deployment": "Menutupi investasi penyebaran, infrastruktur, dan pelatihan",
+          "allocate_staff": "Mengalokasikan waktu staf khusus untuk aktivitas kemitraan",
+          "participate_feedback": "Berpartisipasi dalam sesi umpan balik bulanan dan workshop strategi triwulanan",
+          "provide_assessment": "Memberikan penilaian jujur dan panduan pengembangan konstruktif",
+          "maintain_confidentiality": "Menjaga kerahasiaan mengenai fitur Alpha dan roadmap pengembangan"
+        }
+      },
+      "fabriiq": {
+        "title": "FabriiQ Berkomitmen Untuk:",
+        "items": {
+          "provide_access": "Memberikan akses co-development Alpha khusus dan pengembangan fitur prioritas",
+          "deliver_branding": "Menyediakan integrasi branding kustom dan personalisasi alur kerja",
+          "maintain_communication": "Menjaga komunikasi transparan tentang kemajuan pengembangan dan jadwal",
+          "honor_terms": "Menghormati syarat kemitraan dan harga preferensial pasca-Alpha",
+          "recognize_institution": "Mengakui institusi Anda sebagai mitra pengembangan pendiri dengan peluang kepemimpinan pemikiran"
+        }
+      }
+    },
+    "beyondAlpha": {
+      "title": "Melampaui Alpha:",
+      "titleHighlight": "Nilai Kemitraan Berkelanjutan",
+      "description": "Kemitraan Pengembangan Alpha menetapkan fondasi untuk keunggulan strategis jangka panjang",
+      "benefits": {
+        "preferential_terms": {
+          "title": "Syarat Kemitraan Preferensial",
+          "description": "Mitra pendiri mempertahankan harga menguntungkan dan akses prioritas dibandingkan dengan adopter masa depan"
+        },
+        "innovation_leadership": {
+          "title": "Kepemimpinan Inovasi Berkelanjutan",
+          "description": "Akses pertama ke fitur baru, peningkatan platform, dan pengembangan strategis"
+        },
+        "legacy_advantage": {
+          "title": "Keunggulan Warisan",
+          "description": "Alur kerja institusional dan branding Anda tetap terintegrasi mendalam dalam evolusi platform"
+        },
+        "thought_leadership": {
+          "title": "Pengakuan Kepemimpinan Pemikiran",
+          "description": "Ditampilkan sebagai kontributor pendiri transformasi teknologi pendidikan"
+        }
+      }
+    },
+    "intelligence": {
+      "title": "Platform Kecerdasan Pendidikan",
+      "description": "Fondasi teknologi yang mendukung pendidikan generasi berikutnya"
+    }
+  }
+}

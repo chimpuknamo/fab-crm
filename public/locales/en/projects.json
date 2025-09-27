@@ -1,0 +1,964 @@
+{
+  "pages": {
+    "capabilities": {
+      "title": "Platform Capabilities",
+      "subtitle": "Comprehensive features designed for modern educational institutions",
+      "description": "Explore FabriiQ's comprehensive educational technology capabilities designed for modern institutions.",
+      "search_placeholder": "Search capabilities...",
+      "filters": {
+        "all": "All Capabilities",
+        "system_admin": "System Admin Portal",
+        "teacher_portal": "Teacher Portal",
+        "student_portal": "Student Portal",
+        "teacher": "Teacher Portal",
+        "student": "Student Portal"
+      },
+      "select_capability": "Select a Capability",
+      "select_capability_desc": "Choose a capability from the list to view detailed information and demonstrations.",
+      "interactive_demo": "Interactive Demo",
+      "interactive_demos": "Interactive Demos",
+      "key_features": "Key Features",
+      "expected_benefits": "Expected Benefits (Alpha Phase)",
+      "alpha_performance": "Alpha Performance Expectations",
+      "tags": "Tags",
+      "status": {
+        "alpha": "Alpha Stage",
+        "beta": "Beta Stage",
+        "development": "In Development",
+        "coming_soon": "Coming Soon"
+      },
+      "performance_metrics": {
+        "coordination": "Coordination",
+        "time_reduction": "Time Reduction",
+        "accuracy": "Accuracy",
+        "efficiency": "Efficiency",
+        "timeReduction": "Time Reduction",
+        "alignment": "Alignment",
+        "correlation": "Correlation",
+        "insight": "Insight",
+        "identification": "Identification",
+        "reliability": "Reliability",
+        "accessTime": "Access Time",
+        "utilization": "Utilization",
+        "engagement": "Engagement",
+        "creationTime": "Creation Time",
+        "quality": "Quality",
+        "motivation": "Motivation",
+        "selfDirected": "Self Directed",
+        "goalCompletion": "Goal Completion",
+        "qualityImprovement": "Quality Improvement",
+        "plagiarismReduction": "Plagiarism Reduction",
+        "submissionRate": "Submission Rate",
+        "retention": "Retention",
+        "completion": "Completion",
+        "security": "Security",
+        "compliance": "Compliance",
+        "uptime": "Uptime",
+        "detection": "Detection",
+        "searchSpeed": "Search Speed",
+        "completeness": "Completeness",
+        "protection": "Protection",
+        "recovery": "Recovery",
+        "riskReduction": "Risk Reduction",
+        "processing": "Processing",
+        "responseTime": "Response Time",
+        "satisfaction": "Satisfaction",
+        "organization": "Organization",
+        "punctuality": "Punctuality",
+        "communication": "Communication",
+        "participation": "Participation",
+        "community": "Community",
+        "awareness": "Awareness",
+        "accountability": "Accountability",
+        "personalization": "Personalization",
+        "outcomes": "Outcomes",
+        "privacy": "Privacy",
+        "studyHabits": "Study Habits",
+        "wellbeing": "Wellbeing",
+        "collaboration": "Collaboration",
+        "networking": "Networking",
+        "comprehension": "Comprehension",
+        "vocabulary": "Vocabulary"
+      },
+      "categories": {
+        "system_admin_portal": "System Admin Portal",
+        "teacher_portal": "Teacher Portal",
+        "student_portal": "Student Portal"
+      },
+      "expected_prefix": "Expected",
+      "demo": {
+        "creation": "Creation Process",
+        "grading": "Grading & Analytics"
+      },
+      "performance": {
+        "expected_prefix": "Expected",
+        "metrics": {
+          "coordination": "Coordination",
+          "timeReduction": "Time Reduction",
+          "time_reduction": "Time Reduction",
+          "accuracy": "Accuracy",
+          "efficiency": "Efficiency",
+          "alignment": "Alignment",
+          "correlation": "Correlation",
+          "insight": "Insight",
+          "identification": "Identification",
+          "reliability": "Reliability",
+          "accessTime": "Access Time",
+          "access_time": "Access Time",
+          "utilization": "Utilization",
+          "engagement": "Engagement",
+          "creationTime": "Creation Time",
+          "creation_time": "Creation Time",
+          "quality": "Quality",
+          "motivation": "Motivation",
+          "selfDirected": "Self Directed",
+          "self_directed": "Self Directed",
+          "goalCompletion": "Goal Completion",
+          "goal_completion": "Goal Completion",
+          "qualityImprovement": "Quality Improvement",
+          "quality_improvement": "Quality Improvement",
+          "plagiarismReduction": "Plagiarism Reduction",
+          "plagiarism_reduction": "Plagiarism Reduction",
+          "submissionRate": "Submission Rate",
+          "submission_rate": "Submission Rate",
+          "retention": "Retention",
+          "completion": "Completion",
+          "security": "Security",
+          "compliance": "Compliance",
+          "uptime": "Uptime",
+          "detection": "Detection",
+          "searchSpeed": "Search Speed",
+          "search_speed": "Search Speed",
+          "completeness": "Completeness",
+          "protection": "Protection",
+          "recovery": "Recovery",
+          "riskReduction": "Risk Reduction",
+          "risk_reduction": "Risk Reduction",
+          "processing": "Processing",
+          "responseTime": "Response Time",
+          "response_time": "Response Time",
+          "satisfaction": "Satisfaction",
+          "organization": "Organization",
+          "punctuality": "Punctuality",
+          "communication": "Communication",
+          "participation": "Participation",
+          "community": "Community",
+          "awareness": "Awareness",
+          "accountability": "Accountability",
+          "personalization": "Personalization",
+          "outcomes": "Outcomes",
+          "privacy": "Privacy",
+          "studyHabits": "Study Habits",
+          "study_habits": "Study Habits",
+          "wellbeing": "Wellbeing",
+          "collaboration": "Collaboration",
+          "networking": "Networking",
+          "comprehension": "Comprehension",
+          "vocabulary": "Vocabulary"
+        }
+      }
+    },
+    "projects": {
+      "title": "Platform Capabilities",
+      "subtitle": "Comprehensive features designed for modern educational institutions",
+      "description": "Explore FabriiQ's comprehensive educational technology capabilities designed for modern institutions.",
+      "search_placeholder": "Search capabilities...",
+      "filters": {
+        "all": "All Capabilities",
+        "system_admin": "System Admin Portal",
+        "teacher_portal": "Teacher Portal",
+        "student_portal": "Student Portal"
+      },
+      "select_capability": "Select a Capability",
+      "select_capability_desc": "Choose a capability from the list to view detailed information and demonstrations.",
+      "interactive_demo": "Interactive Demo",
+      "interactive_demos": "Interactive Demos",
+      "key_features": "Key Features",
+      "expected_benefits": "Expected Benefits (Alpha Phase)",
+      "alpha_performance": "Alpha Performance Expectations",
+      "tags": "Tags",
+      "status": {
+        "alpha": "Alpha Stage",
+        "beta": "Beta Stage",
+        "development": "In Development",
+        "coming_soon": "Coming Soon"
+      },
+      "performance_metrics": {
+        "coordination": "Coordination",
+        "time_reduction": "Time Reduction",
+        "accuracy": "Accuracy",
+        "efficiency": "Efficiency"
+      },
+      "capabilities": {
+        "system-admin-dashboard": {
+          "name": "System Admin Dashboard",
+          "subtitle": "Comprehensive Administrative Control Center",
+          "description": "Centralized dashboard providing system administrators with complete oversight and control of all educational operations across multiple campuses.",
+          "features": [
+            "Multi-campus system monitoring",
+            "Real-time operational analytics",
+            "User management and permissions",
+            "System health and performance metrics",
+            "Automated alerts and notifications"
+          ],
+          "benefits": [
+            "Projected 85% improvement in administrative efficiency",
+            "Anticipated enhanced system oversight",
+            "Expected streamlined operations management",
+            "Planned proactive issue resolution"
+          ],
+          "tags": ["Administration", "Dashboard", "System Management", "Analytics"],
+          "performance": {
+            "efficiency": "+85%",
+            "oversight": "95%",
+            "responseTime": "<30s"
+          }
+        },
+        "academic-calendar": {
+          "name": "Academic Calendar Management",
+          "subtitle": "Unified Multi-Campus Scheduling",
+          "description": "Centralize academic planning across multiple campuses with intelligent conflict detection and automated synchronization.",
+          "features": [
+            "Multi-campus calendar coordination",
+            "Academic event management (exams, orientations, graduations)",
+            "Holiday management with automatic exclusions",
+            "Resource scheduling with conflict detection",
+            "Real-time synchronization across all campuses"
+          ],
+          "benefits": [
+            "Projected 60% reduction in scheduling conflicts",
+            "Anticipated streamlined multi-campus coordination",
+            "Expected improved resource utilization",
+            "Planned automated compliance tracking"
+          ],
+          "tags": ["Multi-Campus", "Scheduling", "Academic Planning", "Conflict Management"],
+          "performance": {
+            "coordination": "+60%",
+            "timeReduction": "40%",
+            "accuracy": "95%"
+          }
+        },
+        "enrollment-management": {
+          "name": "Enrollment Management System",
+          "subtitle": "Intelligent Student Lifecycle Management",
+          "description": "Automate student enrollment processes with intelligent validation and comprehensive tracking across institutional hierarchy.",
+          "features": [
+            "Single and bulk enrollment processing",
+            "Automated status management (ACTIVE, PENDING, COMPLETED, WITHDRAWN)",
+            "CSV import with real-time validation",
+            "Multi-campus enrollment analytics",
+            "Predictive enrollment forecasting"
+          ],
+          "benefits": [
+            "Projected 75% reduction in manual enrollment tasks",
+            "Anticipated real-time enrollment visibility",
+            "Expected automated profile creation accuracy",
+            "Planned cross-campus insights"
+          ],
+          "tags": ["Student Management", "Automation", "Multi-Campus", "Data Analytics"],
+          "performance": {
+            "efficiency": "+75%",
+            "timeReduction": "65%",
+            "accuracy": "98%"
+          }
+        },
+        "fee-management": {
+          "name": "Comprehensive Fee Management",
+          "subtitle": "Financial Operations Automation",
+          "description": "Streamline financial operations with automated fee structures, payment processing, and multi-currency support.",
+          "features": [
+            "Flexible fee structure management",
+            "Automated challan and invoice generation",
+            "Multi-payment method support",
+            "Late fee automation with policy rules",
+            "Financial reporting and analytics"
+          ],
+          "benefits": [
+            "Projected 80% reduction in manual financial tasks",
+            "Anticipated improved payment collection rates",
+            "Expected comprehensive financial visibility",
+            "Planned automated compliance reporting"
+          ],
+          "tags": ["Financial Management", "Automation", "Multi-Currency", "Compliance"],
+          "performance": {
+            "efficiency": "+80%",
+            "processing": "50%",
+            "accuracy": "99%"
+          }
+        },
+        "question-bank": {
+          "name": "AI-Powered Question Bank",
+          "subtitle": "Intelligent Assessment Creation",
+          "description": "Build comprehensive question repositories with Bloom's Taxonomy integration and AI-powered content generation.",
+          "features": [
+            "16+ question types with rich media support",
+            "Bloom's Taxonomy cognitive level tagging",
+            "AI-powered question generation",
+            "Quality metrics and usage analytics",
+            "Collaborative review and validation"
+          ],
+          "benefits": [
+            "Projected 70% faster question creation",
+            "Anticipated improved assessment quality",
+            "Expected cognitive balance validation",
+            "Planned intelligent recommendations"
+          ],
+          "tags": ["Assessment", "AI Content", "Bloom's Taxonomy", "Quality Assurance"],
+          "performance": {
+            "efficiency": "+70%",
+            "timeReduction": "45%",
+            "quality": "95%"
+          }
+        },
+        "communication-hub": {
+          "name": "Strategic Communication Hub",
+          "subtitle": "Institution-Wide Messaging Intelligence",
+          "description": "Coordinate institutional communications with intelligent routing, compliance monitoring, and analytics.",
+          "features": [
+            "Multi-channel messaging (direct, group, broadcast)",
+            "FERPA-compliant communication",
+            "Emergency broadcasting capabilities",
+            "Communication analytics and insights",
+            "Automated routing and prioritization"
+          ],
+          "benefits": [
+            "Projected 85% improvement in communication reach",
+            "Anticipated enhanced compliance monitoring",
+            "Expected streamlined crisis communication",
+            "Planned stakeholder engagement analytics"
+          ],
+          "tags": ["Communication", "FERPA Compliance", "Emergency Management", "Analytics"],
+          "performance": {
+            "efficiency": "+85%",
+            "responseTime": "60%",
+            "compliance": "100%"
+          }
+        },
+        "curriculum-management": {
+          "name": "Pedagogical Curriculum Management",
+          "subtitle": "Learning Outcomes Intelligence",
+          "description": "Align curriculum with learning outcomes using Bloom's Taxonomy integration and cognitive balance analysis.",
+          "features": [
+            "Learning outcome definition and mapping",
+            "Bloom's Taxonomy six-level framework",
+            "Curriculum alignment verification",
+            "Cognitive balance analysis",
+            "Performance correlation tracking"
+          ],
+          "benefits": [
+            "Projected 65% improvement in curriculum alignment",
+            "Anticipated enhanced learning outcome clarity",
+            "Expected cognitive development tracking",
+            "Planned pedagogical validation"
+          ],
+          "tags": ["Curriculum", "Bloom's Taxonomy", "Learning Outcomes", "Pedagogical Intelligence"],
+            "performance": {
+              "alignment": "+65%",
+              "efficiency": "55%",
+              "correlation": "92%"
+            }
+          },
+          "system-compliance": {
+            "name": "System Compliance Management",
+            "subtitle": "FERPA & GDPR Compliance Excellence",
+            "description": "Comprehensive compliance management ensuring FERPA and GDPR adherence with automated monitoring and reporting.",
+            "features": [
+              "FERPA compliance monitoring and enforcement",
+              "GDPR data protection and privacy controls",
+              "Automated compliance reporting",
+              "Risk assessment and mitigation",
+              "Audit trail and documentation management"
+            ],
+            "benefits": [
+              "Projected 100% FERPA compliance rate",
+              "Anticipated enhanced GDPR data protection",
+              "Expected streamlined audit processes",
+              "Planned proactive risk management"
+            ],
+            "tags": ["FERPA", "GDPR", "Compliance", "Data Protection", "Risk Management"],
+            "performance": {
+              "compliance": "100%",
+              "riskReduction": "95%",
+              "auditReadiness": "98%"
+            }
+          },
+          "class-analytics": {
+          "name": "Comprehensive Class Analytics",
+          "subtitle": "Data-Driven Teaching Insights",
+          "description": "Access detailed class performance analytics with student insights and intervention recommendations.",
+          "features": [
+            "Real-time class performance dashboards",
+            "Individual student progress tracking",
+            "Bloom's Taxonomy cognitive analysis",
+            "At-risk student identification",
+            "Intervention recommendation engine"
+          ],
+          "benefits": [
+            "Projected 70% improvement in student outcome prediction",
+            "Anticipated enhanced teaching effectiveness",
+            "Expected data-driven decision making",
+            "Planned personalized intervention strategies"
+          ],
+          "tags": ["Analytics", "Student Performance", "Predictive Intelligence", "Intervention"],
+          "performance": {
+            "insight": "+70%",
+            "identification": "50%",
+            "reliability": "88%"
+          }
+        },
+        "resource-management": {
+          "name": "Dynamic Resource Management",
+          "subtitle": "Intelligent Content Organization",
+          "description": "Organize and distribute educational resources with intelligent sharing and usage analytics.",
+          "features": [
+            "Hierarchical resource organization",
+            "Smart sharing based on enrollment",
+            "Usage analytics and engagement metrics",
+            "Version control and collaboration",
+            "AI-powered content recommendations"
+          ],
+          "benefits": [
+            "Projected 60% improvement in resource accessibility",
+            "Anticipated enhanced content utilization",
+            "Expected collaborative efficiency gains",
+            "Planned intelligent content curation"
+          ],
+          "tags": ["Resource Management", "Content Analytics", "Collaboration", "AI Recommendations"],
+          "performance": {
+            "efficiency": "+60%",
+            "accessTime": "40%",
+            "utilization": "85%"
+          }
+        },
+        "quiz-activities": {
+          "name": "Interactive Quiz Activities",
+          "subtitle": "Engaging Assessment Creation",
+          "description": "Create dynamic quiz activities with multiple question types and real-time student engagement tracking.",
+          "features": [
+            "Multiple question formats and media support",
+            "Real-time student response tracking",
+            "Bloom's Taxonomy cognitive alignment",
+            "Instant feedback and explanation",
+            "Performance analytics and insights"
+          ],
+          "benefits": [
+            "Projected 75% increase in student engagement",
+            "Anticipated improved assessment efficiency",
+            "Expected enhanced learning outcomes",
+            "Planned adaptive difficulty adjustment"
+          ],
+          "tags": ["Interactive Assessment", "Student Engagement", "Real-time Analytics", "Cognitive Alignment"],
+          "performance": {
+            "engagement": "+75%",
+            "creationTime": "55%",
+            "accuracy": "90%"
+          }
+        },
+        "personal-dashboard": {
+          "name": "Personalized Student Dashboard",
+          "subtitle": "Individual Learning Journey",
+          "description": "Access your personal learning dashboard with progress tracking and personalized insights.",
+          "features": [
+            "Individual progress visualization",
+            "Goal setting and achievement tracking",
+            "Performance insights and recommendations",
+            "Learning milestone celebrations",
+            "Study schedule management"
+          ],
+          "benefits": [
+            "Projected 80% improvement in self-directed learning",
+            "Anticipated enhanced motivation and engagement",
+            "Expected personalized learning experience",
+            "Planned achievement recognition system"
+          ],
+          "tags": ["Personal Development", "Progress Tracking", "Student Engagement", "Self-Learning"],
+          "performance": {
+            "motivation": "+80%",
+            "selfDirected": "65%",
+            "goalCompletion": "92%"
+          }
+        },
+        "assignment-submission": {
+          "name": "Smart Assignment Submission",
+          "subtitle": "Streamlined Homework Management",
+          "description": "Submit assignments with intelligent plagiarism detection and instant feedback on format and content quality.",
+          "features": [
+            "Multi-format file upload support",
+            "Real-time plagiarism detection",
+            "Content quality assessment",
+            "Submission tracking and reminders",
+            "Peer review and collaboration tools"
+          ],
+          "benefits": [
+            "Projected 70% reduction in plagiarism incidents",
+            "Anticipated improved assignment quality",
+            "Expected enhanced academic integrity",
+            "Planned collaborative learning opportunities"
+          ],
+          "tags": ["Assignment Management", "Plagiarism Detection", "Quality Assessment", "Collaboration"],
+          "performance": {
+            "qualityImprovement": "+70%",
+            "plagiarismReduction": "85%",
+            "submissionRate": "95%"
+          }
+        },
+        "interactive-learning": {
+          "name": "Interactive Learning Modules",
+          "subtitle": "Engaging Educational Content",
+          "description": "Experience interactive learning modules with gamified elements and adaptive difficulty adjustment.",
+          "features": [
+            "Gamified learning experiences",
+            "Adaptive difficulty progression",
+            "Interactive multimedia content",
+            "Achievement badges and rewards",
+            "Collaborative learning challenges"
+          ],
+          "benefits": [
+            "Projected 85% increase in learning engagement",
+            "Anticipated improved knowledge retention",
+            "Expected enhanced learning motivation",
+            "Planned personalized learning paths"
+          ],
+          "tags": ["Interactive Learning", "Gamification", "Adaptive Systems", "Student Engagement"],
+          "performance": {
+            "engagement": "+85%",
+            "retention": "75%",
+            "completion": "88%"
+          }
+        },
+        "user-management": {
+          "name": "Advanced User Management",
+          "subtitle": "Comprehensive Access Control",
+          "description": "Manage user hierarchies, roles, and permissions across multiple campuses with intelligent automation.",
+          "features": [
+            "Multi-campus hierarchical role management",
+            "Granular permissions and access control",
+            "User lifecycle automation",
+            "SSO and federated authentication",
+            "Real-time audit trails"
+          ],
+          "benefits": [
+            "Projected 80% reduction in administrative tasks",
+            "Anticipated enhanced security compliance",
+            "Expected streamlined access control",
+            "Planned unified user management"
+          ],
+          "tags": ["User Management", "Security", "Access Control", "Multi-Campus"],
+          "performance": {
+            "efficiency": "+80%",
+            "security": "45%",
+            "compliance": "95%"
+          }
+        },
+        "system-monitoring": {
+          "name": "Intelligent System Monitoring",
+          "subtitle": "Operational Observability",
+          "description": "Monitor system health, performance, and security with predictive alerts and automated reporting.",
+          "features": [
+            "Real-time system health dashboards",
+            "Predictive analytics and early warnings",
+            "Automated performance monitoring",
+            "Security compliance tracking",
+            "Multi-campus status reporting"
+          ],
+          "benefits": [
+            "Projected 90% reduction in downtime",
+            "Anticipated proactive issue detection",
+            "Expected improved system reliability",
+            "Planned predictive maintenance"
+          ],
+          "tags": ["System Monitoring", "Predictive Analytics", "Alerts", "Performance"],
+          "performance": {
+            "uptime": "+90%",
+            "detection": "30%",
+            "reliability": "98%"
+          }
+        },
+        "audit-trails": {
+          "name": "Comprehensive Audit Trails",
+          "subtitle": "Complete Action Tracking",
+          "description": "Maintain detailed records of all system actions with intelligent search and compliance analysis.",
+          "features": [
+            "Automatic logging of all system actions",
+            "Advanced search and filtering capabilities",
+            "Automated compliance reporting",
+            "AI-powered anomaly detection",
+            "Secure and immutable archiving"
+          ],
+          "benefits": [
+            "Projected 100% compliance with audit standards",
+            "Anticipated complete action transparency",
+            "Expected simplified incident investigation",
+            "Planned automated audit readiness"
+          ],
+          "tags": ["Audit Trails", "Compliance", "Tracking", "Security"],
+          "performance": {
+            "compliance": "100%",
+            "searchSpeed": "60%",
+            "completeness": "99%"
+          }
+        },
+        "automated-backups": {
+          "name": "Smart Automated Backups",
+          "subtitle": "Guaranteed Data Continuity",
+          "description": "Manage automated backups with intelligent recovery and data integrity verification.",
+          "features": [
+            "Scheduled automatic backups",
+            "Data integrity verification",
+            "One-click disaster recovery",
+            "Encryption and secure storage",
+            "Backup health monitoring"
+          ],
+          "benefits": [
+            "Projected 99.9% data protection",
+            "Anticipated rapid disaster recovery",
+            "Expected data peace of mind",
+            "Planned seamless operational continuity"
+          ],
+          "tags": ["Data Backups", "Disaster Recovery", "Data Integrity", "Automation"],
+          "performance": {
+            "protection": "99.9%",
+            "recovery": "75%",
+            "reliability": "99%"
+          }
+        },
+        "security-compliance": {
+          "name": "Security Compliance Framework",
+          "subtitle": "Native Privacy Protection",
+          "description": "Ensure FERPA and privacy standards compliance with automated monitoring and risk assessment.",
+          "features": [
+            "Automated FERPA compliance",
+            "Continuous privacy risk assessment",
+            "Data encryption and access controls",
+            "Automated retention policies",
+            "Regular compliance reporting"
+          ],
+          "benefits": [
+            "Projected 100% FERPA compliance",
+            "Anticipated reduced security risks",
+            "Expected automated privacy protection",
+            "Planned simplified audit readiness"
+          ],
+          "tags": ["FERPA Compliance", "Data Privacy", "Risk Assessment", "Security"],
+          "performance": {
+            "compliance": "100%",
+            "riskReduction": "85%",
+            "protection": "99%"
+          }
+        },
+        "assessment-creation": {
+          "name": "Assessment Creation",
+          "subtitle": "Comprehensive Assessment Builder",
+          "description": "Create diverse assessment types with multimedia support and cognitive level alignment.",
+          "features": [
+            "Multiple assessment formats and templates",
+            "Rich media integration and support",
+            "Bloom's Taxonomy cognitive alignment",
+            "Automated scoring and feedback",
+            "Performance analytics and insights"
+          ],
+          "benefits": [
+            "Projected 70% faster assessment creation",
+            "Anticipated improved assessment quality",
+            "Expected enhanced learning evaluation",
+            "Planned intelligent assessment recommendations"
+          ],
+          "tags": ["Assessment", "Teacher Tools", "Cognitive Alignment", "Analytics"],
+          "performance": {
+            "efficiency": "+70%",
+            "quality": "90%",
+            "alignment": "95%"
+          }
+        },
+        "reading-activities": {
+          "name": "Reading Activities",
+          "subtitle": "Interactive Reading Comprehension",
+          "description": "Engage students with interactive reading activities and comprehension tracking.",
+          "features": [
+            "Interactive reading materials library",
+            "Comprehension tracking and analysis",
+            "Vocabulary building exercises",
+            "Reading progress monitoring",
+            "Adaptive difficulty adjustment"
+          ],
+          "benefits": [
+            "Projected 65% improvement in reading comprehension",
+            "Anticipated enhanced vocabulary development",
+            "Expected increased reading engagement",
+            "Planned personalized reading paths"
+          ],
+          "tags": ["Reading", "Comprehension", "Teacher Tools", "Student Engagement"],
+          "performance": {
+            "comprehension": "+65%",
+            "engagement": "80%",
+            "vocabulary": "75%"
+          }
+        },
+        "reward-system": {
+          "name": "Reward System",
+          "subtitle": "Achievement Recognition Platform",
+          "description": "Motivate students through comprehensive reward and recognition system.",
+          "features": [
+            "Digital badges and certificates",
+            "Point-based reward system",
+            "Achievement leaderboards",
+            "Custom reward creation",
+            "Parent notification integration"
+          ],
+          "benefits": [
+            "Projected 85% increase in student motivation",
+            "Anticipated improved assignment completion",
+            "Expected enhanced class participation",
+            "Planned positive behavior reinforcement"
+          ],
+          "tags": ["Rewards", "Motivation", "Teacher Tools", "Student Engagement"],
+          "performance": {
+            "motivation": "+85%",
+            "completion": "90%",
+            "participation": "78%"
+          }
+        },
+        "student-profiles": {
+          "name": "Student Profiles",
+          "subtitle": "Comprehensive Learner Management",
+          "description": "Manage detailed student profiles with academic tracking and personalized insights.",
+          "features": [
+            "Detailed academic performance tracking",
+            "Learning style identification",
+            "Behavioral pattern analysis",
+            "Parent communication integration",
+            "Individual learning plan creation"
+          ],
+          "benefits": [
+            "Projected 75% improvement in personalized learning",
+            "Anticipated enhanced teacher-student relationships",
+            "Expected improved academic outcomes",
+            "Planned family engagement increase"
+          ],
+          "tags": ["Student Management", "Personalization", "Teacher Tools", "Analytics"],
+          "performance": {
+            "personalization": "+75%",
+            "outcomes": "82%",
+            "engagement": "88%"
+          }
+        },
+        "aivy-assistant": {
+          "name": "Aivy Assistant",
+          "subtitle": "AI-Powered Teaching Support",
+          "description": "Intelligent AI assistant providing real-time teaching support and recommendations.",
+          "features": [
+            "Real-time teaching assistance",
+            "Intelligent lesson recommendations",
+            "Student performance insights",
+            "Automated administrative tasks",
+            "Professional development suggestions"
+          ],
+          "benefits": [
+            "Projected 60% reduction in preparation time",
+            "Anticipated improved teaching effectiveness",
+            "Expected enhanced decision making",
+            "Planned personalized professional growth"
+          ],
+          "tags": ["AI Assistant", "Teacher Support", "Automation", "Professional Development"],
+          "performance": {
+            "efficiency": "+60%",
+            "effectiveness": "85%",
+            "satisfaction": "92%"
+          }
+        },
+        "calendar-management": {
+          "name": "Calendar Management",
+          "subtitle": "Personal Schedule Organization",
+          "description": "Organize teaching schedules, appointments, and academic events efficiently.",
+          "features": [
+            "Personal teaching schedule management",
+            "Class and meeting scheduling",
+            "Academic event integration",
+            "Reminder and notification system",
+            "Collaborative calendar sharing"
+          ],
+          "benefits": [
+            "Projected 50% improvement in time management",
+            "Anticipated reduced scheduling conflicts",
+            "Expected better work-life balance",
+            "Planned enhanced productivity"
+          ],
+          "tags": ["Calendar", "Time Management", "Teacher Tools", "Organization"],
+          "performance": {
+            "timeManagement": "+50%",
+            "productivity": "75%",
+            "organization": "88%"
+          }
+        },
+        "teacher-communication": {
+          "name": "Teacher Communication",
+          "subtitle": "Professional Communication Hub",
+          "description": "Streamlined communication tools for teachers, students, and parents.",
+          "features": [
+            "Multi-channel messaging system",
+            "Parent-teacher communication tools",
+            "Student feedback and announcements",
+            "Colleague collaboration features",
+            "Communication analytics and tracking"
+          ],
+          "benefits": [
+            "Projected 70% improvement in communication efficiency",
+            "Anticipated enhanced parent engagement",
+            "Expected improved student relationships",
+            "Planned streamlined collaboration"
+          ],
+          "tags": ["Communication", "Parent Engagement", "Teacher Tools", "Collaboration"],
+          "performance": {
+            "efficiency": "+70%",
+            "engagement": "85%",
+            "satisfaction": "90%"
+          }
+        },
+        "social-wall": {
+          "name": "Social Wall",
+          "subtitle": "Class Community Platform",
+          "description": "Interactive social platform for class announcements and community building.",
+          "features": [
+            "Class announcement and updates",
+            "Student achievement celebrations",
+            "Interactive discussion forums",
+            "Media sharing capabilities",
+            "Community engagement tracking"
+          ],
+          "benefits": [
+            "Projected 80% increase in class community engagement",
+            "Anticipated improved student connection",
+            "Expected enhanced class culture",
+            "Planned better information sharing"
+          ],
+          "tags": ["Social Learning", "Community", "Teacher Tools", "Engagement"],
+          "performance": {
+            "engagement": "+80%",
+            "community": "85%",
+            "participation": "78%"
+          }
+        },
+        "attendance-tracking": {
+          "name": "Attendance Tracking",
+          "subtitle": "Smart Attendance Management",
+          "description": "Efficient attendance tracking with analytics and automated reporting.",
+          "features": [
+            "Digital attendance recording",
+            "Automated attendance reports",
+            "Attendance pattern analysis",
+            "Parent notification integration",
+            "Absence trend tracking"
+          ],
+          "benefits": [
+            "Projected 90% reduction in attendance administration",
+            "Anticipated improved attendance accuracy",
+            "Expected enhanced parent communication",
+            "Planned proactive intervention support"
+          ],
+          "tags": ["Attendance", "Analytics", "Teacher Tools", "Administration"],
+          "performance": {
+            "efficiency": "+90%",
+            "accuracy": "98%",
+            "automation": "95%"
+          }
+        },
+        "learning-activities": {
+          "name": "Learning Activities",
+          "subtitle": "Interactive Learning Experiences",
+          "description": "Engaging learning activities tailored to individual student needs and preferences.",
+          "features": [
+            "Interactive learning modules",
+            "Gamified learning experiences",
+            "Progress tracking and analytics",
+            "Adaptive difficulty adjustment",
+            "Multimedia content integration"
+          ],
+          "benefits": [
+            "Projected 85% improvement in learning engagement",
+            "Anticipated enhanced knowledge retention",
+            "Expected improved academic performance",
+            "Planned personalized learning experiences"
+          ],
+          "tags": ["Learning", "Engagement", "Student Portal", "Personalization"],
+          "performance": {
+            "engagement": "+85%",
+            "retention": "80%",
+            "performance": "75%"
+          }
+        },
+        "personal-profile": {
+          "name": "Personal Profile",
+          "subtitle": "Individual Student Dashboard",
+          "description": "Personalized student profile with academic progress and achievement tracking.",
+          "features": [
+            "Academic progress visualization",
+            "Achievement and badge display",
+            "Learning goal setting and tracking",
+            "Personal learning analytics",
+            "Customizable profile interface"
+          ],
+          "benefits": [
+            "Projected 75% improvement in self-awareness",
+            "Anticipated enhanced goal achievement",
+            "Expected increased motivation",
+            "Planned better academic planning"
+          ],
+          "tags": ["Personal Development", "Student Portal", "Analytics", "Motivation"],
+          "performance": {
+            "selfAwareness": "+75%",
+            "motivation": "88%",
+            "goalAchievement": "82%"
+          }
+        },
+        "aivy-companion": {
+          "name": "Aivy Companion",
+          "subtitle": "AI Learning Companion",
+          "description": "Intelligent AI companion providing personalized learning support and guidance.",
+          "features": [
+            "Personalized learning assistance",
+            "Real-time help and support",
+            "Study recommendations and tips",
+            "Progress encouragement and motivation",
+            "Adaptive learning path suggestions"
+          ],
+          "benefits": [
+            "Projected 70% improvement in independent learning",
+            "Anticipated enhanced problem-solving skills",
+            "Expected increased confidence",
+            "Planned better learning outcomes"
+          ],
+          "tags": ["AI Companion", "Student Support", "Student Portal", "Personalization"],
+          "performance": {
+            "independence": "+70%",
+            "confidence": "85%",
+            "outcomes": "78%"
+          }
+        },
+        "student-social": {
+          "name": "Student Social",
+          "subtitle": "Peer Learning Community",
+          "description": "Safe social platform for student collaboration and peer learning experiences.",
+          "features": [
+            "Peer collaboration tools",
+            "Study group formation",
+            "Academic discussion forums",
+            "Peer tutoring matching",
+            "Social learning analytics"
+          ],
+          "benefits": [
+            "Projected 65% improvement in peer collaboration",
+            "Anticipated enhanced social learning",
+            "Expected improved communication skills",
+            "Planned stronger academic community"
+          ],
+          "tags": ["Social Learning", "Collaboration", "Student Portal", "Peer Support"],
+          "performance": {
+            "collaboration": "+65%",
+            "socialLearning": "80%",
+            "community": "75%"
+          }
+        }
+      }
+    }
+  }
+}

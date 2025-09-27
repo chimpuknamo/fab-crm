@@ -1,0 +1,271 @@
+{
+  "partnership": {
+    "title": "Development Partnership Program",
+    "subtitle": "Join the future of educational technology",
+    "hero": {
+      "alphaBadge": "Alpha Phase - Limited Development Partnerships",
+      "title": "Development",
+      "titleHighlight": "Partnership",
+      "description": "Join a select group of forward-thinking institutions shaping the future of educational technology. Co-create FabriiQ while gaining competitive advantage.",
+      "partnerCardTitle": "FabriiQ Development Partner",
+      "partnerCardSubtitle": "Co-create the future of education",
+      "valueLabel": "Partnership Value",
+      "valueText": "Priceless",
+      "valueSubtext": "Competitive advantage",
+      "badge": "Limited Partnership Positions"
+    },
+    "benefits": {
+      "strategic": {
+        "title": "Strategic Investment",
+        "subtitle": "Mutual Value Exchange",
+        "badge": "Alpha Phase"
+      },
+      "codevelopment": {
+        "title": "Co-development",
+        "subtitle": "Shape Product Roadmap",
+        "badge": "Direct Influence"
+      },
+      "earlyAccess": {
+        "title": "Early Access",
+        "subtitle": "Competitive Advantage",
+        "badge": "Competitive Edge"
+      },
+      "aivy": {
+        "title": "AIVY Access",
+        "subtitle": "Multi-Agent AI System",
+        "badge": "Exclusive"
+      },
+      "multiCampus": {
+        "title": "Multi-Campus",
+        "subtitle": "Native Architecture",
+        "badge": "Scalable"
+      },
+      "ferpa": {
+        "title": "FERPA Native",
+        "subtitle": "Privacy by Design",
+        "badge": "Compliant"
+      }
+    },
+    "coCreators": {
+      "title": "Co-Creators,",
+      "titleHighlight": "Not Customers",
+      "description": "We don't want users who accept what we build - we want partners who help us build what education truly needs. Every development partner directly influences our product roadmap, receives custom branding integration, and validates solutions in real educational environments."
+    },
+    "journey": {
+      "title": "Partnership",
+      "titleHighlight": "Journey",
+      "description": "Interactive timeline showing your path from invitation to sustained partnership"
+    },
+    "form": {
+      "header": {
+        "title": "Co-Creation Partnership",
+        "titleHighlight": "Invitation",
+        "description": "Complete partnership compatibility assessment to begin strategic evaluation process"
+      },
+      "title": "Partnership Co-Creation Assessment",
+      "subtitle": "Help us understand your institution's vision and co-development readiness",
+      "sections": {
+        "institution": "Institution Information",
+        "contact": "Strategic Contact Information",
+        "partnership": "Co-Development Partnership Details"
+      },
+      "fields": {
+        "institutionName": "Institution Name *",
+        "institutionType": "Institution Type *",
+        "campusCount": "Campus Count",
+        "studentPopulation": "Student Population",
+        "contactName": "Primary Contact Name *",
+        "email": "Email Address *",
+        "phone": "Phone Number",
+        "role": "Role/Title *",
+        "currentSystems": "Current Technology Ecosystem & Strategic Challenges",
+        "timeline": "Investment Timeline & Readiness",
+        "commitment": "Partnership Investment Commitment Level",
+        "customRequirements": "Custom Requirements & Vision"
+      },
+      "placeholders": {
+        "institutionName": "Your educational institution",
+        "institutionType": "Select institution type",
+        "campusCount": "Number of campus locations",
+        "studentPopulation": "Total student enrollment across campuses",
+        "contactName": "Executive or decision-maker name",
+        "email": "executive.email@institution.edu",
+        "phone": "International format preferred",
+        "role": "Select your role",
+        "currentSystems": "Describe your current educational technology systems, operational challenges, and strategic digital transformation goals...",
+        "timeline": "Select timeline",
+        "commitment": "Select commitment level",
+        "customRequirements": "Describe your institution's specific needs, branding requirements, and vision for educational technology innovation..."
+      },
+      "options": {
+        "institutionType": {
+          "multiCampus": "Multi-Campus Private School System",
+          "university": "University/Higher Education",
+          "international": "International Education Network",
+          "specialized": "Specialized Educational Institution",
+          "other": "Other Educational Organization"
+        },
+        "role": {
+          "ceo": "Chief Executive Officer/President",
+          "cto": "Chief Technology Officer",
+          "cao": "Chief Academic Officer",
+          "director": "Campus Director/Principal",
+          "itDirector": "IT Director",
+          "other": "Other Executive Role"
+        },
+        "timeline": {
+          "immediate": "Immediate (Ready to begin within 30 days)",
+          "shortTerm": "Short-term (Ready within 2-3 months)",
+          "mediumTerm": "Medium-term (Ready within 4-6 months)",
+          "strategic": "Strategic planning (6+ months evaluation period)"
+        },
+        "commitment": {
+          "full": "Full Strategic Partnership (Complete co-development participation)",
+          "focused": "Focused Partnership (Specific areas of collaboration)",
+          "evaluation": "Evaluation Partnership (Assessment phase with potential expansion)"
+        }
+      },
+      "submit": "Submit Partnership Co-Creation Assessment",
+      "disclaimer": "By submitting, you express interest in strategic co-development partnership and agree to participate in mutual evaluation process for Alpha phase collaboration.",
+      "success": {
+        "title": "Partnership Assessment Submitted!",
+        "message": "We've received your comprehensive partnership assessment. Our development team will review your submission and contact you within 48 hours to discuss strategic compatibility and next steps.",
+        "another": "Submit Another Assessment"
+      }
+    }
+  },
+  "partnership_extended": {
+    "timeline": {
+      "steps": {
+        "discovery": {
+          "title": "Invitation & Discovery",
+          "description": "Institutional needs assessment and strategic compatibility evaluation"
+        },
+        "selection": {
+          "title": "Mutual Selection",
+          "description": "Partnership Charter signing and resource commitment formalization"
+        },
+        "pilot": {
+          "title": "Pilot Implementation",
+          "description": "Core system deployment with dedicated support and custom branding integration"
+        },
+        "partnership": {
+          "title": "Full Partnership",
+          "description": "Complete platform access with co-development rights and workflow customization"
+        },
+        "sustained": {
+          "title": "Beyond Alpha - Sustained Partnership",
+          "description": "Preferential terms, continued innovation access, and legacy recognition as founding partner"
+        }
+      }
+    },
+    "investment": {
+      "title": "Balanced",
+      "titleHighlight": "Investment Framework",
+      "description": "A strategic partnership where both institutions and FabriiQ invest meaningfully for mutual success",
+      "institutions": {
+        "title": "For Educational Institutions",
+        "subtitle": "Strategic investment in deployment and expertise sharing",
+        "benefits": {
+          "custom_features": "Custom feature development aligned with institutional workflows",
+          "competitive_advantage": {
+            "title": "Competitive advantage over market alternatives",
+            "description": "Gain strategic market positioning through early access to cutting-edge educational technology solutions."
+          },
+          "influence_roadmap": "Direct influence on product roadmap and development priorities",
+          "custom_branding": "Custom branding and institutional identity integration",
+          "thought_leadership": "Thought leadership recognition in educational technology innovation",
+          "preferential_pricing": "Preferential post-Alpha pricing and sustained partnership terms"
+        }
+      },
+      "fabriiq": {
+        "title": "For FabriiQ Development",
+        "subtitle": "Investment in dedicated co-development resources and priority support",
+        "benefits": {
+          "validation": "Real-world validation in authentic educational environments",
+          "user_input": "User-centered design input from actual educators and administrators",
+          "quality_assurance": "Quality assurance through comprehensive multi-institutional testing",
+          "use_case_refinement": "Use case refinement and workflow optimization insights",
+          "market_validation": "Market validation and proof of concept development",
+          "success_stories": "Success story documentation and case study creation"
+        }
+      }
+    },
+    "idealPartner": {
+      "title": "Ideal",
+      "titleHighlight": "Partner Profile",
+      "description": "We seek institutions ready for strategic co-development partnership",
+      "institutional": {
+        "title": "Institutional Characteristics",
+        "items": {
+          "multi_campus": "Multi-campus educational organizations with complex operational needs",
+          "progressive_leadership": "Progressive leadership committed to comprehensive digital transformation",
+          "technology_readiness": "Technology readiness with dedicated IT resources and implementation capacity",
+          "collaborative_culture": "Collaborative culture willing to participate in iterative co-development",
+          "financial_readiness": "Financial readiness to invest in deployment and infrastructure costs"
+        }
+      },
+      "partnership_requirements": {
+        "title": "Partnership Requirements",
+        "items": {
+          "csuite_commitment": "C-suite commitment to platform adoption and organizational change management",
+          "staff_allocation": "Dedicated staff allocation (10-15 hours monthly) for co-development participation",
+          "investment_deployment": "Investment in deployment costs, training, and infrastructure requirements",
+          "reference_willingness": "Willingness to serve as reference and thought leadership case study",
+          "research_participation": "Participation in user research, feedback sessions, and product validation"
+        }
+      }
+    },
+    "charter": {
+      "title": "Partnership Charter",
+      "titleHighlight": "Commitments",
+      "institution": {
+        "title": "Your Institution Commits To:",
+        "items": {
+          "cover_deployment": "Cover deployment, infrastructure, and training investment",
+          "allocate_staff": "Allocate dedicated staff time for partnership activities",
+          "participate_feedback": "Participate in monthly feedback sessions and quarterly strategy workshops",
+          "provide_assessment": "Provide honest assessment and constructive development guidance",
+          "maintain_confidentiality": "Maintain confidentiality regarding Alpha features and development roadmap"
+        }
+      },
+      "fabriiq": {
+        "title": "FabriiQ Commits To:",
+        "items": {
+          "provide_access": "Provide dedicated Alpha co-development access and priority feature development",
+          "deliver_branding": "Deliver custom branding integration and workflow personalization",
+          "maintain_communication": "Maintain transparent communication about development progress and timelines",
+          "honor_terms": "Honor preferential post-Alpha partnership terms and pricing",
+          "recognize_institution": "Recognize your institution as founding development partner with thought leadership opportunities"
+        }
+      }
+    },
+    "beyondAlpha": {
+      "title": "Beyond Alpha:",
+      "titleHighlight": "Sustained Partnership Value",
+      "description": "The Alpha Development Partnership establishes the foundation for long-term strategic advantage",
+      "benefits": {
+        "preferential_terms": {
+          "title": "Preferential Partnership Terms",
+          "description": "Founding partners retain advantageous pricing and priority access compared to future adopters"
+        },
+        "innovation_leadership": {
+          "title": "Continued Innovation Leadership",
+          "description": "First access to new features, platform enhancements, and strategic developments"
+        },
+        "legacy_advantage": {
+          "title": "Legacy Advantage",
+          "description": "Your institutional workflows and branding remain deeply integrated in platform evolution"
+        },
+        "thought_leadership": {
+          "title": "Thought Leadership Recognition",
+          "description": "Showcased as founding contributor to educational technology transformation"
+        }
+      }
+    },
+    "intelligence": {
+      "title": "Educational Intelligence Platform",
+      "description": "The technology foundation powering next-generation education"
+    }
+  }
+}

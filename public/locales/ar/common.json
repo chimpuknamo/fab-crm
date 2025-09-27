@@ -1,0 +1,26 @@
+{
+  "common": {
+    "loading": "جاري التحميل...",
+    "error": "خطأ",
+    "success": "نجاح",
+    "welcome": "مرحبا",
+    "home": "الرئيسية",
+    "back": "عودة",
+    "next": "التالي",
+    "previous": "السابق",
+    "save": "حفظ",
+    "cancel": "إلغاء",
+    "close": "إغلاق",
+    "search": "بحث",
+    "submit": "إرسال",
+    "edit": "تعديل",
+    "delete": "حذف",
+    "view": "عرض",
+    "add": "إضافة",
+    "complete": "مكتمل",
+    "in_progress": "قيد التنفيذ",
+    "starting": "بداية",
+    "ready": "جاهز",
+    "email_placeholder": "أدخل عنوان البريد الإلكتروني"
+  }
+}

@@ -1,0 +1,1478 @@
+{
+  "_version": "2025-01-22-v2",
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "welcome": "Welcome",
+    "home": "Home",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "save": "Save",
+    "cancel": "Cancel",
+    "close": "Close",
+    "search": "Search",
+    "submit": "Submit",
+    "edit": "Edit",
+    "delete": "Delete",
+    "view": "View",
+    "add": "Add",
+    "complete": "Complete",
+    "in_progress": "In Progress",
+    "starting": "Starting",
+    "ready": "Ready"
+  },
+  "navigation": {
+    "capabilities": "Capabilities",
+    "platform": "Platform",
+    "partnership": "Partnership",
+    "support": "Support",
+    "about": "About",
+    "process": "Process",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "contact": "Contact",
+    "corporate_login": "Corporate Login",
+    "projects": "Projects"
+  },
+  "cta": {
+    "lets_cocreate": "Let's co-create",
+    "cocreate_short": "Co-create",
+    "cocreate_letter": "C",
+    "partnership_application": "Partnership Application",
+    "learn_more": "Learn More",
+    "get_started": "Get Started",
+    "contact_us": "Contact Us",
+    "view_details": "View Details",
+    "read_more": "Read More",
+    "download": "Download",
+    "subscribe": "Subscribe",
+    "schedule": "Schedule",
+    "connect": "Connect",
+    "explore_core_capabilities": "Explore Core Capabilities",
+    "become_development_partner": "Become a Development Partner"
+  },
+  "hero": {
+    "title": "FabriiQ - The First School Operating System",
+    "subtitle": "Educational Intelligence Platform",
+    "description": "Transforming education through AI-powered multi-agent systems and comprehensive school management.",
+    "cta_primary": "Get Started",
+    "cta_secondary": "Learn More",
+    "watch_demo": "Watch Demo",
+    "typing": {
+      "base_text": "The first comprehensive ",
+      "school_os": "School Operating System",
+      "educational_intelligence": "educational intelligence",
+      "unified_platform": "unified platform"
+    },
+    "alpha_status": "Alpha Development Phase - Partnership Opportunities Available",
+    "description_detailed": "One platform. All operations. Purpose-built for education."
+  },
+  "capabilities": {
+    "title": "Core Capabilities",
+    "subtitle": "Comprehensive Education Solutions",
+    "description": "Advanced features designed specifically for modern educational environments",
+    "aivy": {
+      "title": "AIVY Multi-Agent System",
+      "subtitle": "Purpose-Built Educational AI",
+      "description": "Transform educational workflows with specialized agents designed specifically for learning environments. Student Companion, Teacher Assistant, Content Generation, Assessment Intelligence, and Compliance Monitoring - all working together seamlessly.",
+      "features": {
+        "personalized_support": "Personalized learning support",
+        "lesson_planning": "Intelligent lesson planning",
+        "content_creation": "Automated content creation",
+        "analytics_insights": "Real-time analytics insights"
+      },
+      "stats": {
+        "time_saved": "Teacher Time Saved",
+        "engagement": "Student Engagement",
+        "accuracy": "Assessment Accuracy"
+      }
+    },
+    "operations": {
+      "title": "Unified Operations Hub",
+      "subtitle": "Complete Institutional Management",
+      "description": "Replace fragmented systems with one comprehensive platform managing enrollment, finances, attendance, and analytics. Native multi-campus architecture with centralized governance and campus autonomy.",
+      "features": {
+        "enrollment_workflows": "Automated enrollment workflows",
+        "financial_management": "Multi-currency financial management",
+        "attendance_analytics": "Predictive attendance analytics",
+        "reporting_dashboards": "Real-time reporting dashboards"
+      },
+      "stats": {
+        "admin_reduction": "Admin Time Reduction",
+        "data_accuracy": "Data Accuracy",
+        "system_uptime": "System Uptime"
+      }
+    },
+    "pedagogy": {
+      "title": "Bloom's Taxonomy Integration",
+      "subtitle": "Pedagogically Intelligent Learning",
+      "description": "Move beyond grades to genuine understanding with integrated Bloom's Taxonomy analytics. Track cognitive development from Remember to Create with real-time mastery measurement and intervention triggers.",
+      "features": {
+        "cognitive_classification": "Automatic cognitive level classification",
+        "mastery_tracking": "Real-time mastery tracking",
+        "progression_analytics": "Learning progression analytics",
+        "intervention_engine": "Intervention recommendation engine"
+      },
+      "stats": {
+        "outcome_improvement": "Learning Outcome Improvement",
+        "teacher_satisfaction": "Teacher Satisfaction",
+        "faster_mastery": "Faster Mastery"
+      }
+    },
+    "gamification": {
+      "title": "Gamification & Social Learning",
+      "subtitle": "Engagement Through Achievement",
+      "description": "Transform learning into an engaging journey with comprehensive achievement systems, social learning walls, and intelligent motivation engines that adapt to individual student needs.",
+      "features": {
+        "point_systems": "Multi-source point systems",
+        "achievement_levels": "Progressive achievement levels",
+        "social_collaboration": "Class social collaboration",
+        "motivation_triggers": "Personalized motivation triggers"
+      },
+      "stats": {
+        "engagement_increase": "Engagement Increase",
+        "assignment_completion": "Assignment Completion",
+        "student_satisfaction": "Student Satisfaction"
+      }
+    },
+    "offline": {
+      "title": "Offline-First Architecture",
+      "subtitle": "Learning Never Stops",
+      "description": "Complete educational functionality without internet dependency. Teachers grade, students learn, coordinators manage - all offline. Intelligent synchronization when connectivity returns with conflict resolution.",
+      "features": {
+        "offline_functionality": "Complete offline functionality",
+        "data_synchronization": "Intelligent data synchronization",
+        "conflict_resolution": "Conflict resolution automation",
+        "pwa_capabilities": "Progressive web app capabilities"
+      },
+      "stats": {
+        "offline_coverage": "Offline Functionality",
+        "sync_accuracy": "Sync Accuracy",
+        "continuous_operation": "Continuous Operation"
+      }
+    },
+    "privacy": {
+      "title": "Privacy & Compliance Excellence",
+      "subtitle": "FERPA-Native Architecture",
+      "description": "Privacy-by-design architecture with automated compliance monitoring, intelligent risk assessment, and comprehensive audit trails. Built-in protection, not retrofitted security.",
+      "features": {
+        "ferpa_compliance": "Automated FERPA compliance",
+        "privacy_protection": "AI-powered privacy protection",
+        "audit_trails": "Comprehensive audit trails",
+        "risk_assessment": "Risk assessment automation"
+      },
+      "stats": {
+        "compliance_rate": "FERPA Compliance",
+        "data_protection": "Data Protection",
+        "security_incidents": "Security Incidents"
+      }
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Comprehensive Solutions",
+    "description": "Comprehensive solutions for modern education",
+    "ai_management": "AI Management",
+    "student_tracking": "Student Tracking",
+    "analytics": "Analytics & Reports",
+    "communication": "Communication Tools",
+    "enrollment": "Enrollment Management",
+    "assessment": "Assessment Tools",
+    "reporting": "Advanced Reporting",
+    "integration": "System Integration"
+  },
+  "contact": {
+    "title": "Connect",
+    "subtitle": "Get in Touch",
+    "description": "Interested in discussing security solutions or professional collaboration? Reach out through any of the channels below.",
+    "links": {
+      "github": {
+        "name": "GitHub",
+        "description": "View projects and contributions"
+      },
+      "email": {
+        "name": "Email",
+        "description": "Direct contact for inquiries"
+      },
+      "telegram": {
+        "name": "Telegram",
+        "description": "Secure messaging platform"
+      },
+      "linkedin": {
+        "name": "LinkedIn",
+        "description": "Professional profile and network"
+      }
+    },
+    "confidentiality_note": "All communications are encrypted and handled with the highest level of confidentiality."
+  },
+  "forms": {
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "phone": "Phone",
+    "company": "Company",
+    "subject": "Subject",
+    "submit": "Submit",
+    "required": "Required",
+    "invalid_email": "Invalid email address",
+    "success_message": "Thank you for your message. We'll get back to you soon!",
+    "error_message": "Something went wrong. Please try again.",
+    "validation": {
+      "required": "This field is required",
+      "email_invalid": "Please enter a valid email address",
+      "phone_invalid": "Please enter a valid phone number",
+      "min_length": "Minimum {count} characters required",
+      "max_length": "Maximum {count} characters allowed"
+    }
+  },
+  "footer": {
+    "powered_by": "Powered by FabriiQ",
+    "rights": "All rights reserved",
+    "phone": "Phone",
+    "address": "Address",
+    "linkedin": "LinkedIn",
+    "platform": {
+      "title": "Platform",
+      "capabilities": "Capabilities",
+      "about": "About",
+      "process": "Process"
+    },
+    "partnership": {
+      "title": "Partnership",
+      "apply": "Apply for Partnership",
+      "contact": "Contact Us"
+    },
+    "newsletter": {
+      "title": "Stay Updated",
+      "description": "Subscribe to our newsletter for the latest updates",
+      "placeholder": "Enter your email",
+      "subscribe": "Subscribe"
+    }
+  },
+  "status": {
+    "active": "Active",
+    "beta": "Beta",
+    "development": "In Development",
+    "coming_soon": "Coming Soon",
+    "maintenance": "Maintenance"
+  },
+  "errors": {
+    "page_not_found": "Page Not Found",
+    "server_error": "Server Error",
+    "network_error": "Network Error",
+    "try_again": "Try Again",
+    "go_home": "Go Home",
+    "contact_support": "Contact Support",
+    "form_validation": {
+      "required_field": "This field is required",
+      "invalid_email": "Please enter a valid email address",
+      "invalid_phone": "Please enter a valid phone number",
+      "min_length": "Minimum {min} characters required",
+      "max_length": "Maximum {max} characters allowed",
+      "invalid_format": "Invalid format",
+      "passwords_dont_match": "Passwords don't match",
+      "invalid_url": "Please enter a valid URL",
+      "file_too_large": "File size too large. Maximum {size} allowed",
+      "invalid_file_type": "Invalid file type. Only {types} are allowed"
+    },
+    "api": {
+      "connection_failed": "Connection failed. Please check your internet connection.",
+      "timeout": "Request timeout. Please try again.",
+      "unauthorized": "You are not authorized to perform this action.",
+      "forbidden": "Access denied. You don't have permission to access this resource.",
+      "not_found": "The requested resource was not found.",
+      "conflict": "There was a conflict with your request. Please check and try again.",
+      "validation_failed": "Validation failed. Please check your input.",
+      "server_unavailable": "Server is temporarily unavailable. Please try again later.",
+      "rate_limit_exceeded": "Too many requests. Please wait before trying again.",
+      "unknown_error": "An unexpected error occurred. Please try again."
+    },
+    "rtl": {
+      "text_direction_error": "Text direction issue detected. Please refresh the page.",
+      "language_load_failed": "Failed to load language resources. Please refresh the page."
+    }
+  },
+  "auth": {
+    "login": "Login",
+    "logout": "Logout",
+    "register": "Register",
+    "forgot_password": "Forgot Password",
+    "reset_password": "Reset Password",
+    "profile": "Profile",
+    "settings": "Settings",
+    "email_placeholder": "Your email",
+    "thanks_subscribing": "Thanks for subscribing!",
+    "complete": "Complete",
+    "in_progress": "In Progress",
+    "starting": "Starting",
+    "ready": "Ready"
+  },
+  "metadata": {
+    "home": {
+      "title": "FabriiQ - Educational Technology Platform",
+      "description": "Transform your educational institution with FabriiQ's comprehensive School Operating System. AI-powered, multi-campus ready, and designed for modern educational excellence."
+    },
+    "about": {
+      "title": "About FabriiQ - Our Story & Mission",
+      "description": "Learn about FabriiQ's journey to revolutionize educational technology. Eight years of experience led us to create the first comprehensive School Operating System."
+    },
+    "contact": {
+      "title": "Contact FabriiQ - Get in Touch",
+      "description": "Contact FabriiQ's team for educational technology solutions. Chat with our AI assistant or reach out directly for partnership opportunities."
+    },
+    "support": {
+      "title": "FabriiQ Support - Get Instant Help",
+      "description": "Get immediate support for FabriiQ's educational platform. AI-powered assistance and comprehensive FAQ for all your questions."
+    }
+  },
+  "pages": {
+    "about": {
+      "title": "About FabriiQ",
+      "hero": {
+        "badge": "Our Story",
+        "title": "Revolutionizing Educational Technology",
+        "subtitle": "Eight years of educational technology experience led us to one realization: institutions need a School Operating System, not another fragmented tool."
+      },
+      "mission": {
+        "title": "Our Mission",
+        "description": "To eliminate the complexity and fragmentation that prevents educational institutions from reaching their full potential by providing the first comprehensive School Operating System designed specifically for modern educational excellence."
+      },
+      "vision": {
+        "title": "Our Vision",
+        "description": "A world where every educational institution has unified, intelligent, and intuitive technology that empowers educators, engages students, and enables institutional growth."
+      },
+      "origin_story": {
+        "title": "The FabriiQ Origin Story",
+        "subtitle": "How eight years of experience revealed the true problem",
+        "problem": {
+          "title": "The Problem We Discovered",
+          "description_1": "For eight years, we've been deeply embedded in the educational technology landscape, working with institutions across different scales and contexts. What started as enthusiasm for \"improving education through technology\" gradually revealed a troubling pattern.",
+          "description_2": "We watched institutions struggle with 3-7 different systems that couldn't communicate. Student information lived in one place, learning management in another, financial data in a third, and communication scattered across multiple platforms."
+        },
+        "revelation": {
+          "title": "The Revelation",
+          "description_1": "The breakthrough came when we realized we were asking the wrong question. Instead of \"How can we build a better LMS?\" we should have been asking: \"Why are educational institutions forced to operate like a collection of disconnected departments?\"",
+          "description_2": "No one was thinking about education as a complete, integrated ecosystem."
+        },
+        "solution": {
+          "title": "Our Solution Philosophy",
+          "description": "Rather than building another tool to add to the institutional technology stack, we designed something fundamentally different: the first comprehensive School Operating System.",
+          "features": {
+            "not_lms": {
+              "title": "Not an LMS Plus",
+              "description": "We started with the complete institutional mission"
+            },
+            "ai_native": {
+              "title": "AI-Native Architecture",
+              "description": "Built for educational relationships from the ground up"
+            },
+            "multi_campus": {
+              "title": "Multi-Campus First",
+              "description": "Designed for complexity from day one"
+            }
+          }
+        }
+      },
+      "development_philosophy": {
+        "title": "Partnership Over Product",
+        "subtitle": "Why we chose collaborative development",
+        "alpha_development": {
+          "title": "Alpha Phase Development",
+          "description": "Most educational technology is built in boardrooms by people who haven't been in a classroom in years. We believe the best educational technology emerges from genuine collaboration with educators."
+        },
+        "transparency": {
+          "title": "Transparency Promise",
+          "description": "We clearly communicate what works today versus what we're building tomorrow. No overselling. No false timelines. No hidden limitations."
+        }
+      },
+      "alpha_journey": {
+        "badge": "Current Status",
+        "title": "One Year Journey to Alpha",
+        "subtitle": "From concept to operational School Operating System",
+        "milestones": {
+          "core_systems": {
+            "title": "Core Systems Operational",
+            "description": "All essential institutional operations function reliably"
+          },
+          "ai_features": {
+            "title": "AI Features Active",
+            "description": "AIVY agents provide intelligent assistance across the platform"
+          },
+          "multi_campus": {
+            "title": "Multi-Campus Proven",
+            "description": "Successfully managing complex institutional hierarchies"
+          }
+        }
+      },
+      "school_os": {
+        "title": "Why \"School Operating System\"?",
+        "description": "Like computer operating systems manage hardware resources and enable applications, educational operating systems should manage institutional resources and enable educational excellence.",
+        "features": {
+          "unified_data": {
+            "title": "Unified Data Model",
+            "description": "All institutional information connected"
+          },
+          "intelligent_automation": {
+            "title": "Intelligent Automation",
+            "description": "Humans focus on education"
+          },
+          "extensible_architecture": {
+            "title": "Extensible Architecture",
+            "description": "Platform grows with needs"
+          },
+          "resource_optimization": {
+            "title": "Resource Optimization",
+            "description": "Efficient use of time and resources"
+          }
+        }
+      },
+      "partnership_invitation": {
+        "title": "Partnership Invitation",
+        "description": "We're not looking for customers - we're looking for co-creators. Educational institutions who understand that the future of education requires unified, intelligent technology.",
+        "limited_positions": {
+          "title": "Limited Partnership Positions Available",
+          "description": "We're accepting a maximum of 12 development partners to ensure meaningful collaboration and comprehensive customization for each institution."
+        },
+        "cta": {
+          "explore": "Explore Partnership",
+          "contact": "Contact Us"
+        },
+        "footer_text": "The future of educational technology isn't about better tools - it's about unified intelligence that empowers educational excellence."
+      }
+    },
+    "capabilities": {
+      "title": "Platform Capabilities",
+      "description": "Explore FabriiQ's comprehensive educational technology capabilities designed for modern institutions.",
+      "search_placeholder": "Search capabilities...",
+      "filters": {
+        "all": "All Capabilities",
+        "system_admin": "System Admin Portal",
+        "teacher": "Teacher Portal",
+        "student": "Student Portal"
+      },
+      "select_capability": "Select a Capability",
+      "select_capability_desc": "Choose a capability from the list to view detailed information and demos.",
+      "interactive_demo": "Interactive Demo",
+      "interactive_demos": "Interactive Demos",
+      "key_features": "Key Features",
+      "expected_benefits": "Expected Benefits (Alpha Phase)",
+      "alpha_performance": "Alpha Performance Expectations",
+      "tags": "Tags"
+    },
+    "contact": {
+      "title": "Get in Touch",
+      "subtitle": "Chat with our AI assistant or reach out directly. We're here to help transform your ideas into reality.",
+      "ai_assistant": {
+        "title": "FabriiQ AI Assistant",
+        "status": "Online • Responds instantly",
+        "initial_message": "Hello! I'm FabriiQ's AI assistant. How can I help you with your project today?",
+        "typing_indicator": "AI is thinking...",
+        "placeholder": "Type your message..."
+      },
+      "contact_methods": {
+        "title": "Contact Methods",
+        "email": {
+          "title": "Email",
+          "value": "hello@fabriiq.com",
+          "description": "Send us an email anytime"
+        },
+        "phone": {
+          "title": "Phone",
+          "value": "+1 (555) 123-4567",
+          "description": "Mon-Fri from 8am to 6pm PST"
+        },
+        "office": {
+          "title": "Office",
+          "value": "San Francisco, CA",
+          "description": "Come say hello at our HQ"
+        },
+        "response_time": {
+          "title": "Response Time",
+          "value": "< 24 hours",
+          "description": "We'll get back to you quickly"
+        }
+      },
+      "follow_us": "Follow Us"
+    },
+    "support": {
+      "title": "Get Instant Help",
+      "subtitle": "Chat with our AI assistant for immediate support, or browse our comprehensive FAQ section for quick answers about FabriiQ's educational platform.",
+      "ai_support": {
+        "badge": "AI-Powered Support",
+        "assistant_title": "FabriiQ Support Assistant",
+        "status": "Online",
+        "initial_message": "Hello! I'm your AI support assistant. How can I help you today?",
+        "placeholder": "Ask about FabriiQ's capabilities, partnership program, or technical details..."
+      },
+      "faq": {
+        "title": "Frequently Asked Questions",
+        "subtitle": "Key questions about FabriiQ's educational platform and development partnership program.",
+        "questions": {
+          "lms_difference": {
+            "question": "What makes FabriiQ different from traditional Learning Management Systems (LMS)?",
+            "answer": "FabriiQ is a comprehensive School Operating System, not just an LMS. While traditional LMS platforms focus primarily on course delivery and basic student management, FabriiQ unifies all institutional operations - enrollment management, financial systems, attendance tracking, communications, and advanced learning analytics - into one intelligent platform. We're designed specifically for multi-campus educational institutions with built-in AI agents (AIVY) and Bloom's Taxonomy integration from the ground up, not as add-on features."
+          },
+          "alpha_phase": {
+            "question": "What does \"Alpha Phase\" mean for my institution?",
+            "answer": "Alpha Phase means our core systems are operational and being used by development partners, but we're still refining features based on real-world feedback. All essential institutional functions work reliably - enrollment, fee management, attendance, grading, and communications. However, some advanced features are still being optimized. Alpha partners get full platform access, custom configuration, and direct influence over development priorities. We're transparent about what's ready now versus what's coming in Beta phase."
+          },
+          "partnership_program": {
+            "question": "How does the Development Partnership program work?",
+            "answer": "Development partners are co-creators, not customers. You get early access to the full platform, custom configuration for your institution's needs, and no upfront licensing costs during the development phase. In exchange, you provide feedback, participate in testing, and help us refine features based on real educational workflows. We limit partnerships to 12 institutions to ensure meaningful collaboration. The partnership includes staff training, data migration support, and ongoing platform evolution based on your institution's growth."
+          },
+          "ferpa_compliance": {
+            "question": "Is FabriiQ compliant with educational privacy regulations like FERPA?",
+            "answer": "Yes, FERPA compliance is built into our platform architecture, not added afterward. We use a privacy-by-design approach with automated compliance monitoring, comprehensive audit trails, and AI-powered content classification to identify potential privacy risks. All educational records are protected with appropriate access controls, and we maintain detailed logs of all data access and disclosures as required by FERPA regulations."
+          },
+          "multi_campus": {
+            "question": "Can FabriiQ handle multi-campus institutions with different programs and policies?",
+            "answer": "Multi-campus operations are core to FabriiQ's design. We support complex institutional hierarchies (Institution → Campus → Program → Class) with centralized policy management and campus-level implementation flexibility. Each campus can have specific fee structures, academic calendars, and operational procedures while maintaining unified reporting and cross-campus analytics. Our system handles everything from small satellite campuses to large multi-location institutions."
+          },
+          "aivy_system": {
+            "question": "How does the AIVY Multi-Agent System work, and is it safe for educational use?",
+            "answer": "AIVY consists of specialized AI agents designed specifically for education: Student Companion Agents for personalized learning support, Teacher Assistant Agents for curriculum help, Content Generation Agents for educational materials, Analytics Agents for insights, and Safety & Compliance Agents for monitoring. All agents operate within strict educational guidelines, maintain student privacy, and include safety mechanisms. Teachers and administrators retain full control over AI recommendations and can override any automated decisions."
+          },
+          "data_migration": {
+            "question": "What happens to our existing data and systems when we implement FabriiQ?",
+            "answer": "We provide comprehensive data migration support as part of the development partnership. Our team works with you to map existing data structures, migrate historical records, and ensure continuity of operations. FabriiQ can integrate with many existing systems, and we provide tools for exporting data if needed. During the transition period, we support parallel operations to minimize disruption to your educational processes."
+          },
+          "long_term_costs": {
+            "question": "What are the long-term costs and commitment requirements?",
+            "answer": "During the Alpha development partnership phase, there are no licensing fees - the partnership covers initial deployment, customization, and training. Long-term pricing will be announced before Beta phase launch, with development partners receiving significant discounts and grandfathered benefits. The partnership requires dedicated staff time for training and feedback sessions (approximately 4-6 hours per week initially), commitment to the collaborative development process, and willingness to serve as a reference for other educational institutions. We believe in building long-term relationships, not short-term transactions."
+          }
+        }
+      }
+    },
+    "process": {
+      "title": "Co-Creating the Future of",
+      "titleHighlight": "Educational Technology",
+      "subtitle": "A collaborative methodology that transforms educational institutions through partnership-driven innovation, transparency, and co-creation.",
+      "badge": "Development Partnership Process",
+      "steps": {
+        "discovery": {
+          "title": "Discovery & Institutional Alignment",
+          "duration": "2-4 weeks",
+          "description": "We dive deep into understanding your institution's unique challenges, educational mission, and technology requirements.",
+          "activities": [
+            "Institutional stakeholder interviews across all levels",
+            "Current system analysis and pain point identification",
+            "Educational workflow mapping and process documentation",
+            "Multi-campus coordination requirements assessment",
+            "Compliance and privacy requirement evaluation"
+          ],
+          "deliverables": [
+            "Comprehensive institutional assessment report",
+            "Custom FabriiQ configuration recommendations",
+            "Partnership agreement and collaboration framework",
+            "Implementation timeline with milestone definitions",
+            "Success metrics and measurement criteria"
+          ]
+        },
+        "configuration": {
+          "title": "Alpha Platform Configuration & Customization",
+          "duration": "3-4 weeks",
+          "description": "Configuring FabriiQ's Alpha platform to match your institution's specific workflows and requirements.",
+          "activities": [
+            "Multi-campus hierarchy setup and role configuration",
+            "Educational data model customization and mapping",
+            "Workflow automation design and implementation",
+            "User interface customization and branding",
+            "Integration planning with existing systems"
+          ],
+          "deliverables": [
+            "Fully configured FabriiQ platform instance",
+            "Custom workflow documentation",
+            "User role and permission structure",
+            "Integration roadmap and specifications",
+            "Training material customization"
+          ]
+        },
+        "pilot": {
+          "title": "Pilot Implementation & Staff Onboarding",
+          "duration": "4-6 weeks",
+          "description": "Deploying the platform with selected user groups and comprehensive staff training programs.",
+          "activities": [
+            "Pilot user group selection and onboarding",
+            "Comprehensive staff training across all user roles",
+            "Data migration from existing systems",
+            "Workflow implementation and process refinement",
+            "Initial feedback collection and platform adjustment"
+          ],
+          "deliverables": [
+            "Live pilot platform deployment",
+            "Trained administrative and teaching staff",
+            "Migrated historical data and records",
+            "Refined workflow documentation",
+            "Initial performance metrics and feedback report"
+          ]
+        },
+        "refinement": {
+          "title": "Feedback Integration & Platform Refinement",
+          "duration": "2-3 weeks",
+          "description": "Incorporating your feedback to refine features, improve workflows, and enhance the educational experience.",
+          "activities": [
+            "User feedback analysis and categorization",
+            "Platform feature refinement and enhancement",
+            "Workflow optimization based on real usage",
+            "Performance monitoring and optimization",
+            "Educational outcome measurement and analysis"
+          ],
+          "deliverables": [
+            "Enhanced platform with integrated feedback",
+            "Optimized educational workflows",
+            "Performance improvement documentation",
+            "Feature enhancement roadmap",
+            "Educational impact assessment"
+          ]
+        },
+        "deployment": {
+          "title": "Full Campus Deployment",
+          "duration": "4-8 weeks",
+          "description": "Rolling out the refined platform across your entire institution with comprehensive support.",
+          "activities": [
+            "Institution-wide user onboarding and training",
+            "Complete data migration and system integration",
+            "Multi-campus coordination and synchronization",
+            "Comprehensive monitoring and support setup",
+            "Success metric tracking and optimization"
+          ],
+          "deliverables": [
+            "Fully operational institutional platform",
+            "Complete staff training and certification",
+            "Integrated multi-campus operations",
+            "Comprehensive monitoring dashboards",
+            "Launch success validation report"
+          ]
+        },
+        "partnership": {
+          "title": "Ongoing Partnership & Co-Development",
+          "duration": "Ongoing",
+          "description": "Continuous collaboration to evolve FabriiQ based on your institution's growth and changing needs.",
+          "activities": [
+            "Regular partnership review meetings and strategic planning",
+            "Feature co-development based on institutional needs",
+            "Educational outcome analysis and optimization",
+            "Platform evolution and enhancement planning",
+            "Best practice sharing and case study development"
+          ],
+          "deliverables": [
+            "Monthly partnership performance reports",
+            "Quarterly feature development roadmap",
+            "Educational outcome improvement documentation",
+            "Platform evolution and enhancement delivery",
+            "Thought leadership and case study contributions"
+          ]
+        }
+      }
+    },
+    "projects": {
+      "title": "Platform Capabilities",
+      "subtitle": "Comprehensive features designed for modern educational institutions",
+      "search_placeholder": "Search capabilities...",
+      "filters": {
+        "all": "All Capabilities",
+        "system_admin": "System Admin Portal",
+        "teacher_portal": "Teacher Portal",
+        "student_portal": "Student Portal"
+      },
+      "status": {
+        "alpha": "Alpha Stage",
+        "beta": "Beta Stage",
+        "development": "In Development",
+        "coming_soon": "Coming Soon"
+      },
+      "performance_metrics": {
+        "coordination": "Coordination",
+        "time_reduction": "Time Reduction",
+        "accuracy": "Accuracy",
+        "efficiency": "Efficiency"
+      },
+      "capabilities": {
+        "academic-calendar": {
+          "name": "Academic Calendar Management",
+          "subtitle": "Unified Multi-Campus Scheduling",
+          "description": "Centralize academic planning across multiple campuses with intelligent conflict detection and automated synchronization.",
+          "features": [
+            "Multi-campus calendar coordination",
+            "Academic event management (exams, orientations, graduations)",
+            "Holiday management with automatic exclusions",
+            "Resource scheduling with conflict detection",
+            "Real-time synchronization across all campuses"
+          ],
+          "benefits": [
+            "Projected 60% reduction in scheduling conflicts",
+            "Anticipated streamlined multi-campus coordination",
+            "Expected improved resource utilization",
+            "Planned automated compliance tracking"
+          ],
+          "tags": ["Multi-Campus", "Scheduling", "Academic Planning", "Conflict Management"],
+          "performance": {
+            "coordination": "+60%",
+            "timeReduction": "40%",
+            "accuracy": "95%"
+          }
+        },
+        "enrollment-management": {
+          "name": "Enrollment Management System",
+          "subtitle": "Intelligent Student Lifecycle Management",
+          "description": "Automate student enrollment processes with intelligent validation and comprehensive tracking across institutional hierarchy.",
+          "features": [
+            "Single and bulk enrollment processing",
+            "Automated status management (ACTIVE, PENDING, COMPLETED, WITHDRAWN)",
+            "CSV import with real-time validation",
+            "Multi-campus enrollment analytics",
+            "Predictive enrollment forecasting"
+          ],
+          "benefits": [
+            "Projected 75% reduction in manual enrollment tasks",
+            "Anticipated real-time enrollment visibility",
+            "Expected automated profile creation accuracy",
+            "Planned cross-campus insights"
+          ],
+          "tags": ["Student Management", "Automation", "Multi-Campus", "Data Analytics"],
+          "performance": {
+            "efficiency": "+75%",
+            "timeReduction": "65%",
+            "accuracy": "98%"
+          }
+        },
+        "fee-management": {
+          "name": "Comprehensive Fee Management",
+          "subtitle": "Financial Operations Automation",
+          "description": "Streamline financial operations with automated fee structures, payment processing, and multi-currency support.",
+          "features": [
+            "Flexible fee structure management",
+            "Automated challan and invoice generation",
+            "Multi-payment method support",
+            "Late fee automation with policy rules",
+            "Financial reporting and analytics"
+          ],
+          "benefits": [
+            "Projected 80% reduction in manual financial tasks",
+            "Anticipated improved payment collection rates",
+            "Expected comprehensive financial visibility",
+            "Planned automated compliance reporting"
+          ],
+          "tags": ["Financial Management", "Automation", "Multi-Currency", "Compliance"],
+          "performance": {
+            "efficiency": "+80%",
+            "processing": "50%",
+            "accuracy": "99%"
+          }
+        },
+        "question-bank": {
+          "name": "AI-Powered Question Bank",
+          "subtitle": "Intelligent Assessment Creation",
+          "description": "Build comprehensive question repositories with Bloom's Taxonomy integration and AI-powered content generation.",
+          "features": [
+            "16+ question types with rich media support",
+            "Bloom's Taxonomy cognitive level tagging",
+            "AI-powered question generation",
+            "Quality metrics and usage analytics",
+            "Collaborative review and validation"
+          ],
+          "benefits": [
+            "Projected 70% faster question creation",
+            "Anticipated improved assessment quality",
+            "Expected cognitive balance validation",
+            "Planned intelligent recommendations"
+          ],
+          "tags": ["Assessment", "AI Content", "Bloom's Taxonomy", "Quality Assurance"],
+          "performance": {
+            "efficiency": "+70%",
+            "timeReduction": "45%",
+            "quality": "95%"
+          }
+        },
+        "communication-hub": {
+          "name": "Strategic Communication Hub",
+          "subtitle": "Institution-Wide Messaging Intelligence",
+          "description": "Coordinate institutional communications with intelligent routing, compliance monitoring, and analytics.",
+          "features": [
+            "Multi-channel messaging (direct, group, broadcast)",
+            "FERPA-compliant communication",
+            "Emergency broadcasting capabilities",
+            "Communication analytics and insights",
+            "Automated routing and prioritization"
+          ],
+          "benefits": [
+            "Projected 85% improvement in communication reach",
+            "Anticipated enhanced compliance monitoring",
+            "Expected streamlined crisis communication",
+            "Planned stakeholder engagement analytics"
+          ],
+          "tags": ["Communication", "FERPA Compliance", "Emergency Management", "Analytics"],
+          "performance": {
+            "efficiency": "+85%",
+            "responseTime": "60%",
+            "compliance": "100%"
+          }
+        },
+        "curriculum-management": {
+          "name": "Pedagogical Curriculum Management",
+          "subtitle": "Learning Outcomes Intelligence",
+          "description": "Align curriculum with learning outcomes using Bloom's Taxonomy integration and cognitive balance analysis.",
+          "features": [
+            "Learning outcome definition and mapping",
+            "Bloom's Taxonomy six-level framework",
+            "Curriculum alignment verification",
+            "Cognitive balance analysis",
+            "Performance correlation tracking"
+          ],
+          "benefits": [
+            "Projected 65% improvement in curriculum alignment",
+            "Anticipated enhanced learning outcome clarity",
+            "Expected cognitive development tracking",
+            "Planned pedagogical validation"
+          ],
+          "tags": ["Curriculum", "Bloom's Taxonomy", "Learning Outcomes", "Pedagogical Intelligence"],
+          "performance": {
+            "alignment": "+65%",
+            "efficiency": "55%",
+            "correlation": "92%"
+          }
+        },
+        "class-analytics": {
+          "name": "Comprehensive Class Analytics",
+          "subtitle": "Data-Driven Teaching Insights",
+          "description": "Access detailed class performance analytics with student insights and intervention recommendations.",
+          "features": [
+            "Real-time class performance dashboards",
+            "Individual student progress tracking",
+            "Bloom's Taxonomy cognitive analysis",
+            "At-risk student identification",
+            "Intervention recommendation engine"
+          ],
+          "benefits": [
+            "Projected 70% improvement in student outcome prediction",
+            "Anticipated enhanced teaching effectiveness",
+            "Expected data-driven decision making",
+            "Planned personalized intervention strategies"
+          ],
+          "tags": ["Analytics", "Student Performance", "Predictive Intelligence", "Intervention"],
+          "performance": {
+            "insight": "+70%",
+            "identification": "50%",
+            "reliability": "88%"
+          }
+        },
+        "resource-management": {
+          "name": "Dynamic Resource Management",
+          "subtitle": "Intelligent Content Organization",
+          "description": "Organize and distribute educational resources with intelligent sharing and usage analytics.",
+          "features": [
+            "Hierarchical resource organization",
+            "Smart sharing based on enrollment",
+            "Usage analytics and engagement metrics",
+            "Version control and collaboration",
+            "AI-powered content recommendations"
+          ],
+          "benefits": [
+            "Projected 60% improvement in resource accessibility",
+            "Anticipated enhanced content utilization",
+            "Expected collaborative efficiency gains",
+            "Planned intelligent content curation"
+          ],
+          "tags": ["Resource Management", "Content Analytics", "Collaboration", "AI Recommendations"],
+          "performance": {
+            "efficiency": "+60%",
+            "accessTime": "40%",
+            "utilization": "85%"
+          }
+        },
+        "quiz-activities": {
+          "name": "Interactive Quiz Activities",
+          "subtitle": "Engaging Assessment Creation",
+          "description": "Create dynamic quiz activities with multiple question types and real-time student engagement tracking.",
+          "features": [
+            "Multiple question formats and media support",
+            "Real-time student response tracking",
+            "Bloom's Taxonomy cognitive alignment",
+            "Instant feedback and explanation",
+            "Performance analytics and insights"
+          ],
+          "benefits": [
+            "Projected 75% increase in student engagement",
+            "Anticipated improved assessment efficiency",
+            "Expected enhanced learning outcomes",
+            "Planned adaptive difficulty adjustment"
+          ],
+          "tags": ["Interactive Assessment", "Student Engagement", "Real-time Analytics", "Cognitive Alignment"],
+          "performance": {
+            "engagement": "+75%",
+            "creationTime": "55%",
+            "accuracy": "90%"
+          }
+        },
+        "personal-dashboard": {
+          "name": "Personalized Student Dashboard",
+          "subtitle": "Individual Learning Journey",
+          "description": "Access your personal learning dashboard with progress tracking and personalized insights.",
+          "features": [
+            "Individual progress visualization",
+            "Goal setting and achievement tracking",
+            "Performance insights and recommendations",
+            "Learning milestone celebrations",
+            "Study schedule management"
+          ],
+          "benefits": [
+            "Projected 80% improvement in self-directed learning",
+            "Anticipated enhanced motivation and engagement",
+            "Expected personalized learning experience",
+            "Planned achievement recognition system"
+          ],
+          "tags": ["Personal Development", "Progress Tracking", "Student Engagement", "Self-Learning"],
+          "performance": {
+            "motivation": "+80%",
+            "selfDirected": "65%",
+            "goalCompletion": "92%"
+          }
+        },
+        "assignment-submission": {
+          "name": "Smart Assignment Submission",
+          "subtitle": "Streamlined Homework Management",
+          "description": "Submit assignments with intelligent plagiarism detection and instant feedback on format and content quality.",
+          "features": [
+            "Multi-format file upload support",
+            "Real-time plagiarism detection",
+            "Content quality assessment",
+            "Submission tracking and reminders",
+            "Peer review and collaboration tools"
+          ],
+          "benefits": [
+            "Projected 70% reduction in plagiarism incidents",
+            "Anticipated improved assignment quality",
+            "Expected enhanced academic integrity",
+            "Planned collaborative learning opportunities"
+          ],
+          "tags": ["Assignment Management", "Plagiarism Detection", "Quality Assessment", "Collaboration"],
+          "performance": {
+            "qualityImprovement": "+70%",
+            "plagiarismReduction": "85%",
+            "submissionRate": "95%"
+          }
+        },
+        "interactive-learning": {
+          "name": "Interactive Learning Modules",
+          "subtitle": "Engaging Educational Content",
+          "description": "Experience interactive learning modules with gamified elements and adaptive difficulty adjustment.",
+          "features": [
+            "Gamified learning experiences",
+            "Adaptive difficulty progression",
+            "Interactive multimedia content",
+            "Achievement badges and rewards",
+            "Collaborative learning challenges"
+          ],
+          "benefits": [
+            "Projected 85% increase in learning engagement",
+            "Anticipated improved knowledge retention",
+            "Expected enhanced learning motivation",
+            "Planned personalized learning paths"
+          ],
+          "tags": ["Interactive Learning", "Gamification", "Adaptive Systems", "Student Engagement"],
+          "performance": {
+            "engagement": "+85%",
+            "retention": "75%",
+            "completion": "88%"
+          }
+        }
+      }
+    }
+  },
+  "homepage": {
+    "sections": {
+      "platform_philosophy": {
+        "title_platform": "Platform",
+        "title_philosophy": "Philosophy",
+        "description": "Understanding the fundamental differences between traditional approaches and FabriiQ's comprehensive solution.",
+        "comparisons": {
+          "school_os_vs_lms": {
+            "title": "School Operating System vs. Learning Management System",
+            "description": "Comprehensive institutional management beyond just course delivery and content management."
+          },
+          "unified_vs_fragmented": {
+            "title": "Unified vs. Fragmented Approach",
+            "description": "Single integrated platform replacing 5-10 separate systems with seamless data flow."
+          },
+          "ai_native_vs_added": {
+            "title": "AI-Native vs. AI-Added Approach",
+            "description": "Built from the ground up with AI intelligence, not bolted onto existing legacy systems."
+          },
+          "online_vs_blended": {
+            "title": "Online vs. Blended Learning Environments",
+            "description": "Comprehensive support for diverse delivery modalities with integrated campus and virtual experiences."
+          }
+        }
+      },
+      "key_cornerstones": {
+        "title_key": "6 Key",
+        "title_cornerstones": "Cornerstones",
+        "description": "Purpose-built features designed specifically for educational institutions, not generic solutions adapted for schools.",
+        "features": {
+          "aivy": {
+            "title": "AIVY Multi-Agent Intelligence",
+            "description": "Not generic AI, but specialized agents designed specifically for education. Student Companion, Teacher Assistant, Content Generation, Assessment Intelligence, and Compliance Monitoring - all working together seamlessly.",
+            "status": "Core agents active, advanced collaboration in beta"
+          },
+          "pedagogical": {
+            "title": "Pedagogically Sound",
+            "description": "Every question, assessment, and activity is automatically aligned with Bloom's Taxonomy. Track cognitive development from Remember to Create with real-time mastery analytics and intervention triggers.",
+            "status": "Classification engine active, balance analytics in development"
+          },
+          "gamification": {
+            "title": "Gamification & Social Learning",
+            "description": "Comprehensive points system, achievement unlocks, class social walls, and intelligent motivation engine. Transform learning into an engaging journey with peer recognition and collaborative growth.",
+            "status": "Core gamification complete, social features complete"
+          },
+          "multi_campus": {
+            "title": "Multi-Campus Operations",
+            "description": "Native multi-campus architecture managing enrollment, fees, attendance, and analytics across unlimited locations. Centralized governance with campus autonomy - designed from the ground up, not retrofitted.",
+            "status": "Core operations active, advanced analytics in development"
+          },
+          "offline_first": {
+            "title": "Offline-First Learning",
+            "description": "Complete offline functionality with intelligent synchronization. Teachers grade, students learn, coordinators manage - all without internet. When connection returns, everything syncs seamlessly with conflict resolution.",
+            "status": "Offline core complete, advanced sync features in beta"
+          },
+          "privacy_compliance": {
+            "title": "Privacy-by-Design Compliance",
+            "description": "Not compliance added later, but privacy designed from the first line of code. Automated retention, intelligent redaction, comprehensive audit trails, and AI-powered risk assessment built into every feature.",
+            "status": "Compliance engine active, advanced features in development"
+          }
+        },
+        "status_prefix": "Alpha Status:"
+      },
+      "comprehensive_capabilities": {
+        "badge": "Comprehensive Platform Capabilities",
+        "title_capabilities": "Capabilities That",
+        "title_transform": "Transform",
+        "description": "Five comprehensive capabilities designed to revolutionize educational operations and enhance learning outcomes",
+        "capabilities": {
+          "enrollment_mgmt": {
+            "title": "Intelligent Enrollment Management",
+            "description": "Streamline student lifecycle management with automated processing and multi-campus coordination. Single and bulk enrollment creation, real-time CSV validation, and predictive analytics transform administrative efficiency across institutional hierarchies.",
+            "features": {
+              "multi_campus": "Multi-campus enrollment coordination",
+              "automated_workflows": "Automated status management workflows",
+              "validation": "Real-time validation and error handling",
+              "forecasting": "Predictive enrollment forecasting"
+            },
+            "benefits": {
+              "task_reduction": "75% Manual Task Reduction",
+              "data_accuracy": "98% Data Accuracy",
+              "time_savings": "65% Time Savings"
+            },
+            "status": {
+              "active": "Core operations",
+              "development": "Advanced analytics",
+              "planned": "AI-powered forecasting"
+            }
+          },
+          "financial_ops": {
+            "title": "Financial Operations Automation",
+            "description": "Transform fee management with intelligent automation, multi-currency support, and comprehensive financial analytics. Automated challan generation, payment processing, and policy-based late fee management streamline institutional financial operations.",
+            "features": {
+              "fee_structure": "Flexible fee structure management",
+              "payment_methods": "Multi-payment method processing",
+              "compliance": "Automated compliance reporting",
+              "analytics": "Real-time financial analytics"
+            },
+            "benefits": {
+              "efficiency": "80% Financial Task Efficiency",
+              "accuracy": "99% Calculation Accuracy",
+              "speed": "50% Processing Speed Improvement"
+            },
+            "status": {
+              "complete": "Core functionality",
+              "development": "Advanced reporting",
+              "planned": "Predictive financial analytics"
+            }
+          },
+          "pedagogical_intel": {
+            "title": "Pedagogical Intelligence Framework",
+            "description": "Align curriculum with learning outcomes using Bloom's Taxonomy integration and cognitive balance analysis. Learning outcome mapping, curriculum alignment verification, and performance correlation tracking enhance educational effectiveness.",
+            "features": {
+              "blooms_framework": "Six-level Bloom's Taxonomy framework",
+              "curriculum_alignment": "Automated curriculum alignment",
+              "cognitive_balance": "Cognitive balance analysis",
+              "performance_tracking": "Performance correlation tracking"
+            },
+            "benefits": {
+              "alignment_accuracy": "65% Curriculum Alignment Accuracy",
+              "outcome_correlation": "92% Outcome Correlation",
+              "planning_efficiency": "55% Planning Efficiency"
+            },
+            "status": {
+              "complete": "Core framework",
+              "development": "Advanced analytics",
+              "beta": "Cognitive balance optimization"
+            }
+          },
+          "communication_intel": {
+            "title": "Strategic Communication Intelligence",
+            "description": "Coordinate institutional communications with FERPA-compliant messaging, emergency broadcasting, and intelligent routing. Multi-channel delivery, automated prioritization, and comprehensive analytics ensure effective stakeholder engagement.",
+            "features": {
+              "ferpa_messaging": "FERPA-compliant messaging system",
+              "emergency_broadcast": "Emergency broadcast capabilities",
+              "intelligent_routing": "Intelligent routing and prioritization",
+              "analytics_insights": "Communication analytics insights"
+            },
+            "benefits": {
+              "communication_efficiency": "85% Communication Efficiency",
+              "compliance_adherence": "100% Compliance Adherence",
+              "response_time": "60% Response Time Improvement"
+            },
+            "status": {
+              "active": "Core messaging",
+              "planned": "Advanced features",
+              "beta": "Analytics dashboard"
+            }
+          },
+          "teaching_analytics": {
+            "title": "Data-Driven Teaching Analytics",
+            "description": "Access comprehensive class performance insights with predictive student outcome analysis and intervention recommendations. Real-time dashboards, Bloom's Taxonomy cognitive tracking, and at-risk student identification enhance teaching effectiveness.",
+            "features": {
+              "performance_dashboards": "Real-time performance dashboards",
+              "predictive_analysis": "Predictive outcome analysis",
+              "risk_identification": "At-risk student identification",
+              "cognitive_tracking": "Bloom's cognitive level tracking"
+            },
+            "benefits": {
+              "prediction_accuracy": "70% Prediction Accuracy",
+              "intervention_reliability": "88% Intervention Reliability",
+              "risk_identification_speed": "50% Faster Risk Identification"
+            },
+            "status": {
+              "active": "Core reporting",
+              "development": "Predictive features",
+              "planned": "AI-powered interventions"
+            }
+          }
+        },
+        "labels": {
+          "key_features": "Key Features",
+          "expected_benefits": "Expected Benefits",
+          "development_status": "Development Status",
+          "tech_stack": "Tech Stack",
+          "interactive_demo": "Interactive Demo Available"
+        }
+      },
+      "platform_showcase": {
+        "badge": "Platform Excellence",
+        "title_built": "Built for",
+        "title_education": "Education",
+        "description": "Purpose-built architecture designed specifically for educational institutions, not generic solutions retrofitted for schools",
+        "platform_name": "FabriiQ Platform",
+        "platform_tagline": "Comprehensive Educational Intelligence",
+        "excellence": {
+          "title": "Platform Excellence",
+          "description": "Every component of FabriiQ is designed with educational workflows in mind, from AIVY's multi-agent intelligence to FERPA-native privacy architecture.",
+          "features": {
+            "aivy_system": {
+              "title": "AIVY Multi-Agent System",
+              "description": "Purpose-built AI agents that understand educational contexts and workflows"
+            },
+            "blooms_native": {
+              "title": "Bloom's Taxonomy Native",
+              "description": "Integrated cognitive level tracking and mastery measurement at the core"
+            },
+            "privacy_design": {
+              "title": "Privacy-by-Design",
+              "description": "FERPA compliance built into the architecture, not bolted on afterwards"
+            }
+          },
+          "status": {
+            "title": "Alpha Development Status",
+            "description": "Core systems are active and being refined through development partnerships. Join us in co-creating the future of educational technology."
+          }
+        }
+      },
+      "contact": {
+        "title_ready": "Ready to",
+        "title_cocreate": "co-create?",
+        "description": "Join a select group of forward-thinking institutions shaping the future of educational technology. Limited development partnerships available.",
+        "cta": {
+          "apply_partnership": "Apply for Partnership",
+          "schedule_discussion": "Schedule Discussion",
+          "alpha_documentation": "Alpha Documentation"
+        },
+        "process": {
+          "strategic_investment": "Strategic Investment",
+          "codevelopment": "Co-development opportunity",
+          "competitive_advantage": "Competitive advantage"
+        }
+      }
+    }
+  },
+  "partnership": {
+    "title": "Development Partnership Program",
+    "subtitle": "Join the future of educational technology",
+    "hero": {
+      "alphaBadge": "Alpha Phase - Limited Development Partnerships",
+      "title": "Development",
+      "titleHighlight": "Partnership",
+      "description": "Join a select group of forward-thinking institutions shaping the future of educational technology. Co-create FabriiQ while gaining competitive advantage.",
+      "partnerCardTitle": "FabriiQ Development Partner",
+      "partnerCardSubtitle": "Co-create the future of education",
+      "valueLabel": "Partnership Value",
+      "valueText": "Priceless",
+      "valueSubtext": "Competitive advantage",
+      "badge": "Limited Partnership Positions"
+    },
+    "benefits": {
+      "strategic": {
+        "title": "Strategic Investment",
+        "subtitle": "Mutual Value Exchange",
+        "badge": "Alpha Phase"
+      },
+      "codevelopment": {
+        "title": "Co-development",
+        "subtitle": "Shape Product Roadmap",
+        "badge": "Direct Influence"
+      },
+      "earlyAccess": {
+        "title": "Early Access",
+        "subtitle": "Competitive Advantage",
+        "badge": "Competitive Edge"
+      },
+      "aivy": {
+        "title": "AIVY Access",
+        "subtitle": "Multi-Agent AI System",
+        "badge": "Exclusive"
+      },
+      "multiCampus": {
+        "title": "Multi-Campus",
+        "subtitle": "Native Architecture",
+        "badge": "Scalable"
+      },
+      "ferpa": {
+        "title": "FERPA Native",
+        "subtitle": "Privacy by Design",
+        "badge": "Compliant"
+      }
+    },
+    "coCreators": {
+      "title": "Co-Creators,",
+      "titleHighlight": "Not Customers",
+      "description": "We don't want users who accept what we build - we want partners who help us build what education truly needs. Every development partner directly influences our product roadmap, receives custom branding integration, and validates solutions in real educational environments."
+    },
+    "journey": {
+      "title": "Partnership",
+      "titleHighlight": "Journey",
+      "description": "Interactive timeline showing your path from invitation to sustained partnership"
+    },
+    "form": {
+      "header": {
+        "title": "Co-Creation Partnership",
+        "titleHighlight": "Invitation",
+        "description": "Complete partnership compatibility assessment to begin strategic evaluation process"
+      },
+      "title": "Partnership Co-Creation Assessment",
+      "subtitle": "Help us understand your institution's vision and co-development readiness",
+      "sections": {
+        "institution": "Institution Information",
+        "contact": "Strategic Contact Information",
+        "partnership": "Co-Development Partnership Details"
+      },
+      "fields": {
+        "institutionName": "Institution Name *",
+        "institutionType": "Institution Type *",
+        "campusCount": "Campus Count",
+        "studentPopulation": "Student Population",
+        "contactName": "Primary Contact Name *",
+        "email": "Email Address *",
+        "phone": "Phone Number",
+        "role": "Role/Title *",
+        "currentSystems": "Current Technology Ecosystem & Strategic Challenges",
+        "timeline": "Investment Timeline & Readiness",
+        "commitment": "Partnership Investment Commitment Level",
+        "customRequirements": "Custom Requirements & Vision"
+      },
+      "placeholders": {
+        "institutionName": "Your educational institution",
+        "institutionType": "Select institution type",
+        "campusCount": "Number of campus locations",
+        "studentPopulation": "Total student enrollment across campuses",
+        "contactName": "Executive or decision-maker name",
+        "email": "executive.email@institution.edu",
+        "phone": "International format preferred",
+        "role": "Select your role",
+        "currentSystems": "Describe your current educational technology systems, operational challenges, and strategic digital transformation goals...",
+        "timeline": "Select timeline",
+        "commitment": "Select commitment level",
+        "customRequirements": "Describe your institution's specific needs, branding requirements, and vision for educational technology innovation..."
+      },
+      "options": {
+        "institutionType": {
+          "multiCampus": "Multi-Campus Private School System",
+          "university": "University/Higher Education",
+          "international": "International Education Network",
+          "specialized": "Specialized Educational Institution",
+          "other": "Other Educational Organization"
+        },
+        "role": {
+          "ceo": "Chief Executive Officer/President",
+          "cto": "Chief Technology Officer",
+          "cao": "Chief Academic Officer",
+          "director": "Campus Director/Principal",
+          "itDirector": "IT Director",
+          "other": "Other Executive Role"
+        },
+        "timeline": {
+          "immediate": "Immediate (Ready to begin within 30 days)",
+          "shortTerm": "Short-term (Ready within 2-3 months)",
+          "mediumTerm": "Medium-term (Ready within 4-6 months)",
+          "strategic": "Strategic planning (6+ months evaluation period)"
+        },
+        "commitment": {
+          "full": "Full Strategic Partnership (Complete co-development participation)",
+          "focused": "Focused Partnership (Specific areas of collaboration)",
+          "evaluation": "Evaluation Partnership (Assessment phase with potential expansion)"
+        }
+      },
+      "submit": "Submit Partnership Co-Creation Assessment",
+      "disclaimer": "By submitting, you express interest in strategic co-development partnership and agree to participate in mutual evaluation process for Alpha phase collaboration.",
+      "success": {
+        "title": "Partnership Assessment Submitted!",
+        "message": "We've received your comprehensive partnership assessment. Our development team will review your submission and contact you within 48 hours to discuss strategic compatibility and next steps.",
+        "another": "Submit Another Assessment"
+      }
+    }
+  },
+  "partnership_extended": {
+    "timeline": {
+      "steps": {
+        "discovery": {
+          "title": "Invitation & Discovery",
+          "description": "Institutional needs assessment and strategic compatibility evaluation"
+        },
+        "selection": {
+          "title": "Mutual Selection",
+          "description": "Partnership Charter signing and resource commitment formalization"
+        },
+        "pilot": {
+          "title": "Pilot Implementation",
+          "description": "Core system deployment with dedicated support and custom branding integration"
+        },
+        "partnership": {
+          "title": "Full Partnership",
+          "description": "Complete platform access with co-development rights and workflow customization"
+        },
+        "sustained": {
+          "title": "Beyond Alpha - Sustained Partnership",
+          "description": "Preferential terms, continued innovation access, and legacy recognition as founding partner"
+        }
+      }
+    },
+    "investment": {
+      "title": "Balanced",
+      "titleHighlight": "Investment Framework",
+      "description": "A strategic partnership where both institutions and FabriiQ invest meaningfully for mutual success",
+      "institutions": {
+        "title": "For Educational Institutions",
+        "subtitle": "Strategic investment in deployment and expertise sharing",
+        "benefits": {
+          "custom_features": "Custom feature development aligned with institutional workflows",
+          "competitive_advantage": {
+            "title": "Competitive advantage over market alternatives",
+            "description": "Gain strategic market positioning through early access to cutting-edge educational technology solutions."
+          },
+          "influence_roadmap": "Direct influence on product roadmap and development priorities",
+          "custom_branding": "Custom branding and institutional identity integration",
+          "thought_leadership": "Thought leadership recognition in educational technology innovation",
+          "preferential_pricing": "Preferential post-Alpha pricing and sustained partnership terms"
+        }
+      },
+      "fabriiq": {
+        "title": "For FabriiQ Development",
+        "subtitle": "Investment in dedicated co-development resources and priority support",
+        "benefits": {
+          "validation": "Real-world validation in authentic educational environments",
+          "user_input": "User-centered design input from actual educators and administrators",
+          "quality_assurance": "Quality assurance through comprehensive multi-institutional testing",
+          "use_case_refinement": "Use case refinement and workflow optimization insights",
+          "market_validation": "Market validation and proof of concept development",
+          "success_stories": "Success story documentation and case study creation"
+        }
+      }
+    },
+    "idealPartner": {
+      "title": "Ideal",
+      "titleHighlight": "Partner Profile",
+      "description": "We seek institutions ready for strategic co-development partnership",
+      "institutional": {
+        "title": "Institutional Characteristics",
+        "items": {
+          "multi_campus": "Multi-campus educational organizations with complex operational needs",
+          "progressive_leadership": "Progressive leadership committed to comprehensive digital transformation",
+          "technology_readiness": "Technology readiness with dedicated IT resources and implementation capacity",
+          "collaborative_culture": "Collaborative culture willing to participate in iterative co-development",
+          "financial_readiness": "Financial readiness to invest in deployment and infrastructure costs"
+        }
+      },
+      "partnership_requirements": {
+        "title": "Partnership Requirements",
+        "items": {
+          "csuite_commitment": "C-suite commitment to platform adoption and organizational change management",
+          "staff_allocation": "Dedicated staff allocation (10-15 hours monthly) for co-development participation",
+          "investment_deployment": "Investment in deployment costs, training, and infrastructure requirements",
+          "reference_willingness": "Willingness to serve as reference and thought leadership case study",
+          "research_participation": "Participation in user research, feedback sessions, and product validation"
+        }
+      }
+    },
+    "charter": {
+      "title": "Partnership Charter",
+      "titleHighlight": "Commitments",
+      "institution": {
+        "title": "Your Institution Commits To:",
+        "items": {
+          "cover_deployment": "Cover deployment, infrastructure, and training investment",
+          "allocate_staff": "Allocate dedicated staff time for partnership activities",
+          "participate_feedback": "Participate in monthly feedback sessions and quarterly strategy workshops",
+          "provide_assessment": "Provide honest assessment and constructive development guidance",
+          "maintain_confidentiality": "Maintain confidentiality regarding Alpha features and development roadmap"
+        }
+      },
+      "fabriiq": {
+        "title": "FabriiQ Commits To:",
+        "items": {
+          "provide_access": "Provide dedicated Alpha co-development access and priority feature development",
+          "deliver_branding": "Deliver custom branding integration and workflow personalization",
+          "maintain_communication": "Maintain transparent communication about development progress and timelines",
+          "honor_terms": "Honor preferential post-Alpha partnership terms and pricing",
+          "recognize_institution": "Recognize your institution as founding development partner with thought leadership opportunities"
+        }
+      }
+    },
+    "beyondAlpha": {
+      "title": "Beyond Alpha:",
+      "titleHighlight": "Sustained Partnership Value",
+      "description": "The Alpha Development Partnership establishes the foundation for long-term strategic advantage",
+      "benefits": {
+        "preferential_terms": {
+          "title": "Preferential Partnership Terms",
+          "description": "Founding partners retain advantageous pricing and priority access compared to future adopters"
+        },
+        "innovation_leadership": {
+          "title": "Continued Innovation Leadership",
+          "description": "First access to new features, platform enhancements, and strategic developments"
+        },
+        "legacy_advantage": {
+          "title": "Legacy Advantage",
+          "description": "Your institutional workflows and branding remain deeply integrated in platform evolution"
+        },
+        "thought_leadership": {
+          "title": "Thought Leadership Recognition",
+          "description": "Showcased as founding contributor to educational technology transformation"
+        }
+      }
+    },
+    "intelligence": {
+      "title": "Educational Intelligence Platform",
+      "description": "The technology foundation powering next-generation education"
+    }
+  }
+}

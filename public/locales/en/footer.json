@@ -1,0 +1,25 @@
+{
+  "footer": {
+    "powered_by": "Powered by FabriiQ",
+    "rights": "All rights reserved",
+    "phone": "Phone",
+    "address": "Address",
+    "linkedin": "LinkedIn",
+    "platform": {
+      "title": "Platform",
+      "capabilities": "Capabilities",
+      "about": "About"
+    },
+    "partnership": {
+      "title": "Partnership",
+      "apply": "Apply for Partnership",
+      "contact": "Contact Us"
+    },
+    "newsletter": {
+      "title": "Stay Updated",
+      "description": "Subscribe to our newsletter for the latest updates",
+      "placeholder": "Enter your email",
+      "subscribe": "Subscribe"
+    }
+  }
+}

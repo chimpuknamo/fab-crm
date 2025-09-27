@@ -1,0 +1,25 @@
+{
+  "footer": {
+    "powered_by": "مدعوم من فابريك",
+    "rights": "جميع الحقوق محفوظة",
+    "phone": "الهاتف",
+    "address": "العنوان",
+    "linkedin": "لينكد إن",
+    "platform": {
+      "title": "المنصة",
+      "capabilities": "القدرات",
+      "about": "عننا"
+    },
+    "partnership": {
+      "title": "الشراكة",
+      "apply": "تقديم للشراكة",
+      "contact": "اتصل بنا"
+    },
+    "newsletter": {
+      "title": "ابق محدثاً",
+      "description": "اشترك في نشرتنا الإخبارية للحصول على آخر التحديثات",
+      "placeholder": "أدخل بريدك الإلكتروني",
+      "subscribe": "اشتراك"
+    }
+  }
+}

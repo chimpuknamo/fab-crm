@@ -1,0 +1,243 @@
+{
+  "hero": {
+    "title": "FabriiQ - Sistem Operasi Sekolah Pertama",
+    "subtitle": "Platform Kecerdasan Pendidikan",
+    "description": "Mentransformasi pendidikan melalui sistem multi-agen bertenaga AI dan manajemen sekolah yang komprehensif.",
+    "cta_primary": "Mulai Sekarang",
+    "cta_secondary": "Pelajari Lebih Lanjut",
+    "watch_demo": "Tonton Demo",
+    "typing": {
+      "base_text": "Sistem pertama yang komprehensif untuk ",
+      "school_os": "Sistem Operasi Sekolah",
+      "educational_intelligence": "kecerdasan pendidikan",
+      "unified_platform": "platform terpadu"
+    },
+    "alpha_status": "Fase Pengembangan Alpha - Peluang Kemitraan Tersedia",
+    "description_detailed": "Bergabunglah dengan institusi berpikiran maju dalam menciptakan bersama FabriiQ - melampaui solusi LMS yang terfragmentasi menuju kecerdasan institusional terpadu yang dirancang untuk keunggulan pendidikan modern."
+  },
+  "homepage": {
+    "sections": {
+      "platform_philosophy": {
+        "title_platform": "Filosofi",
+        "title_philosophy": "Platform",
+        "description": "Memahami perbedaan mendasar antara pendekatan tradisional dan solusi komprehensif FabriiQ.",
+        "comparisons": {
+          "school_os_vs_lms": {
+            "title": "Sistem Operasi Sekolah vs. Sistem Manajemen Pembelajaran",
+            "description": "Manajemen institusional komprehensif melampaui hanya pengiriman kursus dan manajemen konten."
+          },
+          "unified_vs_fragmented": {
+            "title": "Pendekatan Terpadu vs. Terfragmentasi",
+            "description": "Platform terintegrasi tunggal menggantikan 5-10 sistem terpisah dengan aliran data yang mulus."
+          },
+          "ai_native_vs_added": {
+            "title": "Pendekatan AI-Asli vs. AI-Ditambahkan",
+            "description": "Dibangun dari dasar dengan kecerdasan AI, bukan ditambahkan ke sistem legacy yang ada."
+          },
+          "online_vs_blended": {
+            "title": "Lingkungan Pembelajaran Online vs. Campuran",
+            "description": "Dukungan komprehensif untuk modalitas pengiriman yang beragam dengan pengalaman kampus dan virtual yang terintegrasi."
+          }
+        }
+      },
+      "key_cornerstones": {
+        "title_key": "6 Fondasi",
+        "title_cornerstones": "Utama",
+        "description": "Fitur yang dirancang khusus untuk institusi pendidikan, bukan solusi generik yang diadaptasi untuk sekolah.",
+        "features": {
+          "aivy": {
+            "title": "Kecerdasan Multi-Agen AIVY",
+            "description": "Bukan AI generik, tetapi agen khusus yang dirancang khusus untuk pendidikan. Pendamping Siswa, Asisten Guru, Pembuatan Konten, Kecerdasan Penilaian, dan Pemantauan Kepatuhan - semua bekerja bersama dengan mulus.",
+            "status": "Agen inti aktif, kolaborasi lanjutan dalam beta"
+          },
+          "pedagogical": {
+            "title": "Pedagogis yang Kokoh",
+            "description": "Setiap pertanyaan, penilaian, dan aktivitas secara otomatis diselaraskan dengan Taksonomi Bloom. Lacak perkembangan kognitif dari Mengingat hingga Menciptakan dengan analisis penguasaan real-time dan pemicu intervensi.",
+            "status": "Mesin klasifikasi aktif, analisis keseimbangan dalam pengembangan"
+          },
+          "gamification": {
+            "title": "Gamifikasi & Pembelajaran Sosial",
+            "description": "Sistem poin komprehensif, pembukaan pencapaian, dinding sosial kelas, dan mesin motivasi cerdas. Transformasi pembelajaran menjadi perjalanan yang menarik dengan pengakuan rekan dan pertumbuhan kolaboratif.",
+            "status": "Gamifikasi inti lengkap, fitur sosial lengkap"
+          },
+          "multi_campus": {
+            "title": "Operasi Multi-Kampus",
+            "description": "Arsitektur multi-kampus asli mengelola pendaftaran, biaya, kehadiran, dan analitik di lokasi tak terbatas. Tata kelola terpusat dengan otonomi kampus - dirancang dari awal, bukan retrofit.",
+            "status": "Operasi inti aktif, analitik lanjutan dalam pengembangan"
+          },
+          "offline_first": {
+            "title": "Pembelajaran Offline-First",
+            "description": "Fungsionalitas offline lengkap dengan sinkronisasi cerdas. Guru memberi nilai, siswa belajar, koordinator mengelola - semua tanpa internet. Ketika koneksi kembali, semuanya tersinkronisasi dengan sempurna dengan resolusi konflik.",
+            "status": "Inti offline lengkap, fitur sinkronisasi lanjutan dalam beta"
+          },
+          "privacy_compliance": {
+            "title": "Kepatuhan Privasi-by-Design",
+            "description": "Bukan kepatuhan yang ditambahkan kemudian, tetapi privasi yang dirancang dari baris kode pertama. Retensi otomatis, redaksi cerdas, jejak audit komprehensif, dan penilaian risiko bertenaga AI terintegrasi ke setiap fitur.",
+            "status": "Mesin kepatuhan aktif, fitur lanjutan dalam pengembangan"
+          }
+        },
+        "status_prefix": "Status Alpha:"
+      },
+      "comprehensive_capabilities": {
+        "badge": "Kemampuan Platform Komprehensif",
+        "title_capabilities": "Kemampuan yang",
+        "title_transform": "Mentransformasi",
+        "description": "Lima kemampuan komprehensif yang dirancang untuk merevolusi operasi pendidikan dan meningkatkan hasil pembelajaran",
+        "capabilities": {
+          "enrollment_mgmt": {
+            "title": "Manajemen Pendaftaran Cerdas",
+            "description": "Sederhanakan manajemen siklus hidup siswa dengan pemrosesan otomatis dan koordinasi multi-kampus. Pembuatan pendaftaran tunggal dan massal, validasi CSV real-time, dan analitik prediktif mentransformasi efisiensi administratif melintasi hierarki institusional.",
+            "features": {
+              "multi_campus": "Koordinasi pendaftaran multi-kampus",
+              "automated_workflows": "Alur kerja manajemen status otomatis",
+              "validation": "Validasi real-time dan penanganan kesalahan",
+              "forecasting": "Prakiraan pendaftaran prediktif"
+            },
+            "benefits": {
+              "task_reduction": "75% Pengurangan Tugas Manual",
+              "data_accuracy": "98% Akurasi Data",
+              "time_savings": "65% Penghematan Waktu"
+            },
+            "status": {
+              "active": "Operasi inti",
+              "development": "Analitik lanjutan",
+              "planned": "Prakiraan berbasis AI"
+            }
+          },
+          "financial_ops": {
+            "title": "Otomasi Operasi Keuangan",
+            "description": "Transformasi manajemen biaya dengan otomasi cerdas, dukungan multi-mata uang, dan analitik keuangan komprehensif. Pembuatan kwitansi otomatis, pemrosesan pembayaran, dan manajemen biaya terlambat berbasis kebijakan menyederhanakan operasi keuangan institusional.",
+            "features": {
+              "fee_structure": "Manajemen struktur biaya yang fleksibel",
+              "payment_methods": "Pemrosesan metode pembayaran multi",
+              "compliance": "Pelaporan kepatuhan otomatis",
+              "analytics": "Analitik keuangan real-time"
+            },
+            "benefits": {
+              "efficiency": "80% Efisiensi Tugas Keuangan",
+              "accuracy": "99% Akurasi Perhitungan",
+              "speed": "50% Peningkatan Kecepatan Pemrosesan"
+            },
+            "status": {
+              "complete": "Fungsionalitas inti",
+              "development": "Pelaporan lanjutan",
+              "planned": "Analitik keuangan prediktif"
+            }
+          },
+          "pedagogical_intel": {
+            "title": "Kerangka Kecerdasan Pedagogis",
+            "description": "Selaraskan kurikulum dengan hasil pembelajaran menggunakan integrasi Taksonomi Bloom dan analisis keseimbangan kognitif. Pemetaan hasil pembelajaran, verifikasi keselarasan kurikulum, dan pelacakan korelasi kinerja meningkatkan efektivitas pendidikan.",
+            "features": {
+              "blooms_framework": "Kerangka Taksonomi Bloom enam tingkat",
+              "curriculum_alignment": "Keselarasan kurikulum otomatis",
+              "cognitive_balance": "Analisis keseimbangan kognitif",
+              "performance_tracking": "Pelacakan korelasi kinerja"
+            },
+            "benefits": {
+              "alignment_accuracy": "65% Akurasi Keselarasan Kurikulum",
+              "outcome_correlation": "92% Korelasi Hasil",
+              "planning_efficiency": "55% Efisiensi Perencanaan"
+            },
+            "status": {
+              "complete": "Kerangka inti",
+              "development": "Analitik lanjutan",
+              "beta": "Optimasi keseimbangan kognitif"
+            }
+          },
+          "communication_intel": {
+            "title": "Kecerdasan Komunikasi Strategis",
+            "description": "Koordinasikan komunikasi institusional dengan pesan yang mematuhi FERPA, siaran darurat, dan perutean cerdas. Pengiriman multi-saluran, prioritas otomatis, dan analitik komprehensif memastikan keterlibatan pemangku kepentingan yang efektif.",
+            "features": {
+              "ferpa_messaging": "Sistem pesan yang mematuhi FERPA",
+              "emergency_broadcast": "Kemampuan siaran darurat",
+              "intelligent_routing": "Perutean dan prioritas cerdas",
+              "analytics_insights": "Wawasan analitik komunikasi"
+            },
+            "benefits": {
+              "communication_efficiency": "85% Efisiensi Komunikasi",
+              "compliance_adherence": "100% Kepatuhan",
+              "response_time": "60% Peningkatan Waktu Respons"
+            },
+            "status": {
+              "active": "Pesan inti",
+              "planned": "Fitur lanjutan",
+              "beta": "Dashboard analitik"
+            }
+          },
+          "teaching_analytics": {
+            "title": "Analitik Pengajaran Berbasis Data",
+            "description": "Akses wawasan kinerja kelas yang komprehensif dengan analisis hasil siswa prediktif dan rekomendasi intervensi. Dashboard real-time, pelacakan kognitif Taksonomi Bloom, dan identifikasi siswa berisiko meningkatkan efektivitas pengajaran.",
+            "features": {
+              "performance_dashboards": "Dashboard kinerja real-time",
+              "predictive_analysis": "Analisis hasil prediktif",
+              "risk_identification": "Identifikasi siswa berisiko",
+              "cognitive_tracking": "Pelacakan tingkat kognitif Bloom"
+            },
+            "benefits": {
+              "prediction_accuracy": "70% Akurasi Prediksi",
+              "intervention_reliability": "88% Keandalan Intervensi",
+              "risk_identification_speed": "50% Identifikasi Risiko Lebih Cepat"
+            },
+            "status": {
+              "active": "Pelaporan inti",
+              "development": "Fitur prediktif",
+              "planned": "Intervensi berbasis AI"
+            }
+          }
+        },
+        "labels": {
+          "key_features": "Fitur Utama",
+          "expected_benefits": "Manfaat yang Diharapkan",
+          "development_status": "Status Pengembangan",
+          "tech_stack": "Stack Teknologi",
+          "interactive_demo": "Demo Interaktif Tersedia"
+        }
+      },
+      "platform_showcase": {
+        "badge": "Keunggulan Platform",
+        "title_built": "Dibangun untuk",
+        "title_education": "Pendidikan",
+        "description": "Arsitektur yang dirancang khusus untuk institusi pendidikan, bukan solusi generik yang diadaptasi untuk sekolah",
+        "platform_name": "Platform FabriiQ",
+        "platform_tagline": "Kecerdasan Pendidikan Komprehensif",
+        "excellence": {
+          "title": "Keunggulan Platform",
+          "description": "Setiap komponen FabriiQ dirancang dengan mempertimbangkan alur kerja pendidikan, dari kecerdasan multi-agen AIVY hingga arsitektur privasi asli FERPA.",
+          "features": {
+            "aivy_system": {
+              "title": "Sistem Multi-Agen AIVY",
+              "description": "Agen AI yang dirancang khusus yang memahami konteks dan alur kerja pendidikan"
+            },
+            "blooms_native": {
+              "title": "Taksonomi Bloom Asli",
+              "description": "Pelacakan tingkat kognitif terintegrasi dan pengukuran penguasaan di inti"
+            },
+            "privacy_design": {
+              "title": "Privasi-by-Design",
+              "description": "Kepatuhan FERPA dibangun ke dalam arsitektur, bukan ditambahkan setelahnya"
+            }
+          },
+          "status": {
+            "title": "Status Pengembangan Alpha",
+            "description": "Sistem inti aktif dan sedang disempurnakan melalui kemitraan pengembangan. Bergabunglah dengan kami dalam menciptakan masa depan teknologi pendidikan."
+          }
+        }
+      },
+      "contact": {
+        "title_ready": "Siap untuk",
+        "title_cocreate": "berkolaborasi?",
+        "description": "Bergabunglah dengan kelompok institusi visioner yang membentuk masa depan teknologi pendidikan. Kemitraan pengembangan terbatas tersedia.",
+        "cta": {
+          "apply_partnership": "Ajukan Kemitraan",
+          "schedule_discussion": "Jadwalkan Diskusi",
+          "alpha_documentation": "Dokumentasi Alpha"
+        },
+        "process": {
+          "strategic_investment": "Investasi Strategis",
+          "codevelopment": "Kesempatan ko-pengembangan",
+          "competitive_advantage": "Keunggulan kompetitif"
+        }
+      }
+    }
+  }
+}

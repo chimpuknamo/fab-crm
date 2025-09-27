@@ -1,0 +1,565 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+/* Custom CSS Variables for theme system */
+:root {
+  /* Light theme background uses light mint for softer feel */
+  --background: 174 25% 98%;
+  --foreground: 174 44% 15%;
+  --card: 0 0% 100%;
+  --card-foreground: 174 44% 15%;
+  --popover: 0 0% 100%;
+  --popover-foreground: 174 44% 15%;
+  /* Primary green #1F504B */
+  --primary: 174 44% 22%;
+  --primary-foreground: 0 0% 98%;
+  /* Secondary uses light mint */
+  --secondary: 174 25% 90%;
+  --secondary-foreground: 174 44% 20%;
+  --muted: 174 25% 85%;
+  --muted-foreground: 174 25% 35%;
+  --accent: 174 25% 87%;
+  --accent-foreground: 174 44% 22%;
+  --destructive: 0 84.2% 60.2%;
+  --destructive-foreground: 0 0% 98%;
+  --border: 174 25% 80%;
+  --input: 174 25% 85%;
+  --ring: 174 44% 22%;
+  --radius: 0.5rem;
+  /* FabriiQ brand colors for light theme */
+  --fabriiq-primary: 174 44% 22%;
+  --fabriiq-teal: 174 25% 45%;
+  --fabriiq-mint: 174 25% 87%;
+  --fabriiq-orange: 38 92% 50%;
+  --fabriiq-blue: 217 91% 60%;
+  --fabriiq-red: 0 84% 60%;
+}
+
+.dark {
+  --background: 0 0% 0%;
+  --foreground: 0 0% 98%;
+  --card: 240 10% 3.9%;
+  --card-foreground: 0 0% 98%;
+  --popover: 240 10% 3.9%;
+  --popover-foreground: 0 0% 98%;
+  /* Updated dark mode primary to FabriiQ green */
+  --primary: 174 44% 22%;
+  --primary-foreground: 0 0% 98%;
+  --secondary: 240 3.7% 15.9%;
+  --secondary-foreground: 0 0% 98%;
+  --muted: 240 3.7% 15.9%;
+  --muted-foreground: 240 5% 64.9%;
+  --accent: 240 3.7% 15.9%;
+  --accent-foreground: 0 0% 98%;
+  --destructive: 0 62.8% 30.6%;
+  --destructive-foreground: 0 0% 98%;
+  --border: 240 3.7% 15.9%;
+  --input: 240 3.7% 15.9%;
+  /* Dark mode FabriiQ colors with proper contrast */
+  --fabriiq-primary: 174 44% 22%;
+  --fabriiq-teal: 174 25% 55%;
+  --fabriiq-mint: 174 25% 77%;
+  --fabriiq-orange: 38 92% 50%;
+  --fabriiq-blue: 217 91% 60%;
+  --fabriiq-red: 0 84% 60%;
+}
+
+body {
+  background-color: hsl(var(--background));
+  color: hsl(var(--foreground));
+}
+
+@layer base {
+  :root {
+    /* Light theme background uses light mint for softer feel */
+    --background: 174 25% 98%;
+    --foreground: 174 44% 15%;
+    --card: 0 0% 100%;
+    --card-foreground: 174 44% 15%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 174 44% 15%;
+    /* Primary green #1F504B */
+    --primary: 174 44% 22%;
+    --primary-foreground: 0 0% 98%;
+    /* Secondary uses light mint */
+    --secondary: 174 25% 90%;
+    --secondary-foreground: 174 44% 20%;
+    --muted: 174 25% 85%;
+    --muted-foreground: 174 25% 35%;
+    --accent: 174 25% 87%;
+    --accent-foreground: 174 44% 22%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 174 25% 80%;
+    --input: 174 25% 85%;
+    --ring: 174 44% 22%;
+    --radius: 0.5rem;
+    /* FabriiQ brand colors for light theme */
+    --fabriiq-primary: 174 44% 22%;
+    --fabriiq-teal: 174 25% 45%;
+    --fabriiq-mint: 174 25% 87%;
+    --fabriiq-orange: 38 92% 50%;
+    --fabriiq-blue: 217 91% 60%;
+    --fabriiq-red: 0 84% 60%;
+    --fabriiq-dark-gray: 220 26% 20%;
+    --fabriiq-medium-gray: 220 14% 46%;
+    --fabriiq-light-gray: 220 13% 85%;
+    --fabriiq-off-white: 174 25% 95%;
+  }
+
+  .dark {
+    --background: 0 0% 0%;
+    --foreground: 0 0% 98%;
+    --card: 240 10% 3.9%;
+    --card-foreground: 0 0% 98%;
+    --popover: 240 10% 3.9%;
+    --popover-foreground: 0 0% 98%;
+    /* Updated dark mode primary to FabriiQ green */
+    --primary: 174 44% 22%;
+    --primary-foreground: 0 0% 98%;
+    --secondary: 240 3.7% 15.9%;
+    --secondary-foreground: 0 0% 98%;
+    --muted: 240 3.7% 15.9%;
+    --muted-foreground: 240 5% 64.9%;
+    --accent: 240 3.7% 15.9%;
+    --accent-foreground: 0 0% 98%;
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 240 3.7% 15.9%;
+    --input: 240 3.7% 15.9%;
+    /* Dark mode FabriiQ colors with proper contrast */
+    --fabriiq-primary: 174 44% 22%;
+    --fabriiq-teal: 174 25% 55%;
+    --fabriiq-mint: 174 25% 77%;
+    --fabriiq-orange: 38 92% 50%;
+    --fabriiq-blue: 217 91% 60%;
+    --fabriiq-red: 0 84% 60%;
+    --fabriiq-dark-gray: 220 26% 18%;
+    --fabriiq-medium-gray: 220 14% 56%;
+    --fabriiq-light-gray: 220 13% 81%;
+    --fabriiq-off-white: 210 20% 88%;
+  }
+}
+
+body {
+  @apply bg-background text-foreground;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-secondary;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-muted;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  @apply bg-primary;
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Prevent content shift on page load */
+html,
+body {
+  overflow-x: hidden;
+}
+
+/* Enhanced responsive breakpoints and mobile-first utilities */
+@layer components {
+  .btn-micro {
+    @apply transition-all duration-200 ease-in-out transform;
+  }
+
+  .btn-micro:hover {
+    @apply scale-105 shadow-lg;
+  }
+
+  .btn-micro:active {
+    @apply scale-95;
+  }
+
+  .btn-primary {
+    @apply bg-fabriiq-primary hover:bg-fabriiq-primary-600 text-white;
+    @apply transition-all duration-200 ease-in-out;
+    @apply hover:shadow-lg hover:shadow-fabriiq-primary/25;
+  }
+
+  .btn-teal {
+    @apply bg-fabriiq-teal hover:bg-fabriiq-teal-600 text-white;
+    @apply transition-all duration-200 ease-in-out;
+    @apply hover:shadow-lg hover:shadow-fabriiq-teal/25;
+  }
+
+  .btn-outline {
+    @apply border-2 border-fabriiq-primary text-fabriiq-primary;
+    @apply hover:bg-fabriiq-primary hover:text-white;
+    @apply transition-all duration-200 ease-in-out;
+  }
+
+  .card-hover {
+    @apply transition-all duration-300 ease-in-out;
+    @apply hover:shadow-xl hover:shadow-fabriiq-primary/10;
+    @apply hover:-translate-y-1;
+  }
+
+  .text-gradient-fabriiq {
+    @apply bg-gradient-to-r from-fabriiq-primary to-fabriiq-teal;
+    @apply bg-clip-text text-transparent;
+  }
+
+  /* Mobile-first responsive utilities */
+  .mobile-padding {
+    @apply px-4 sm:px-6 lg:px-8;
+  }
+
+  .mobile-text {
+    @apply text-sm sm:text-base;
+  }
+
+  .mobile-heading {
+    @apply text-xl sm:text-2xl lg:text-3xl;
+  }
+
+  .mobile-grid {
+    @apply grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-6;
+  }
+}
+
+/* RTL (Right-to-Left) support for Arabic */
+[dir="rtl"] {
+  text-align: right;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, 'Arial Unicode MS', sans-serif;
+}
+
+/* Targeted RTL adjustments - only apply to specific navigation elements */
+[dir="rtl"] .nav-items {
+  flex-direction: row-reverse;
+}
+
+[dir="rtl"] .nav-item {
+  flex-direction: row-reverse;
+}
+
+/* RTL space utilities */
+[dir="rtl"] .space-x-1 > :not([hidden]) ~ :not([hidden]) {
+  --tw-space-x-reverse: 1;
+  margin-right: calc(0.25rem * var(--tw-space-x-reverse));
+  margin-left: calc(0.25rem * calc(1 - var(--tw-space-x-reverse)));
+}
+
+[dir="rtl"] .space-x-2 > :not([hidden]) ~ :not([hidden]) {
+  --tw-space-x-reverse: 1;
+  margin-right: calc(0.5rem * var(--tw-space-x-reverse));
+  margin-left: calc(0.5rem * calc(1 - var(--tw-space-x-reverse)));
+}
+
+[dir="rtl"] .space-x-3 > :not([hidden]) ~ :not([hidden]) {
+  --tw-space-x-reverse: 1;
+  margin-right: calc(0.75rem * var(--tw-space-x-reverse));
+  margin-left: calc(0.75rem * calc(1 - var(--tw-space-x-reverse)));
+}
+
+[dir="rtl"] .space-x-4 > :not([hidden]) ~ :not([hidden]) {
+  --tw-space-x-reverse: 1;
+  margin-right: calc(1rem * var(--tw-space-x-reverse));
+  margin-left: calc(1rem * calc(1 - var(--tw-space-x-reverse)));
+}
+
+/* RTL text alignment */
+[dir="rtl"] .text-left {
+  text-align: right;
+}
+
+[dir="rtl"] .text-right {
+  text-align: left;
+}
+
+/* RTL padding and margin utilities */
+[dir="rtl"] .pl-3 {
+  padding-left: 0;
+  padding-right: 0.75rem;
+}
+
+[dir="rtl"] .pr-3 {
+  padding-right: 0;
+  padding-left: 0.75rem;
+}
+
+[dir="rtl"] .ml-2 {
+  margin-left: 0;
+  margin-right: 0.5rem;
+}
+
+[dir="rtl"] .mr-2 {
+  margin-right: 0;
+  margin-left: 0.5rem;
+}
+
+[dir="rtl"] .space-x-3 > :not([hidden]) ~ :not([hidden]) {
+  --tw-space-x-reverse: 1;
+  margin-right: calc(0.75rem * var(--tw-space-x-reverse));
+  margin-left: calc(0.75rem * calc(1 - var(--tw-space-x-reverse)));
+}
+
+[dir="rtl"] .space-x-4 > :not([hidden]) ~ :not([hidden]) {
+  --tw-space-x-reverse: 1;
+  margin-right: calc(1rem * var(--tw-space-x-reverse));
+  margin-left: calc(1rem * calc(1 - var(--tw-space-x-reverse)));
+}
+
+[dir="rtl"] .space-x-6 > :not([hidden]) ~ :not([hidden]) {
+  --tw-space-x-reverse: 1;
+  margin-right: calc(1.5rem * var(--tw-space-x-reverse));
+  margin-left: calc(1.5rem * calc(1 - var(--tw-space-x-reverse)));
+}
+
+[dir="rtl"] .space-x-8 > :not([hidden]) ~ :not([hidden]) {
+  --tw-space-x-reverse: 1;
+  margin-right: calc(2rem * var(--tw-space-x-reverse));
+  margin-left: calc(2rem * calc(1 - var(--tw-space-x-reverse)));
+}
+
+/* Gap utilities for RTL */
+[dir="rtl"] .gap-1 {
+  gap: 0.25rem;
+}
+
+[dir="rtl"] .gap-2 {
+  gap: 0.5rem;
+}
+
+[dir="rtl"] .gap-3 {
+  gap: 0.75rem;
+}
+
+[dir="rtl"] .gap-4 {
+  gap: 1rem;
+}
+
+/* Margin utilities for RTL */
+[dir="rtl"] .ml-auto {
+  margin-left: unset;
+  margin-right: auto;
+}
+
+[dir="rtl"] .mr-auto {
+  margin-right: unset;
+  margin-left: auto;
+}
+
+[dir="rtl"] .mr-1 {
+  margin-right: unset;
+  margin-left: 0.25rem;
+}
+
+[dir="rtl"] .mr-2 {
+  margin-right: unset;
+  margin-left: 0.5rem;
+}
+
+[dir="rtl"] .mr-3 {
+  margin-right: unset;
+  margin-left: 0.75rem;
+}
+
+[dir="rtl"] .mr-4 {
+  margin-right: unset;
+  margin-left: 1rem;
+}
+
+[dir="rtl"] .ml-1 {
+  margin-left: unset;
+  margin-right: 0.25rem;
+}
+
+[dir="rtl"] .ml-2 {
+  margin-left: unset;
+  margin-right: 0.5rem;
+}
+
+[dir="rtl"] .ml-3 {
+  margin-left: unset;
+  margin-right: 0.75rem;
+}
+
+[dir="rtl"] .ml-4 {
+  margin-left: unset;
+  margin-right: 1rem;
+}
+
+/* Padding utilities for RTL */
+[dir="rtl"] .pr-1 {
+  padding-right: unset;
+  padding-left: 0.25rem;
+}
+
+[dir="rtl"] .pr-2 {
+  padding-right: unset;
+  padding-left: 0.5rem;
+}
+
+[dir="rtl"] .pr-3 {
+  padding-right: unset;
+  padding-left: 0.75rem;
+}
+
+[dir="rtl"] .pr-4 {
+  padding-right: unset;
+  padding-left: 1rem;
+}
+
+[dir="rtl"] .pr-6 {
+  padding-right: unset;
+  padding-left: 1.5rem;
+}
+
+[dir="rtl"] .pl-1 {
+  padding-left: unset;
+  padding-right: 0.25rem;
+}
+
+[dir="rtl"] .pl-2 {
+  padding-left: unset;
+  padding-right: 0.5rem;
+}
+
+[dir="rtl"] .pl-3 {
+  padding-left: unset;
+  padding-right: 0.75rem;
+}
+
+[dir="rtl"] .pl-4 {
+  padding-left: unset;
+  padding-right: 1rem;
+}
+
+[dir="rtl"] .pl-6 {
+  padding-left: unset;
+  padding-right: 1.5rem;
+}
+
+/* Text alignment for RTL */
+[dir="rtl"] .text-left {
+  text-align: right;
+}
+
+[dir="rtl"] .text-right {
+  text-align: left;
+}
+
+[dir="rtl"] .text-center {
+  text-align: center;
+}
+
+/* Button and form elements */
+[dir="rtl"] button {
+  text-align: center;
+}
+
+[dir="rtl"] input[type="text"],
+[dir="rtl"] input[type="email"],
+[dir="rtl"] input[type="password"],
+[dir="rtl"] textarea {
+  text-align: right;
+  direction: rtl;
+}
+
+/* Dropdown and menu positioning */
+[dir="rtl"] .dropdown-menu {
+  left: unset;
+  right: 0;
+}
+
+[dir="rtl"] .absolute.right-0 {
+  right: unset;
+  left: 0;
+}
+
+[dir="rtl"] .absolute.left-0 {
+  left: unset;
+  right: 0;
+}
+
+/* Navigation and layout specific */
+[dir="rtl"] .justify-between {
+  justify-content: space-between;
+}
+
+[dir="rtl"] .justify-end {
+  justify-content: flex-start;
+}
+
+[dir="rtl"] .justify-start {
+  justify-content: flex-end;
+}
+
+/* Card and component layouts */
+[dir="rtl"] .rounded-l-lg {
+  border-top-left-radius: unset;
+  border-bottom-left-radius: unset;
+  border-top-right-radius: 0.5rem;
+  border-bottom-right-radius: 0.5rem;
+}
+
+[dir="rtl"] .rounded-r-lg {
+  border-top-right-radius: unset;
+  border-bottom-right-radius: unset;
+  border-top-left-radius: 0.5rem;
+  border-bottom-left-radius: 0.5rem;
+}
+
+/* Border utilities for RTL */
+[dir="rtl"] .border-l {
+  border-left: unset;
+  border-right: 1px solid;
+}
+
+[dir="rtl"] .border-r {
+  border-right: unset;
+  border-left: 1px solid;
+}
+
+/* Transform utilities for RTL */
+[dir="rtl"] .transform {
+  transform: scaleX(-1);
+}
+
+[dir="rtl"] .transform svg {
+  transform: scaleX(-1);
+}
+
+/* Specific component fixes */
+[dir="rtl"] .language-selector {
+  direction: ltr;
+}
+
+[dir="rtl"] .chat-message {
+  text-align: right;
+}
+
+[dir="rtl"] .nav-item {
+  margin-left: unset;
+  margin-right: 2rem;
+}
+
+/* Added extra small breakpoint for better mobile control */
+@media (min-width: 475px) {
+  .xs\:inline {
+    display: inline;
+  }
+
+  .xs\:hidden {
+    display: none;
+  }
+}

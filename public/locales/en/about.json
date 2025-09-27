@@ -1,0 +1,118 @@
+{
+  "pages": {
+    "about": {
+      "title": "About FabriiQ",
+      "hero": {
+        "badge": "Our Story",
+        "title": "Revolutionizing Educational Technology",
+        "subtitle": "Eight years of educational technology experience led us to one realization: institutions need a School Operating System, not another fragmented tool."
+      },
+      "mission": {
+        "title": "Our Mission",
+        "description": "To eliminate the complexity and fragmentation that prevents educational institutions from reaching their full potential by providing the first comprehensive School Operating System designed specifically for modern educational excellence."
+      },
+      "vision": {
+        "title": "Our Vision",
+        "description": "A world where every educational institution has unified, intelligent, and intuitive technology that empowers educators, engages students, and enables institutional growth."
+      },
+      "origin_story": {
+        "title": "The FabriiQ Origin Story",
+        "subtitle": "How eight years of experience revealed the true problem",
+        "problem": {
+          "title": "The Problem We Discovered",
+          "description_1": "For eight years, we've been deeply embedded in the educational technology landscape, working with institutions across different scales and contexts. What started as enthusiasm for \"improving education through technology\" gradually revealed a troubling pattern.",
+          "description_2": "We watched institutions struggle with 3-7 different systems that couldn't communicate. Student information lived in one place, learning management in another, financial data in a third, and communication scattered across multiple platforms."
+        },
+        "revelation": {
+          "title": "The Revelation",
+          "description_1": "The breakthrough came when we realized we were asking the wrong question. Instead of \"How can we build a better LMS?\" we should have been asking: \"Why are educational institutions forced to operate like a collection of disconnected departments?\"",
+          "description_2": "No one was thinking about education as a complete, integrated ecosystem."
+        },
+        "solution": {
+          "title": "Our Solution Philosophy",
+          "description": "Rather than building another tool to add to the institutional technology stack, we designed something fundamentally different: the first comprehensive School Operating System.",
+          "features": {
+            "not_lms": {
+              "title": "Not an LMS Plus",
+              "description": "We started with the complete institutional mission"
+            },
+            "ai_native": {
+              "title": "AI-Native Architecture",
+              "description": "Built for educational relationships from the ground up"
+            },
+            "multi_campus": {
+              "title": "Multi-Campus First",
+              "description": "Designed for complexity from day one"
+            }
+          }
+        }
+      },
+      "development_philosophy": {
+        "title": "Partnership Over Product",
+        "subtitle": "Why we chose collaborative development",
+        "alpha_development": {
+          "title": "Alpha Phase Development",
+          "description": "Most educational technology is built in boardrooms by people who haven't been in a classroom in years. We believe the best educational technology emerges from genuine collaboration with educators."
+        },
+        "transparency": {
+          "title": "Transparency Promise",
+          "description": "We clearly communicate what works today versus what we're building tomorrow. No overselling. No false timelines. No hidden limitations."
+        }
+      },
+      "alpha_journey": {
+        "badge": "Current Status",
+        "title": "One Year Journey to Alpha",
+        "subtitle": "From concept to operational School Operating System",
+        "milestones": {
+          "core_systems": {
+            "title": "Core Systems Operational",
+            "description": "All essential institutional operations function reliably"
+          },
+          "ai_features": {
+            "title": "AI Features Active",
+            "description": "AIVY agents provide intelligent assistance across the platform"
+          },
+          "multi_campus": {
+            "title": "Multi-Campus Proven",
+            "description": "Successfully managing complex institutional hierarchies"
+          }
+        }
+      },
+      "school_os": {
+        "title": "Why \"School Operating System\"?",
+        "description": "Like computer operating systems manage hardware resources and enable applications, educational operating systems should manage institutional resources and enable educational excellence.",
+        "features": {
+          "unified_data": {
+            "title": "Unified Data Model",
+            "description": "All institutional information connected"
+          },
+          "intelligent_automation": {
+            "title": "Intelligent Automation",
+            "description": "Humans focus on education"
+          },
+          "extensible_architecture": {
+            "title": "Extensible Architecture",
+            "description": "Platform grows with needs"
+          },
+          "resource_optimization": {
+            "title": "Resource Optimization",
+            "description": "Efficient use of time and resources"
+          }
+        }
+      },
+      "partnership_invitation": {
+        "title": "Partnership Invitation",
+        "description": "We're not looking for customers - we're looking for co-creators. Educational institutions who understand that the future of education requires unified, intelligent technology.",
+        "limited_positions": {
+          "title": "Limited Partnership Positions Available",
+          "description": "We're accepting a maximum of 12 development partners to ensure meaningful collaboration and comprehensive customization for each institution."
+        },
+        "cta": {
+          "explore": "Explore Partnership",
+          "contact": "Contact Us"
+        },
+        "footer_text": "The future of educational technology isn't about better tools - it's about unified intelligence that empowers educational excellence."
+      }
+    }
+  }
+}

@@ -1,0 +1,1211 @@
+{
+  "_version": "2025-01-22-v2",
+  "common": {
+    "loading": "Cargando...",
+    "error": "Error",
+    "success": "Éxito",
+    "welcome": "Bienvenido",
+    "home": "Inicio",
+    "back": "Atrás",
+    "next": "Siguiente",
+    "previous": "Anterior",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "close": "Cerrar",
+    "search": "Buscar",
+    "submit": "Enviar",
+    "edit": "Editar",
+    "delete": "Eliminar",
+    "view": "Ver",
+    "add": "Añadir",
+    "complete": "Completo",
+    "in_progress": "En Progreso",
+    "starting": "Iniciando",
+    "ready": "Listo"
+  },
+  "navigation": {
+    "capabilities": "Capacidades",
+    "platform": "Plataforma",
+    "partnership": "Colaboración",
+    "support": "Soporte",
+    "about": "Acerca de",
+    "process": "Proceso",
+    "services": "Servicios",
+    "portfolio": "Portafolio",
+    "contact": "Contacto",
+    "corporate_login": "Acceso Corporativo",
+    "projects": "Proyectos"
+  },
+  "cta": {
+    "lets_cocreate": "Creemos juntos",
+    "cocreate_short": "Crear juntos",
+    "cocreate_letter": "C",
+    "partnership_application": "Solicitud de Colaboración",
+    "learn_more": "Aprender Más",
+    "get_started": "Comenzar",
+    "contact_us": "Contáctanos",
+    "view_details": "Ver Detalles",
+    "read_more": "Leer Más",
+    "download": "Descargar",
+    "subscribe": "Suscribirse",
+    "schedule": "Programar",
+    "connect": "Conectar",
+    "explore_core_capabilities": "Explorar Capacidades Centrales",
+    "become_development_partner": "Convertirse en Socio de Desarrollo"
+  },
+  "hero": {
+    "title": "FabriiQ - El Primer Sistema Operativo Escolar",
+    "subtitle": "Plataforma de Inteligencia Educativa",
+    "description": "Transformando la educación a través de sistemas multi-agente impulsados por IA y gestión escolar integral.",
+    "cta_primary": "Empezar",
+    "cta_secondary": "Saber Más",
+    "watch_demo": "Ver Demo",
+    "typing": {
+      "base_text": "El primer sistema integral de ",
+      "school_os": "Sistema Operativo Escolar",
+      "educational_intelligence": "inteligencia educativa",
+      "unified_platform": "plataforma unificada"
+    },
+    "alpha_status": "Fase de Desarrollo Alpha - Oportunidades de Colaboración Disponibles",
+    "description_detailed": "Una plataforma. Todas las operaciones. Construida específicamente para la educación."
+  "capabilities": {
+    "title": "Capacidades Principales",
+    "subtitle": "Soluciones Educativas Integrales",
+    "description": "Características avanzadas diseñadas específicamente para entornos educativos modernos",
+    "aivy": {
+      "title": "Sistema Multi-Agente AIVY",
+      "subtitle": "IA Educativa Especializada",
+      "description": "Transforma los flujos de trabajo educativos con agentes especializados diseñados específicamente para entornos de aprendizaje. Compañero Estudiantil, Asistente Docente, Generación de Contenido, Inteligencia de Evaluación y Monitoreo de Cumplimiento - todos trabajando juntos sin problemas.",
+      "features": {
+        "personalized_support": "Soporte de aprendizaje personalizado",
+        "lesson_planning": "Planificación inteligente de lecciones",
+        "content_creation": "Creación automática de contenido",
+        "analytics_insights": "Información analítica en tiempo real"
+      },
+      "stats": {
+        "time_saved": "Tiempo Docente Ahorrado",
+        "engagement": "Participación Estudiantil",
+        "accuracy": "Precisión de Evaluación"
+      }
+    },
+    "operations": {
+      "title": "Centro de Operaciones Unificado",
+      "subtitle": "Gestión Institucional Completa",
+      "description": "Reemplaza sistemas fragmentados con una plataforma integral que gestiona inscripciones, finanzas, asistencia y análisis. Arquitectura nativa multi-campus con gobernanza centralizada y autonomía del campus.",
+      "features": {
+        "enrollment_workflows": "Flujos de inscripción automatizados",
+        "financial_management": "Gestión financiera multi-moneda",
+        "attendance_analytics": "Análisis predictivo de asistencia",
+        "reporting_dashboards": "Paneles de informes en tiempo real"
+      },
+      "stats": {
+        "admin_reduction": "Reducción Tiempo Administrativo",
+        "data_accuracy": "Precisión de Datos",
+        "system_uptime": "Tiempo Activo del Sistema"
+      }
+    },
+    "pedagogy": {
+      "title": "Integración de Taxonomía de Bloom",
+      "subtitle": "Aprendizaje Pedagógicamente Inteligente",
+      "description": "Ve más allá de las calificaciones hacia una comprensión genuina con análisis integrados de la Taxonomía de Bloom. Rastrea el desarrollo cognitivo desde Recordar hasta Crear con medición de dominio en tiempo real y disparadores de intervención.",
+      "features": {
+        "cognitive_classification": "Clasificación automática de nivel cognitivo",
+        "mastery_tracking": "Seguimiento de dominio en tiempo real",
+        "progression_analytics": "Análisis de progresión del aprendizaje",
+        "intervention_engine": "Motor de recomendación de intervención"
+      },
+      "stats": {
+        "outcome_improvement": "Mejora de Resultados de Aprendizaje",
+        "teacher_satisfaction": "Satisfacción Docente",
+        "faster_mastery": "Dominio Más Rápido"
+      }
+    },
+    "gamification": {
+      "title": "Gamificación y Aprendizaje Social",
+      "subtitle": "Participación a Través del Logro",
+      "description": "Transforma el aprendizaje en un viaje atractivo con sistemas integrales de logros, muros de aprendizaje social y motores de motivación inteligentes que se adaptan a las necesidades individuales del estudiante.",
+      "features": {
+        "point_systems": "Sistemas de puntos multi-fuente",
+        "achievement_levels": "Niveles de logro progresivos",
+        "social_collaboration": "Colaboración social de clase",
+        "motivation_triggers": "Disparadores de motivación personalizados"
+      },
+      "stats": {
+        "engagement_increase": "Aumento de Participación",
+        "assignment_completion": "Finalización de Tareas",
+        "student_satisfaction": "Satisfacción Estudiantil"
+      }
+    },
+    "offline": {
+      "title": "Arquitectura Offline-First",
+      "subtitle": "El Aprendizaje Nunca Se Detiene",
+      "description": "Funcionalidad educativa completa sin dependencia de internet. Los maestros califican, los estudiantes aprenden, los coordinadores gestionan - todo offline. Sincronización inteligente cuando regresa la conectividad con resolución de conflictos.",
+      "features": {
+        "offline_functionality": "Funcionalidad offline completa",
+        "data_synchronization": "Sincronización inteligente de datos",
+        "conflict_resolution": "Automatización de resolución de conflictos",
+        "pwa_capabilities": "Capacidades de aplicación web progresiva"
+      },
+      "stats": {
+        "offline_coverage": "Funcionalidad Offline",
+        "sync_accuracy": "Precisión de Sincronización",
+        "continuous_operation": "Operación Continua"
+      }
+    },
+    "privacy": {
+      "title": "Excelencia en Privacidad y Cumplimiento",
+      "subtitle": "Arquitectura Nativa FERPA",
+      "description": "Arquitectura de privacidad por diseño con monitoreo automatizado de cumplimiento, evaluación inteligente de riesgos y registros de auditoría integrales. Protección incorporada, no seguridad retrofitada.",
+      "features": {
+        "ferpa_compliance": "Cumplimiento FERPA automatizado",
+        "privacy_protection": "Protección de privacidad impulsada por IA",
+        "audit_trails": "Registros de auditoría integrales",
+        "risk_assessment": "Automatización de evaluación de riesgos"
+      },
+      "stats": {
+        "compliance_rate": "Cumplimiento FERPA",
+        "data_protection": "Protección de Datos",
+        "security_incidents": "Incidentes de Seguridad"
+      }
+    }
+  },
+  "services": {
+    "title": "Nuestros Servicios",
+    "subtitle": "Soluciones Integrales",
+    "description": "Soluciones integrales para la educación moderna",
+    "ai_management": "Gestión IA",
+    "student_tracking": "Seguimiento Estudiantil",
+    "analytics": "Análisis e Informes",
+    "communication": "Herramientas de Comunicación",
+    "enrollment": "Gestión de Inscripciones",
+    "assessment": "Herramientas de Evaluación",
+    "reporting": "Informes Avanzados",
+    "integration": "Integración de Sistemas"
+  },
+  "contact": {
+    "title": "Conectar",
+    "subtitle": "Ponerse en Contacto",
+    "description": "¿Interesado en discutir soluciones de seguridad o colaboración profesional? Comunícate a través de cualquiera de los canales a continuación.",
+    "links": {
+      "github": {
+        "name": "GitHub",
+        "description": "Ver proyectos y contribuciones"
+      },
+      "email": {
+        "name": "Email",
+        "description": "Contacto directo para consultas"
+      },
+      "telegram": {
+        "name": "Telegram",
+        "description": "Plataforma de mensajería segura"
+      },
+      "linkedin": {
+        "name": "LinkedIn",
+        "description": "Perfil profesional y red"
+      }
+    },
+    "confidentiality_note": "Todas las comunicaciones están encriptadas y manejadas con el más alto nivel de confidencialidad."
+  },
+  "forms": {
+    "name": "Nombre",
+    "email": "Correo Electrónico",
+    "message": "Mensaje",
+    "phone": "Teléfono",
+    "company": "Empresa",
+    "subject": "Asunto",
+    "submit": "Enviar",
+    "required": "Requerido",
+    "invalid_email": "Dirección de correo inválida",
+    "success_message": "¡Gracias por tu mensaje! Nos pondremos en contacto contigo pronto.",
+    "error_message": "Algo salió mal. Por favor intenta de nuevo.",
+    "validation": {
+      "required": "Este campo es requerido",
+      "email_invalid": "Por favor ingresa una dirección de correo válida",
+      "phone_invalid": "Por favor ingresa un número de teléfono válido",
+      "min_length": "Mínimo {count} caracteres requeridos",
+      "max_length": "Máximo {count} caracteres permitidos"
+    }
+  },
+  "footer": {
+    "powered_by": "Impulsado por FabriiQ",
+    "rights": "Todos los derechos reservados",
+    "phone": "Teléfono",
+    "address": "Dirección",
+    "linkedin": "LinkedIn",
+    "platform": {
+      "title": "Plataforma",
+      "capabilities": "Capacidades",
+      "about": "Acerca de",
+      "process": "Proceso"
+    },
+    "partnership": {
+      "title": "Colaboración",
+      "apply": "Solicitar Colaboración",
+      "contact": "Contáctanos",
+      "hero": {
+        "alphaBadge": "Fase Alpha - Colaboraciones de Desarrollo Limitadas",
+        "title": "Colaboración de",
+        "titleHighlight": "Desarrollo",
+        "description": "Únete a un grupo selecto de instituciones visionarias moldeando el futuro de la tecnología educativa. Co-crea FabriiQ mientras obtienes ventaja competitiva.",
+        "partnerCardTitle": "Socio de Desarrollo FabriiQ",
+        "partnerCardSubtitle": "Co-crea el futuro de la educación",
+        "valueLabel": "Valor de la Colaboración",
+        "valueText": "Invaluable",
+        "valueSubtext": "Ventaja competitiva"
+      },
+      "benefits": {
+        "strategic": {
+          "title": "Inversión Estratégica",
+          "subtitle": "Intercambio de Valor Mutuo",
+          "badge": "Fase Alpha"
+        },
+        "codevelopment": {
+          "title": "Co-desarrollo",
+          "subtitle": "Moldea la Hoja de Ruta del Producto",
+          "badge": "Influencia Directa"
+        },
+        "earlyAccess": {
+          "title": "Acceso Temprano",
+          "subtitle": "Ventaja Competitiva",
+          "badge": "Ventaja Competitiva"
+        },
+        "aivy": {
+          "title": "Acceso AIVY",
+          "subtitle": "Sistema de IA Multi-Agente",
+          "badge": "Exclusivo"
+        },
+        "multiCampus": {
+          "title": "Multi-Campus",
+          "subtitle": "Arquitectura Nativa",
+          "badge": "Escalable"
+        },
+        "ferpa": {
+          "title": "FERPA Nativo",
+          "subtitle": "Privacidad por Diseño",
+          "badge": "Conforme"
+        }
+      },
+      "coCreators": {
+        "title": "Co-Creadores,",
+        "titleHighlight": "No Clientes",
+        "description": "No queremos usuarios que acepten lo que construimos - queremos socios que nos ayuden a construir lo que la educación realmente necesita. Cada socio de desarrollo influye directamente en nuestra hoja de ruta del producto, recibe integración de marca personalizada y valida soluciones en entornos educativos reales."
+      },
+      "journey": {
+        "title": "Viaje de",
+        "titleHighlight": "Colaboración",
+        "description": "Cronología interactiva que muestra tu camino desde la invitación hasta la colaboración sostenida"
+      }
+    },
+    "newsletter": {
+      "title": "Mantente Actualizado",
+      "description": "Suscríbete a nuestro boletín para las últimas actualizaciones",
+      "placeholder": "Ingresa tu correo",
+      "subscribe": "Suscribirse"
+    }
+  },
+  "status": {
+    "active": "Activo",
+    "beta": "Beta",
+    "development": "En Desarrollo",
+    "coming_soon": "Próximamente",
+    "maintenance": "Mantenimiento"
+  },
+  "errors": {
+    "page_not_found": "Página No Encontrada",
+    "server_error": "Error del Servidor",
+    "network_error": "Error de Red",
+    "try_again": "Intentar de Nuevo",
+    "go_home": "Ir a Inicio",
+    "contact_support": "Contactar Soporte",
+    "form_validation": {
+      "required_field": "Este campo es requerido",
+      "invalid_email": "Por favor ingresa una dirección de correo válida",
+      "invalid_phone": "Por favor ingresa un número de teléfono válido",
+      "min_length": "Mínimo {min} caracteres requeridos",
+      "max_length": "Máximo {max} caracteres permitidos",
+      "invalid_format": "Formato inválido",
+      "passwords_dont_match": "Las contraseñas no coinciden",
+      "invalid_url": "Por favor ingresa una URL válida",
+      "file_too_large": "Archivo demasiado grande. Máximo {size} permitido",
+      "invalid_file_type": "Tipo de archivo inválido. Solo {types} están permitidos"
+    },
+    "api": {
+      "connection_failed": "Error de conexión. Por favor verifica tu conexión a internet.",
+      "timeout": "Tiempo de espera agotado. Por favor intenta de nuevo.",
+      "unauthorized": "No estás autorizado para realizar esta acción.",
+      "forbidden": "Acceso denegado. No tienes permisos para acceder a este recurso.",
+      "not_found": "El recurso solicitado no fue encontrado.",
+      "conflict": "Hubo un conflicto con tu solicitud. Por favor verifica e intenta de nuevo.",
+      "validation_failed": "Validación falló. Por favor verifica tu entrada.",
+      "server_unavailable": "Servidor temporalmente no disponible. Por favor intenta más tarde.",
+      "rate_limit_exceeded": "Demasiadas solicitudes. Por favor espera antes de intentar de nuevo.",
+      "unknown_error": "Ocurrió un error inesperado. Por favor intenta de nuevo."
+    },
+    "rtl": {
+      "text_direction_error": "Problema de dirección de texto detectado. Por favor recarga la página.",
+      "language_load_failed": "Error al cargar recursos de idioma. Por favor recarga la página."
+    }
+  },
+  "auth": {
+    "login": "Iniciar Sesión",
+    "logout": "Cerrar Sesión",
+    "register": "Registrarse",
+    "forgot_password": "Olvidé la Contraseña",
+    "reset_password": "Restablecer Contraseña",
+    "profile": "Perfil",
+    "settings": "Configuraciones",
+    "email_placeholder": "Tu correo electrónico",
+    "thanks_subscribing": "¡Gracias por suscribirte!",
+    "complete": "Completo",
+    "in_progress": "En Progreso",
+    "starting": "Iniciando",
+    "ready": "Listo"
+  },
+  "pages": {
+    "about": {
+      "title": "Acerca de FabriiQ",
+      "hero": {
+        "badge": "Nuestra Historia",
+        "title": "Revolucionando la Tecnología Educativa",
+        "subtitle": "Ocho años de experiencia en tecnología educativa nos llevaron a una realización: las instituciones necesitan un Sistema Operativo Escolar, no otra herramienta fragmentada."
+      },
+      "mission": {
+        "title": "Nuestra Misión",
+        "description": "Eliminar la complejidad y fragmentación que impide a las instituciones educativas alcanzar su máximo potencial proporcionando el primer Sistema Operativo Escolar integral diseñado específicamente para la excelencia educativa moderna."
+      },
+      "vision": {
+        "title": "Nuestra Visión",
+        "description": "Un mundo donde cada institución educativa tenga tecnología unificada, inteligente e intuitiva que empodere a los educadores, involucre a los estudiantes y permita el crecimiento institucional."
+      },
+      "origin_story": {
+        "title": "La Historia de Origen de FabriiQ",
+        "subtitle": "Cómo ocho años de experiencia revelaron el verdadero problema",
+        "problem": {
+          "title": "El Problema que Descubrimos",
+          "description_1": "Durante ocho años, hemos estado profundamente inmersos en el panorama de la tecnología educativa, trabajando con instituciones de diferentes escalas y contextos. Lo que comenzó como entusiasmo por \"mejorar la educación a través de la tecnología\" gradualmente reveló un patrón preocupante.",
+          "description_2": "Vimos instituciones luchar con 3-7 sistemas diferentes que no podían comunicarse. La información estudiantil vivía en un lugar, la gestión del aprendizaje en otro, los datos financieros en un tercero, y la comunicación dispersa en múltiples plataformas."
+        },
+        "revelation": {
+          "title": "La Revelación",
+          "description_1": "El avance llegó cuando nos dimos cuenta de que estábamos haciendo la pregunta equivocada. En lugar de \"¿Cómo podemos construir un mejor LMS?\" deberíamos haber estado preguntando: \"¿Por qué las instituciones educativas se ven obligadas a operar como una colección de departamentos desconectados?\"",
+          "description_2": "Nadie estaba pensando en la educación como un ecosistema completo e integrado."
+        },
+        "solution": {
+          "title": "Nuestra Filosofía de Solución",
+          "description": "En lugar de construir otra herramienta para agregar al stack tecnológico institucional, diseñamos algo fundamentalmente diferente: el primer Sistema Operativo Escolar integral.",
+          "features": {
+            "not_lms": {
+              "title": "No es un LMS Plus",
+              "description": "Comenzamos con la misión institucional completa"
+            },
+            "ai_native": {
+              "title": "Arquitectura Nativa de IA",
+              "description": "Construido para relaciones educativas desde cero"
+            },
+            "multi_campus": {
+              "title": "Multi-Campus Primero",
+              "description": "Diseñado para la complejidad desde el día uno"
+            }
+          }
+        }
+      },
+      "development_philosophy": {
+        "title": "Asociación Sobre Producto",
+        "subtitle": "Por qué elegimos el desarrollo colaborativo",
+        "alpha_development": {
+          "title": "Desarrollo de Fase Alfa",
+          "description": "La mayoría de la tecnología educativa se construye en salas de juntas por personas que no han estado en un aula en años. Creemos que la mejor tecnología educativa emerge de la colaboración genuina con educadores."
+        },
+        "transparency": {
+          "title": "Promesa de Transparencia",
+          "description": "Comunicamos claramente lo que funciona hoy versus lo que estamos construyendo mañana. Sin sobreventa. Sin cronogramas falsos. Sin limitaciones ocultas."
+        }
+      },
+      "alpha_journey": {
+        "badge": "Estado Actual",
+        "title": "Viaje de Un Año a Alfa",
+        "subtitle": "Del concepto al Sistema Operativo Escolar operacional",
+        "milestones": {
+          "core_systems": {
+            "title": "Sistemas Centrales Operacionales",
+            "description": "Todas las operaciones institucionales esenciales funcionan de manera confiable"
+          },
+          "ai_features": {
+            "title": "Características de IA Activas",
+            "description": "Los agentes AIVY proporcionan asistencia inteligente en toda la plataforma"
+          },
+          "multi_campus": {
+            "title": "Multi-Campus Probado",
+            "description": "Gestionando exitosamente jerarquías institucionales complejas"
+          }
+        }
+      },
+      "school_os": {
+        "title": "¿Por qué \"Sistema Operativo Escolar\"?",
+        "description": "Como los sistemas operativos de computadora gestionan recursos de hardware y habilitan aplicaciones, los sistemas operativos educativos deberían gestionar recursos institucionales y habilitar la excelencia educativa.",
+        "features": {
+          "unified_data": {
+            "title": "Modelo de Datos Unificado",
+            "description": "Toda la información institucional conectada"
+          },
+          "intelligent_automation": {
+            "title": "Automatización Inteligente",
+            "description": "Los humanos se enfocan en la educación"
+          },
+          "extensible_architecture": {
+            "title": "Arquitectura Extensible",
+            "description": "La plataforma crece con las necesidades"
+          },
+          "resource_optimization": {
+            "title": "Optimización de Recursos",
+            "description": "Uso eficiente del tiempo y recursos"
+          }
+        }
+      },
+      "partnership_invitation": {
+        "title": "Invitación de Asociación",
+        "description": "No buscamos clientes - buscamos co-creadores. Instituciones educativas que entienden que el futuro de la educación requiere tecnología unificada e inteligente.",
+        "limited_positions": {
+          "title": "Posiciones de Asociación Limitadas Disponibles",
+          "description": "Estamos aceptando un máximo de 12 socios de desarrollo para asegurar colaboración significativa y personalización integral para cada institución."
+        },
+        "cta": {
+          "explore": "Explorar Asociación",
+          "contact": "Contáctanos"
+        },
+        "footer_text": "El futuro de la tecnología educativa no se trata de mejores herramientas - se trata de inteligencia unificada que"
+      }
+    },
+    "contact": {
+      "title": "Ponte en Contacto",
+      "subtitle": "Chatea con nuestro asistente de IA o contáctanos directamente. Estamos aquí para ayudar a transformar tus ideas en realidad.",
+      "ai_assistant": {
+        "title": "Asistente de IA de FabriiQ",
+        "status": "En línea • Responde instantáneamente",
+        "initial_message": "¡Hola! Soy el asistente de IA de FabriiQ. ¿Cómo puedo ayudarte con tu proyecto hoy?",
+        "typing_indicator": "La IA está pensando...",
+        "placeholder": "Escribe tu mensaje..."
+      },
+      "contact_methods": {
+        "title": "Métodos de Contacto",
+        "email": {
+          "title": "Correo",
+          "value": "hello@fabriiq.com",
+          "description": "Envíanos un correo en cualquier momento"
+        },
+        "phone": {
+          "title": "Teléfono",
+          "value": "+1 (555) 123-4567",
+          "description": "Lun-Vie de 8am a 6pm PST"
+        },
+        "office": {
+          "title": "Oficina",
+          "value": "San Francisco, CA",
+          "description": "Ven a saludarnos a nuestra sede"
+        },
+        "response_time": {
+          "title": "Tiempo de Respuesta",
+          "value": "< 24 horas",
+          "description": "Te responderemos rápidamente"
+        }
+      },
+      "follow_us": "Síguenos"
+    },
+    "support": {
+      "title": "Obtén Ayuda Instantánea",
+      "subtitle": "Chatea con nuestro asistente de IA para soporte inmediato, o navega por nuestra sección de preguntas frecuentes para respuestas rápidas sobre la plataforma educativa de FabriiQ.",
+      "ai_support": {
+        "badge": "Soporte Impulsado por IA",
+        "assistant_title": "Asistente de Soporte de FabriiQ",
+        "status": "En línea",
+        "initial_message": "¡Hola! Soy tu asistente de soporte de IA. ¿Cómo puedo ayudarte hoy?",
+        "placeholder": "Pregunta sobre las capacidades de FabriiQ, programa de asociación, o detalles técnicos..."
+      },
+      "faq": {
+        "title": "Preguntas Frecuentes",
+        "subtitle": "Preguntas clave sobre la plataforma educativa de FabriiQ y el programa de asociación de desarrollo."
+      }
+    },
+    "process": {
+      "title": "Co-creando el Futuro de",
+      "titleHighlight": "la Tecnología Educativa",
+      "subtitle": "Una metodología colaborativa que transforma las instituciones educativas a través de la innovación impulsada por asociaciones, transparencia y co-creación.",
+      "badge": "Proceso de Asociación de Desarrollo"
+    }
+  },
+  "homepage": {
+    "sections": {
+      "platform_philosophy": {
+        "title_platform": "Filosofía",
+        "title_philosophy": "de Plataforma",
+        "description": "Entender las diferencias fundamentales entre enfoques tradicionales y la solución integral de FabriiQ.",
+        "comparisons": {
+          "school_os_vs_lms": {
+            "title": "Sistema Operativo Escolar vs. Sistema de Gestión de Aprendizaje",
+            "description": "Gestión institucional integral más allá de solo entrega de cursos y gestión de contenido."
+          },
+          "unified_vs_fragmented": {
+            "title": "Enfoque Unificado vs. Fragmentado",
+            "description": "Plataforma integrada única que reemplaza 5-10 sistemas separados con flujo de datos sin problemas."
+          },
+          "ai_native_vs_added": {
+            "title": "Enfoque IA-Nativo vs. IA-Añadido",
+            "description": "Construido desde cero con inteligencia IA, no agregado a sistemas legacy existentes."
+          },
+          "online_vs_blended": {
+            "title": "Entornos de Aprendizaje Online vs. Mixto",
+            "description": "Soporte integral para modalidades de entrega diversas con experiencias de campus e virtuales integradas."
+          }
+        }
+      },
+      "key_cornerstones": {
+        "title_key": "6 Pilares",
+        "title_cornerstones": "Fundamentales",
+        "description": "Características diseñadas específicamente para instituciones educativas, no soluciones genéricas adaptadas para escuelas.",
+        "features": {
+          "aivy": {
+            "title": "Inteligencia Multi-Agente AIVY",
+            "description": "No IA genérica, sino agentes especializados diseñados específicamente para educación. Compañero Estudiantil, Asistente Docente, Generación de Contenido, Inteligencia de Evaluación y Monitoreo de Cumplimiento - todo trabajando juntos perfectamente.",
+            "status": "Agentes centrales activos, colaboración avanzada en beta"
+          },
+          "pedagogical": {
+            "title": "Pedagógicamente Sólido",
+            "description": "Cada pregunta, evaluación y actividad se alinea automáticamente con la Taxonomía de Bloom. Rastrea el desarrollo cognitivo desde Recordar hasta Crear con análisis de dominio en tiempo real y activadores de intervención.",
+            "status": "Motor de clasificación activo, análisis de equilibrio en desarrollo"
+          },
+          "gamification": {
+            "title": "Gamificación y Aprendizaje Social",
+            "description": "Sistema integral de puntos, desbloqueo de logros, muros sociales de clase y motor de motivación inteligente. Transforma el aprendizaje en un viaje atractivo con reconocimiento entre pares y crecimiento colaborativo.",
+            "status": "Gamificación central completa, características sociales completas"
+          },
+          "multi_campus": {
+            "title": "Operaciones Multi-Campus",
+            "description": "Arquitectura nativa multi-campus gestionando inscripciones, tasas, asistencia y analíticos a través de ubicaciones ilimitadas. Gobernanza centralizada con autonomía del campus - diseñado desde cero, no adaptado.",
+            "status": "Operaciones centrales activas, analíticos avanzados en desarrollo"
+          },
+          "offline_first": {
+            "title": "Aprendizaje Offline-First",
+            "description": "Funcionalidad offline completa con sincronización inteligente. Los maestros califican, los estudiantes aprenden, los coordinadores gestionan - todo sin internet. Cuando regresa la conexión, todo se sincroniza perfectamente con resolución de conflictos.",
+            "status": "Núcleo offline completo, características de sincronización avanzadas en beta"
+          },
+          "privacy_compliance": {
+            "title": "Cumplimiento de Privacidad por Diseño",
+            "description": "No cumplimiento añadido después, sino privacidad diseñada desde la primera línea de código. Retención automatizada, redacción inteligente, registros de auditoría integrales y evaluación de riesgos impulsada por IA integrada en cada característica.",
+            "status": "Motor de cumplimiento activo, características avanzadas en desarrollo"
+          }
+        },
+        "status_prefix": "Estado Alpha:"
+      },
+      "comprehensive_capabilities": {
+        "badge": "Capacidades Integrales de Plataforma",
+        "title_capabilities": "Capacidades que",
+        "title_transform": "Transforman",
+        "description": "Cinco capacidades integrales diseñadas para revolucionar las operaciones educativas y mejorar los resultados de aprendizaje",
+        "capabilities": {
+          "enrollment_mgmt": {
+            "title": "Gestión Inteligente de Inscripciones",
+            "description": "Optimiza la gestión del ciclo de vida estudiantil con procesamiento automatizado y coordinación multi-campus. Creación de inscripciones individuales y masivas, validación CSV en tiempo real y análisis predictivos transforman la eficiencia administrativa a través de jerarquías institucionales.",
+            "features": {
+              "multi_campus": "Coordinación de inscripciones multi-campus",
+              "automated_workflows": "Flujos de trabajo de gestión de estados automatizados",
+              "validation": "Validación y manejo de errores en tiempo real",
+              "forecasting": "Pronóstico predictivo de inscripciones"
+            },
+            "benefits": {
+              "task_reduction": "75% Reducción de Tareas Manuales",
+              "data_accuracy": "98% Precisión de Datos",
+              "time_savings": "65% Ahorro de Tiempo"
+            },
+            "status": {
+              "active": "Operaciones centrales",
+              "development": "Análisis avanzados",
+              "planned": "Pronóstico impulsado por IA"
+            }
+          },
+          "financial_ops": {
+            "title": "Automatización de Operaciones Financieras",
+            "description": "Transforma la gestión de tasas con automatización inteligente, soporte multi-moneda y análisis financieros integrales. Generación automática de recibos, procesamiento de pagos y gestión de tasas tardías basada en políticas optimizan las operaciones financieras institucionales.",
+            "features": {
+              "fee_structure": "Gestión flexible de estructura de tasas",
+              "payment_methods": "Procesamiento de múltiples métodos de pago",
+              "compliance": "Informes de cumplimiento automatizados",
+              "analytics": "Análisis financieros en tiempo real"
+            },
+            "benefits": {
+              "efficiency": "80% Eficiencia en Tareas Financieras",
+              "accuracy": "99% Precisión de Cálculos",
+              "speed": "50% Mejora en Velocidad de Procesamiento"
+            },
+            "status": {
+              "complete": "Funcionalidad central",
+              "development": "Informes avanzados",
+              "planned": "Análisis financieros predictivos"
+            }
+          },
+          "pedagogical_intel": {
+            "title": "Marco de Inteligencia Pedagógica",
+            "description": "Alinea el currículum con los resultados de aprendizaje usando la integración de Taxonomía de Bloom y análisis de equilibrio cognitivo. Mapeo de resultados de aprendizaje, verificación de alineación curricular y seguimiento de correlación de rendimiento mejoran la efectividad educativa.",
+            "features": {
+              "blooms_framework": "Marco de seis niveles de Taxonomía de Bloom",
+              "curriculum_alignment": "Alineación curricular automatizada",
+              "cognitive_balance": "Análisis de equilibrio cognitivo",
+              "performance_tracking": "Seguimiento de correlación de rendimiento"
+            },
+            "benefits": {
+              "alignment_accuracy": "65% Precisión de Alineación Curricular",
+              "outcome_correlation": "92% Correlación de Resultados",
+              "planning_efficiency": "55% Eficiencia de Planificación"
+            },
+            "status": {
+              "complete": "Marco central",
+              "development": "Análisis avanzados",
+              "beta": "Optimización de equilibrio cognitivo"
+            }
+          },
+          "communication_intel": {
+            "title": "Inteligencia de Comunicación Estratégica",
+            "description": "Coordina las comunicaciones institucionales con mensajería compatible con FERPA, transmisión de emergencia y enrutamiento inteligente. Entrega multi-canal, priorización automatizada y análisis integral aseguran un compromiso efectivo de las partes interesadas.",
+            "features": {
+              "ferpa_messaging": "Sistema de mensajería compatible con FERPA",
+              "emergency_broadcast": "Capacidades de transmisión de emergencia",
+              "intelligent_routing": "Enrutamiento y priorización inteligentes",
+              "analytics_insights": "Insights de análisis de comunicación"
+            },
+            "benefits": {
+              "communication_efficiency": "85% Eficiencia de Comunicación",
+              "compliance_adherence": "100% Adherencia al Cumplimiento",
+              "response_time": "60% Mejora en Tiempo de Respuesta"
+            },
+            "status": {
+              "active": "Mensajería central",
+              "planned": "Características avanzadas",
+              "beta": "Panel de análisis"
+            }
+          },
+          "teaching_analytics": {
+            "title": "Análisis de Enseñanza Basado en Datos",
+            "description": "Accede a insights integrales de rendimiento de clase con análisis predictivo de resultados estudiantiles y recomendaciones de intervención. Paneles en tiempo real, seguimiento cognitivo de Taxonomía de Bloom e identificación de estudiantes en riesgo mejoran la efectividad de la enseñanza.",
+            "features": {
+              "performance_dashboards": "Paneles de rendimiento en tiempo real",
+              "predictive_analysis": "Análisis predictivo de resultados",
+              "risk_identification": "Identificación de estudiantes en riesgo",
+              "cognitive_tracking": "Seguimiento de nivel cognitivo de Bloom"
+            },
+            "benefits": {
+              "prediction_accuracy": "70% Precisión de Predicción",
+              "intervention_reliability": "88% Confiabilidad de Intervención",
+              "risk_identification_speed": "50% Identificación de Riesgo Más Rápida"
+            },
+            "status": {
+              "active": "Informes centrales",
+              "development": "Características predictivas",
+              "planned": "Intervenciones impulsadas por IA"
+            }
+          }
+        },
+        "labels": {
+          "key_features": "Características Clave",
+          "expected_benefits": "Beneficios Esperados",
+          "development_status": "Estado de Desarrollo",
+          "tech_stack": "Stack Tecnológico",
+          "interactive_demo": "Demo Interactiva Disponible"
+        }
+      },
+      "platform_showcase": {
+        "badge": "Excelencia de Plataforma",
+        "title_built": "Construido para",
+        "title_education": "Educación",
+        "description": "Arquitectura diseñada específicamente para instituciones educativas, no soluciones genéricas adaptadas para escuelas",
+        "platform_name": "Plataforma FabriiQ",
+        "platform_tagline": "Inteligencia Educativa Integral",
+        "excellence": {
+          "title": "Excelencia de Plataforma",
+          "description": "Cada componente de FabriiQ está diseñado pensando en los flujos de trabajo educativos, desde la inteligencia multi-agente de AIVY hasta la arquitectura de privacidad nativa FERPA.",
+          "features": {
+            "aivy_system": {
+              "title": "Sistema Multi-Agente AIVY",
+              "description": "Agentes de IA diseñados específicamente que entienden contextos y flujos de trabajo educativos"
+            },
+            "blooms_native": {
+              "title": "Taxonomía de Bloom Nativa",
+              "description": "Seguimiento integrado de nivel cognitivo y medición de dominio en el núcleo"
+            },
+            "privacy_design": {
+              "title": "Privacidad por Diseño",
+              "description": "Cumplimiento FERPA integrado en la arquitectura, no añadido después"
+            }
+          },
+          "status": {
+            "title": "Estado de Desarrollo Alpha",
+            "description": "Los sistemas centrales están activos y siendo refinados a través de asociaciones de desarrollo. Únete a nosotros en co-crear el futuro de la tecnología educativa."
+          }
+        }
+      },
+      "contact": {
+        "title_ready": "¿Listo para",
+        "title_cocreate": "co-crear?",
+        "description": "Únete a un grupo selecto de instituciones visionarias moldeando el futuro de la tecnología educativa. Asociaciones de desarrollo limitadas disponibles.",
+        "cta": {
+          "apply_partnership": "Solicitar Asociación",
+          "schedule_discussion": "Programar Discusión",
+          "alpha_documentation": "Documentación Alpha"
+        },
+        "process": {
+          "strategic_investment": "Inversión Estratégica",
+          "codevelopment": "Oportunidad de co-desarrollo",
+          "competitive_advantage": "Ventaja competitiva"
+        }
+      }
+    }
+  },
+  "pages": {
+    "capabilities": {
+      "title": "Capacidades de la Plataforma",
+      "description": "Explora las capacidades integrales de tecnología educativa de FabriiQ diseñadas para instituciones modernas.",
+      "search_placeholder": "Buscar capacidades...",
+      "filters": {
+        "all": "Todas las Capacidades",
+        "system_admin": "Portal de Administrador del Sistema",
+        "teacher": "Portal del Profesor",
+        "student": "Portal del Estudiante"
+      },
+      "select_capability": "Selecciona una Capacidad",
+      "select_capability_desc": "Elige una capacidad de la lista para ver información detallada y demostraciones.",
+      "interactive_demo": "Demostración Interactiva",
+      "interactive_demos": "Demostraciones Interactivas",
+      "key_features": "Características Clave",
+      "expected_benefits": "Beneficios Esperados (Fase Alpha)",
+      "alpha_performance": "Expectativas de Rendimiento Alpha",
+      "tags": "Etiquetas"
+    },
+    "projects": {
+      "capabilities": {
+        "user-management": {
+          "name": "Gestión Avanzada de Usuarios",
+          "subtitle": "Control Integral de Acceso",
+          "description": "Gestiona jerarquías de usuarios, roles y permisos a través de múltiples campus con automatización inteligente.",
+          "features": [
+            "Gestión jerárquica de roles multi-campus",
+            "Permisos granulares y control de acceso",
+            "Automatización de ciclo de vida de usuarios",
+            "Autenticación SSO y federada",
+            "Registros de auditoría en tiempo real"
+          ],
+          "benefits": [
+            "Proyectada reducción del 80% en tareas administrativas",
+            "Anticipada mejora en el cumplimiento de seguridad",
+            "Esperado control de acceso simplificado",
+            "Planificada gestión de usuarios unificada"
+          ],
+          "tags": ["Gestión de Usuarios", "Seguridad", "Control de Acceso", "Multi-Campus"],
+          "performance": {
+            "efficiency": "+80%",
+            "security": "45%",
+            "compliance": "95%"
+          }
+        },
+        "system-monitoring": {
+          "name": "Monitoreo Inteligente del Sistema",
+          "subtitle": "Observabilidad Operacional",
+          "description": "Monitorea la salud del sistema, rendimiento y seguridad con alertas predictivas e informes automatizados.",
+          "features": [
+            "Paneles de salud del sistema en tiempo real",
+            "Análisis predictivo y alertas tempranas",
+            "Monitoreo automatizado de rendimiento",
+            "Seguimiento de cumplimiento de seguridad",
+            "Informes de estado multi-campus"
+          ],
+          "benefits": [
+            "Proyectada reducción del 90% en tiempo de inactividad",
+            "Anticipada detección proactiva de problemas",
+            "Esperada mejora en confiabilidad del sistema",
+            "Planificado mantenimiento predictivo"
+          ],
+          "tags": ["Monitoreo del Sistema", "Análisis Predictivo", "Alertas", "Rendimiento"],
+          "performance": {
+            "uptime": "+90%",
+            "detection": "30%",
+            "reliability": "98%"
+          }
+        },
+        "audit-trails": {
+          "name": "Registros de Auditoría Comprensivos",
+          "subtitle": "Trazabilidad Completa de Acciones",
+          "description": "Mantén registros detallados de todas las acciones del sistema con búsqueda inteligente y análisis de cumplimiento.",
+          "features": [
+            "Registro automático de todas las acciones del sistema",
+            "Búsqueda avanzada y capacidades de filtrado",
+            "Informes de cumplimiento automatizados",
+            "Detección de anomalías impulsada por IA",
+            "Archivado seguro e inmutable"
+          ],
+          "benefits": [
+            "Proyectado cumplimiento del 100% con estándares de auditoría",
+            "Anticipada transparencia completa de acciones",
+            "Esperada investigación simplificada de incidentes",
+            "Planificada preparación para auditorías automatizada"
+          ],
+          "tags": ["Registros de Auditoría", "Cumplimiento", "Trazabilidad", "Seguridad"],
+          "performance": {
+            "compliance": "100%",
+            "searchSpeed": "60%",
+            "completeness": "99%"
+          }
+        },
+        "automated-backups": {
+          "name": "Respaldos Automatizados Inteligentes",
+          "subtitle": "Continuidad de Datos Asegurada",
+          "description": "Gestiona respaldos automatizados con recuperación inteligente y verificación de integridad de datos.",
+          "features": [
+            "Respaldos automáticos programados",
+            "Verificación de integridad de datos",
+            "Recuperación de desastres de un clic",
+            "Encriptación y almacenamiento seguro",
+            "Monitoreo de salud de respaldos"
+          ],
+          "benefits": [
+            "Proyectada protección del 99.9% de datos",
+            "Anticipada recuperación rápida de desastres",
+            "Esperada tranquilidad de datos",
+            "Planificada continuidad operacional sin interrupciones"
+          ],
+          "tags": ["Respaldos de Datos", "Recuperación de Desastres", "Integridad de Datos", "Automatización"],
+          "performance": {
+            "protection": "99.9%",
+            "recovery": "75%",
+            "reliability": "99%"
+          }
+        },
+        "security-compliance": {
+          "name": "Marco de Cumplimiento de Seguridad",
+          "subtitle": "Protección de Privacidad Nativa",
+          "description": "Asegura el cumplimiento con FERPA y estándares de privacidad con monitoreo automatizado y evaluación de riesgos.",
+          "features": [
+            "Cumplimiento automatizado con FERPA",
+            "Evaluación continua de riesgos de privacidad",
+            "Encriptación de datos y controles de acceso",
+            "Políticas de retención automatizadas",
+            "Informes regulares de cumplimiento"
+          ],
+          "benefits": [
+            "Proyectado cumplimiento del 100% con FERPA",
+            "Anticipada reducción de riesgos de seguridad",
+            "Esperada protección automática de privacidad",
+            "Planificada preparación para auditorías simplificada"
+          ],
+          "tags": ["Cumplimiento FERPA", "Privacidad de Datos", "Evaluación de Riesgos", "Seguridad"],
+          "performance": {
+            "compliance": "100%",
+            "riskReduction": "85%",
+            "protection": "99%"
+          }
+        },
+        "academic-calendar": {
+          "name": "Gestión Inteligente de Calendario Académico",
+          "subtitle": "Programación Institucional Unificada",
+          "description": "Gestiona calendarios académicos complejos con programación automatizada e integración multi-campus.",
+          "features": [
+            "Plantillas de calendario personalizables",
+            "Programación automatizada de eventos",
+            "Sincronización multi-campus",
+            "Resolución inteligente de conflictos",
+            "Integración con sistemas externos"
+          ],
+          "benefits": [
+            "Proyectada reducción del 65% en tiempo de planificación",
+            "Anticipada eliminación de conflictos de programación",
+            "Esperada coordinación multi-campus mejorada",
+            "Planificada automatización de programación"
+          ],
+          "tags": ["Calendario Académico", "Programación", "Multi-Campus", "Automatización"],
+          "performance": {
+            "efficiency": "+65%",
+            "conflicts": "55%",
+            "coordination": "92%"
+          }
+        },
+        "class-analytics": {
+          "name": "Análisis Comprensivo de Clases",
+          "subtitle": "Perspectivas de Enseñanza Basadas en Datos",
+          "description": "Accede a análisis detallados de rendimiento de clases con perspectivas de estudiantes y recomendaciones de intervención.",
+          "features": [
+            "Paneles de rendimiento de clase en tiempo real",
+            "Seguimiento de progreso individual de estudiantes",
+            "Análisis cognitivo de Taxonomía de Bloom",
+            "Identificación de estudiantes en riesgo",
+            "Motor de recomendación de intervenciones"
+          ],
+          "benefits": [
+            "Proyectada mejora del 70% en predicción de resultados estudiantiles",
+            "Anticipada efectividad de enseñanza mejorada",
+            "Esperada toma de decisiones basada en datos",
+            "Planificadas estrategias de intervención personalizadas"
+          ],
+          "tags": ["Análisis", "Rendimiento Estudiantil", "Inteligencia Predictiva", "Intervención"],
+          "performance": {
+            "insight": "+70%",
+            "identification": "50%",
+            "reliability": "88%"
+          }
+        },
+        "resource-management": {
+          "name": "Gestión Dinámica de Recursos",
+          "subtitle": "Organización Inteligente de Contenido",
+          "description": "Organiza y distribuye recursos educativos con intercambio inteligente y análisis de uso.",
+          "features": [
+            "Organización jerárquica de recursos",
+            "Intercambio inteligente basado en inscripciones",
+            "Análisis de uso y métricas de participación",
+            "Control de versiones y colaboración",
+            "Recomendaciones de contenido impulsadas por IA"
+          ],
+          "benefits": [
+            "Proyectada mejora del 60% en accesibilidad de recursos",
+            "Anticipada utilización mejorada de contenido",
+            "Esperadas ganancias en eficiencia colaborativa",
+            "Planificada curación inteligente de contenido"
+          ],
+          "tags": ["Gestión de Recursos", "Análisis de Contenido", "Colaboración", "Recomendaciones IA"],
+          "performance": {
+            "efficiency": "+60%",
+            "accessTime": "40%",
+            "utilization": "85%"
+          }
+        },
+        "quiz-activities": {
+          "name": "Actividades de Cuestionarios Interactivos",
+          "subtitle": "Creación de Evaluaciones Atractivas",
+          "description": "Crea actividades de cuestionarios dinámicos con múltiples tipos de preguntas y seguimiento de participación estudiantil en tiempo real.",
+          "features": [
+            "Múltiples formatos de preguntas y soporte multimedia",
+            "Seguimiento de respuestas de estudiantes en tiempo real",
+            "Alineación cognitiva con Taxonomía de Bloom",
+            "Retroalimentación instantánea y explicación",
+            "Análisis de rendimiento e insights"
+          ],
+          "benefits": [
+            "Proyectado aumento del 75% en participación estudiantil",
+            "Anticipada eficiencia de evaluación mejorada",
+            "Esperados resultados de aprendizaje mejorados",
+            "Planificado ajuste adaptivo de dificultad"
+          ],
+          "tags": ["Evaluación Interactiva", "Participación Estudiantil", "Análisis en Tiempo Real", "Alineación Cognitiva"],
+          "performance": {
+            "engagement": "+75%",
+            "creationTime": "55%",
+            "accuracy": "90%"
+          }
+        },
+        "personal-dashboard": {
+          "name": "Panel Personal de Estudiante",
+          "subtitle": "Viaje de Aprendizaje Individual",
+          "description": "Accede a tu panel personal de aprendizaje con seguimiento de progreso e insights personalizados.",
+          "features": [
+            "Visualización de progreso individual",
+            "Establecimiento y seguimiento de objetivos",
+            "Insights de rendimiento y recomendaciones",
+            "Celebraciones de hitos de aprendizaje",
+            "Gestión de horario de estudio"
+          ],
+          "benefits": [
+            "Proyectada mejora del 80% en aprendizaje auto-dirigido",
+            "Anticipada motivación y participación mejoradas",
+            "Esperada experiencia de aprendizaje personalizada",
+            "Planificado sistema de reconocimiento de logros"
+          ],
+          "tags": ["Desarrollo Personal", "Seguimiento de Progreso", "Participación Estudiantil", "Auto-Aprendizaje"],
+          "performance": {
+            "motivation": "+80%",
+            "selfDirected": "65%",
+            "goalCompletion": "92%"
+          }
+        },
+        "assignment-submission": {
+          "name": "Envío Inteligente de Tareas",
+          "subtitle": "Gestión Simplificada de Tareas",
+          "description": "Envía tareas con detección inteligente de plagio y retroalimentación instantánea sobre formato y calidad del contenido.",
+          "features": [
+            "Soporte de carga de múltiples formatos de archivo",
+            "Detección de plagio en tiempo real",
+            "Evaluación de calidad de contenido",
+            "Seguimiento de envíos y recordatorios",
+            "Herramientas de revisión por pares y colaboración"
+          ],
+          "benefits": [
+            "Proyectada reducción del 70% en incidentes de plagio",
+            "Anticipada calidad de tareas mejorada",
+            "Esperada integridad académica mejorada",
+            "Planificadas oportunidades de aprendizaje colaborativo"
+          ],
+          "tags": ["Gestión de Tareas", "Detección de Plagio", "Evaluación de Calidad", "Colaboración"],
+          "performance": {
+            "qualityImprovement": "+70%",
+            "plagiarismReduction": "85%",
+            "submissionRate": "95%"
+          }
+        },
+        "interactive-learning": {
+          "name": "Módulos de Aprendizaje Interactivos",
+          "subtitle": "Contenido Educativo Atractivo",
+          "description": "Experimenta módulos de aprendizaje interactivos con elementos gamificados y ajuste adaptivo de dificultad.",
+          "features": [
+            "Experiencias de aprendizaje gamificadas",
+            "Progresión adaptiva de dificultad",
+            "Contenido multimedia interactivo",
+            "Insignias de logros y recompensas",
+            "Desafíos de aprendizaje colaborativo"
+          ],
+          "benefits": [
+            "Proyectado aumento del 85% en participación de aprendizaje",
+            "Anticipada retención de conocimiento mejorada",
+            "Esperada motivación de aprendizaje mejorada",
+            "Planificadas rutas de aprendizaje personalizadas"
+          ],
+          "tags": ["Aprendizaje Interactivo", "Gamificación", "Sistemas Adaptativos", "Participación Estudiantil"],
+          "performance": {
+            "engagement": "+85%",
+            "retention": "75%",
+            "completion": "88%"
+          }
+        }
+      },
+      "status": {
+        "alpha": "Alpha"
+      }
+    }
+  },
+  "partnership_extended": {
+    "timeline": {
+      "steps": {
+        "discovery": {
+          "title": "Invitación y Descubrimiento",
+          "description": "Evaluación de necesidades institucionales y compatibilidad estratégica"
+        },
+        "selection": {
+          "title": "Selección Mutua",
+          "description": "Firma de la Carta de Asociación y formalización del compromiso de recursos"
+        },
+        "pilot": {
+          "title": "Implementación Piloto",
+          "description": "Despliegue del sistema central con soporte dedicado e integración de marca personalizada"
+        },
+        "partnership": {
+          "title": "Asociación Completa",
+          "description": "Acceso completo a la plataforma con derechos de co-desarrollo y personalización de flujos de trabajo"
+        },
+        "sustained": {
+          "title": "Más Allá de Alpha - Asociación Sostenida",
+          "description": "Términos preferenciales, acceso continuo a innovación y reconocimiento como socio fundador"
+        }
+      }
+    },
+    "investment": {
+      "title": "Marco de",
+      "titleHighlight": "Inversión Equilibrada",
+      "description": "Una asociación estratégica donde tanto las instituciones como FabriiQ invierten significativamente para el éxito mutuo",
+      "institutions": {
+        "title": "Para Instituciones Educativas",
+        "subtitle": "Inversión estratégica en despliegue e intercambio de experiencia",
+        "benefits": {
+          "custom_features": "Desarrollo de características personalizadas alineadas con flujos de trabajo institucionales",
+          "competitive_advantage": {
+            "title": "Ventaja competitiva sobre alternativas del mercado",
+            "description": "Obtén posicionamiento estratégico en el mercado a través del acceso temprano a soluciones de tecnología educativa de vanguardia."
+          },
+          "influence_roadmap": "Influencia directa en la hoja de ruta del producto y prioridades de desarrollo",
+          "custom_branding": "Marca personalizada e integración de identidad institucional",
+          "thought_leadership": "Reconocimiento de liderazgo intelectual en innovación de tecnología educativa",
+          "preferential_pricing": "Precios preferenciales post-Alpha y términos de asociación sostenida"
+        }
+      },
+      "fabriiq": {
+        "title": "Para el Desarrollo de FabriiQ",
+        "subtitle": "Inversión en recursos dedicados de co-desarrollo y soporte prioritario",
+        "benefits": {
+          "validation": "Validación del mundo real en entornos educativos auténticos",
+          "user_input": "Entrada de diseño centrada en el usuario de educadores y administradores reales",
+          "quality_assurance": "Aseguramiento de calidad a través de pruebas multi-institucionales exhaustivas",
+          "use_case_refinement": "Refinamiento de casos de uso y conocimientos de optimización de flujos de trabajo",
+          "market_validation": "Validación del mercado y desarrollo de prueba de concepto",
+          "success_stories": "Documentación de historias de éxito y creación de estudios de caso"
+        }
+      }
+    },
+    "idealPartner": {
+      "title": "Perfil de",
+      "titleHighlight": "Socio Ideal",
+      "description": "Buscamos instituciones listas para una asociación estratégica de co-desarrollo",
+      "institutional": {
+        "title": "Características Institucionales",
+        "items": {
+          "multi_campus": "Organizaciones educativas multi-campus con necesidades operacionales complejas",
+          "progressive_leadership": "Liderazgo progresivo comprometido con la transformación digital integral",
+          "technology_readiness": "Preparación tecnológica con recursos de TI dedicados y capacidad de implementación",
+          "collaborative_culture": "Cultura colaborativa dispuesta a participar en co-desarrollo iterativo",
+          "financial_readiness": "Preparación financiera para invertir en costos de despliegue e infraestructura"
+        }
+      },
+      "partnership_requirements": {
+        "title": "Requisitos de Asociación",
+        "items": {
+          "csuite_commitment": "Compromiso de la alta dirección para la adopción de la plataforma y gestión del cambio organizacional",
+          "staff_allocation": "Asignación de personal dedicado (10-15 horas mensuales) para participación en co-desarrollo",
+          "investment_deployment": "Inversión en costos de despliegue, capacitación y requisitos de infraestructura",
+          "reference_willingness": "Disposición a servir como referencia y estudio de caso de liderazgo intelectual",
+          "research_participation": "Participación en investigación de usuario, sesiones de retroalimentación y validación de producto"
+        }
+      }
+    },
+    "charter": {
+      "title": "Carta de Asociación",
+      "titleHighlight": "Compromisos",
+      "institution": {
+        "title": "Su Institución se Compromete a:",
+        "items": {
+          "cover_deployment": "Cubrir la inversión en despliegue, infraestructura y capacitación",
+          "allocate_staff": "Asignar tiempo de personal dedicado para actividades de asociación",
+          "participate_feedback": "Participar en sesiones de retroalimentación mensuales y talleres de estrategia trimestrales",
+          "provide_assessment": "Proporcionar evaluación honesta y orientación de desarrollo constructiva",
+          "maintain_confidentiality": "Mantener confidencialidad sobre las características de Alpha y la hoja de ruta de desarrollo"
+        }
+      },
+      "fabriiq": {
+        "title": "FabriiQ se Compromete a:",
+        "items": {
+          "provide_access": "Proporcionar acceso dedicado al co-desarrollo Alpha y desarrollo de características prioritarias",
+          "deliver_branding": "Entregar integración de marca personalizada y personalización de flujos de trabajo",
+          "maintain_communication": "Mantener comunicación transparente sobre el progreso de desarrollo y cronogramas",
+          "honor_terms": "Honrar términos preferenciales post-Alpha de asociación y precios",
+          "recognize_institution": "Reconocer su institución como socio fundador de desarrollo con oportunidades de liderazgo intelectual"
+        }
+      }
+    },
+    "beyondAlpha": {
+      "title": "Más Allá de Alpha:",
+      "titleHighlight": "Valor de Asociación Sostenida",
+      "description": "La Asociación de Desarrollo Alpha establece la base para una ventaja estratégica a largo plazo",
+      "benefits": {
+        "preferential_terms": {
+          "title": "Términos de Asociación Preferenciales",
+          "description": "Los socios fundadores conservan precios ventajosos y acceso prioritario en comparación con futuros adoptantes"
+        },
+        "innovation_leadership": {
+          "title": "Liderazgo de Innovación Continua",
+          "description": "Primer acceso a nuevas características, mejoras de plataforma y desarrollos estratégicos"
+        },
+        "legacy_advantage": {
+          "title": "Ventaja de Legado",
+          "description": "Los flujos de trabajo institucionales y la marca permanecen profundamente integrados en la evolución de la plataforma"
+        },
+        "thought_leadership": {
+          "title": "Reconocimiento de Liderazgo Intelectual",
+          "description": "Mostrado como contribuyente fundador a la transformación de la tecnología educativa"
+        }
+      }
+    },
+    "intelligence": {
+      "title": "Plataforma de Inteligencia Educativa",
+      "description": "La base tecnológica que impulsa la educación de próxima generación"
+    }
+  }
+}

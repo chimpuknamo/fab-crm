@@ -1,0 +1,25 @@
+{
+  "footer": {
+    "powered_by": "Impulsado por FabriiQ",
+    "rights": "Todos los derechos reservados",
+    "phone": "Teléfono",
+    "address": "Dirección",
+    "linkedin": "LinkedIn",
+    "platform": {
+      "title": "Plataforma",
+      "capabilities": "Capacidades",
+      "about": "Acerca de"
+    },
+    "partnership": {
+      "title": "Colaboración",
+      "apply": "Solicitar Colaboración",
+      "contact": "Contáctanos"
+    },
+    "newsletter": {
+      "title": "Mantente Actualizado",
+      "description": "Suscríbete a nuestro boletín para las últimas actualizaciones",
+      "placeholder": "Ingresa tu correo",
+      "subscribe": "Suscribirse"
+    }
+  }
+}

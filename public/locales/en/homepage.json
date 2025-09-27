@@ -1,0 +1,167 @@
+{
+  "hero": {
+    "title": "FabriiQ - The First School Operating System",
+    "subtitle": "Educational Intelligence Platform",
+    "description": "Transforming education through AI-powered multi-agent systems and comprehensive school management.",
+    "cta_primary": "Get Started",
+    "cta_secondary": "Learn More",
+    "watch_demo": "Watch Demo",
+    "typing": {
+      "base_text": "The first comprehensive ",
+      "school_os": "School Operating System",
+      "educational_intelligence": "educational intelligence",
+      "unified_platform": "unified platform"
+    },
+    "alpha_status": "Alpha Development Phase - Partnership Opportunities Available",
+    "description_detailed": "One platform. All operations. Purpose-built for education."
+  },
+  "homepage": {
+    "sections": {
+      "platform_philosophy": {
+        "title_platform": "Platform",
+        "title_philosophy": "Philosophy",
+        "description": "Understanding the fundamental differences between traditional approaches and FabriiQ's comprehensive solution.",
+        "comparisons": {
+          "school_os_vs_lms": {
+            "title": "School Operating System vs. Learning Management System",
+            "description": "Comprehensive institutional management beyond just course delivery and content management."
+          },
+          "unified_vs_fragmented": {
+            "title": "Unified vs. Fragmented Approach",
+            "description": "Single integrated platform replacing 5-10 separate systems with seamless data flow."
+          },
+          "ai_native_vs_added": {
+            "title": "AI-Native vs. AI-Added Approach",
+            "description": "Built from the ground up with AI intelligence, not bolted onto existing legacy systems."
+          },
+          "online_vs_blended": {
+            "title": "Online vs. Blended Learning Environments",
+            "description": "Comprehensive support for diverse delivery modalities with integrated campus and virtual experiences."
+          }
+        }
+      },
+      "key_cornerstones": {
+        "title_key": "6 Key",
+        "title_cornerstones": "Cornerstones",
+        "description": "Purpose-built features designed specifically for educational institutions, not generic solutions adapted for schools.",
+        "features": {
+          "aivy": {
+            "title": "AIVY Multi-Agent Intelligence",
+            "description": "Educational AI agents (Student Companion, Teacher Assistant, Content Creator) working together seamlessly.",
+            "status": "Alpha"
+          },
+          "pedagogical": {
+            "title": "Pedagogically Sound",
+            "description": "Auto-aligned Bloom's Taxonomy tracking from Remember to Create with real-time mastery analytics.",
+            "status": "Alpha"
+          },
+          "gamification": {
+            "title": "Gamification & Social Learning",
+            "description": "Points, achievements, and class social walls that transform learning into an engaging journey.",
+            "status": "Alpha"
+          },
+          "multi_campus": {
+            "title": "Multi-Campus Operations",
+            "description": "Native architecture managing enrollment, fees, and analytics across unlimited locations.",
+            "status": "Alpha"
+          },
+          "offline_first": {
+            "title": "Offline-First Learning",
+            "description": "Complete functionality without internet - grade, learn, manage - syncs when connected.",
+            "status": "Alpha"
+          },
+          "privacy_compliance": {
+            "title": "Privacy-by-Design Compliance",
+            "description": "FERPA compliance built from first line of code, not added later.",
+            "status": "Alpha"
+          }
+        },
+        "status_prefix": "Alpha Status:"
+      },
+      "comprehensive_capabilities": {
+        "badge": "Comprehensive Platform Capabilities",
+        "title_capabilities": "Capabilities That",
+        "title_transform": "Transform",
+        "description": "Streamlined capabilities designed to enhance educational operations",
+        "capabilities": {
+          "enrollment_mgmt": {
+            "title": "Intelligent Enrollment Management",
+            "description": "Automated student lifecycle with bulk processing, CSV validation, and predictive analytics across campuses."
+          },
+          "financial_ops": {
+            "title": "Financial Operations Automation",
+            "description": "Complete fee management with multi-currency support, automated challans, and policy-based late fees."
+          },
+          "pedagogical_intel": {
+            "title": "Pedagogical Intelligence Framework",
+            "description": "Curriculum-outcome alignment with Bloom's Taxonomy integration and cognitive balance analysis."
+          },
+          "communication_intel": {
+            "title": "Strategic Communication Intelligence",
+            "description": "FERPA-compliant messaging with emergency broadcasting, intelligent routing, and multi-channel delivery."
+          },
+          "teaching_analytics": {
+            "title": "Data-Driven Teaching Analytics",
+            "description": "Predictive student outcomes with real-time dashboards, at-risk identification, and intervention recommendations."
+          },
+          "gamification_social": {
+            "title": "Gamification & Social Learning",
+            "description": "Points, achievements, and class social walls that transform learning into an engaging journey."
+          }
+        },
+        "labels": {
+          "key_features": "Key Features",
+          "expected_benefits": "Expected Benefits",
+          "development_status": "Development Status",
+          "tech_stack": "Tech Stack",
+          "interactive_demo": "Interactive Demo Available"
+        }
+      },
+      "platform_showcase": {
+        "badge": "Platform Excellence",
+        "title_built": "Built for",
+        "title_education": "Education",
+        "description": "Purpose-built architecture designed specifically for educational institutions, not generic solutions retrofitted for schools",
+        "platform_name": "FabriiQ Platform",
+        "platform_tagline": "Comprehensive Educational Intelligence",
+        "excellence": {
+          "title": "Platform Excellence",
+          "description": "Every component of FabriiQ is designed with educational workflows in mind, from AIVY's multi-agent intelligence to FERPA-native privacy architecture.",
+          "features": {
+            "aivy_system": {
+              "title": "AIVY Multi-Agent System",
+              "description": "Purpose-built AI agents that understand educational contexts and workflows"
+            },
+            "blooms_native": {
+              "title": "Bloom's Taxonomy Native",
+              "description": "Integrated cognitive level tracking and mastery measurement at the core"
+            },
+            "privacy_design": {
+              "title": "Privacy-by-Design",
+              "description": "FERPA compliance built into the architecture, not bolted on afterwards"
+            }
+          },
+          "status": {
+            "title": "Alpha Development Status",
+            "description": "Core systems are active and being refined through development partnerships. Join us in co-creating the future of educational technology."
+          }
+        }
+      },
+      "contact": {
+        "title_ready": "Ready to",
+        "title_cocreate": "co-create?",
+        "description": "Join a select group of forward-thinking institutions shaping the future of educational technology. Limited development partnerships available.",
+        "cta": {
+          "apply_partnership": "Apply for Partnership",
+          "schedule_discussion": "Schedule Discussion",
+          "alpha_documentation": "Alpha Documentation"
+        },
+        "process": {
+          "strategic_investment": "Strategic Investment",
+          "codevelopment": "Co-development opportunity",
+          "competitive_advantage": "Competitive advantage"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "common": {
+    "loading": "Memuat...",
+    "error": "Error",
+    "success": "Berhasil",
+    "welcome": "Selamat datang",
+    "home": "Beranda",
+    "back": "Kembali",
+    "next": "Selanjutnya",
+    "previous": "Sebelumnya",
+    "save": "Simpan",
+    "cancel": "Batal",
+    "close": "Tutup",
+    "search": "Cari",
+    "submit": "Kirim",
+    "edit": "Edit",
+    "delete": "Hapus",
+    "view": "Lihat",
+    "add": "Tambah",
+    "complete": "Selesai",
+    "in_progress": "Dalam Proses",
+    "starting": "Memulai",
+    "ready": "Siap",
+    "email_placeholder": "Masukkan alamat email"
+  }
+}

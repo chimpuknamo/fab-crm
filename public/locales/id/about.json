@@ -1,0 +1,118 @@
+{
+  "pages": {
+    "about": {
+      "title": "Tentang FabriiQ",
+      "hero": {
+        "badge": "Cerita Kami",
+        "title": "Merevolusi Teknologi Pendidikan",
+        "subtitle": "Delapan tahun pengalaman teknologi pendidikan membawa kami pada satu kesadaran: institusi membutuhkan Sistem Operasi Sekolah, bukan alat terfragmentasi lainnya."
+      },
+      "mission": {
+        "title": "Misi Kami",
+        "description": "Menghilangkan kompleksitas dan fragmentasi yang mencegah institusi pendidikan mencapai potensi penuh mereka dengan menyediakan Sistem Operasi Sekolah komprehensif pertama yang dirancang khusus untuk keunggulan pendidikan modern."
+      },
+      "vision": {
+        "title": "Visi Kami",
+        "description": "Dunia di mana setiap institusi pendidikan memiliki teknologi yang terpadu, cerdas, dan intuitif yang memberdayakan pendidik, melibatkan siswa, dan memungkinkan pertumbuhan institusional."
+      },
+      "origin_story": {
+        "title": "Kisah Asal FabriiQ",
+        "subtitle": "Bagaimana delapan tahun pengalaman mengungkap masalah sebenarnya",
+        "problem": {
+          "title": "Masalah yang Kami Temukan",
+          "description_1": "Selama delapan tahun, kami telah terlibat mendalam dalam lanskap teknologi pendidikan, bekerja dengan institusi di berbagai skala dan konteks. Yang dimulai sebagai antusiasme untuk \"meningkatkan pendidikan melalui teknologi\" secara bertahap mengungkap pola yang mengkhawatirkan.",
+          "description_2": "Kami menyaksikan institusi berjuang dengan 3-7 sistem berbeda yang tidak dapat berkomunikasi. Informasi siswa berada di satu tempat, manajemen pembelajaran di tempat lain, data keuangan di tempat ketiga, dan komunikasi tersebar di berbagai platform."
+        },
+        "revelation": {
+          "title": "Pencerahan",
+          "description_1": "Terobosan datang ketika kami menyadari bahwa kami mengajukan pertanyaan yang salah. Alih-alih \"Bagaimana kita bisa membangun LMS yang lebih baik?\" kami seharusnya bertanya: \"Mengapa institusi pendidikan dipaksa beroperasi seperti kumpulan departemen yang terputus?\"",
+          "description_2": "Tidak ada yang memikirkan pendidikan sebagai ekosistem yang lengkap dan terintegrasi."
+        },
+        "solution": {
+          "title": "Filosofi Solusi Kami",
+          "description": "Daripada membangun alat lain untuk ditambahkan ke tumpukan teknologi institusional, kami merancang sesuatu yang secara fundamental berbeda: Sistem Operasi Sekolah komprehensif pertama.",
+          "features": {
+            "not_lms": {
+              "title": "Bukan LMS Plus",
+              "description": "Kami mulai dengan misi institusional yang lengkap"
+            },
+            "ai_native": {
+              "title": "Arsitektur AI Asli",
+              "description": "Dibangun untuk hubungan pendidikan dari awal"
+            },
+            "multi_campus": {
+              "title": "Multi-Kampus Pertama",
+              "description": "Dirancang untuk kompleksitas sejak hari pertama"
+            }
+          }
+        }
+      },
+      "development_philosophy": {
+        "title": "Kemitraan di Atas Produk",
+        "subtitle": "Mengapa kami memilih pengembangan kolaboratif",
+        "alpha_development": {
+          "title": "Pengembangan Fase Alpha",
+          "description": "Sebagian besar teknologi pendidikan dibangun di ruang rapat oleh orang-orang yang tidak pernah berada di kelas selama bertahun-tahun. Kami percaya teknologi pendidikan terbaik muncul dari kolaborasi sejati dengan pendidik."
+        },
+        "transparency": {
+          "title": "Janji Transparansi",
+          "description": "Kami berkomunikasi dengan jelas tentang apa yang bekerja hari ini versus apa yang kami bangun besok. Tidak ada overselling. Tidak ada timeline palsu. Tidak ada batasan tersembunyi."
+        }
+      },
+      "alpha_journey": {
+        "badge": "Status Saat Ini",
+        "title": "Perjalanan Satu Tahun ke Alpha",
+        "subtitle": "Dari konsep ke Sistem Operasi Sekolah operasional",
+        "milestones": {
+          "core_systems": {
+            "title": "Sistem Inti Operasional",
+            "description": "Semua operasi institusional penting berfungsi dengan andal"
+          },
+          "ai_features": {
+            "title": "Fitur AI Aktif",
+            "description": "Agen AIVY menyediakan bantuan cerdas di seluruh platform"
+          },
+          "multi_campus": {
+            "title": "Multi-Kampus Terbukti",
+            "description": "Berhasil mengelola hierarki institusional yang kompleks"
+          }
+        }
+      },
+      "school_os": {
+        "title": "Mengapa \"Sistem Operasi Sekolah\"?",
+        "description": "Seperti sistem operasi komputer mengelola sumber daya perangkat keras dan memungkinkan aplikasi, sistem operasi pendidikan harus mengelola sumber daya institusional dan memungkinkan keunggulan pendidikan.",
+        "features": {
+          "unified_data": {
+            "title": "Model Data Terpadu",
+            "description": "Semua informasi institusional terhubung"
+          },
+          "intelligent_automation": {
+            "title": "Otomasi Cerdas",
+            "description": "Manusia fokus pada pendidikan"
+          },
+          "extensible_architecture": {
+            "title": "Arsitektur Dapat Diperluas",
+            "description": "Platform tumbuh dengan kebutuhan"
+          },
+          "resource_optimization": {
+            "title": "Optimasi Sumber Daya",
+            "description": "Penggunaan waktu dan sumber daya yang efisien"
+          }
+        }
+      },
+      "partnership_invitation": {
+        "title": "Undangan Kemitraan",
+        "description": "Kami tidak mencari pelanggan - kami mencari co-creator. Institusi pendidikan yang memahami bahwa masa depan pendidikan memerlukan teknologi yang terpadu dan cerdas.",
+        "limited_positions": {
+          "title": "Posisi Kemitraan Terbatas Tersedia",
+          "description": "Kami menerima maksimal 12 mitra pengembangan untuk memastikan kolaborasi yang bermakna dan kustomisasi komprehensif untuk setiap institusi."
+        },
+        "cta": {
+          "explore": "Jelajahi Kemitraan",
+          "contact": "Hubungi Kami"
+        },
+        "footer_text": "Masa depan teknologi pendidikan bukan tentang alat yang lebih baik - ini tentang kecerdasan terpadu yang"
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "common": {
+    "loading": "Cargando...",
+    "error": "Error",
+    "success": "Éxito",
+    "welcome": "Bienvenido",
+    "home": "Inicio",
+    "back": "Atrás",
+    "next": "Siguiente",
+    "previous": "Anterior",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "close": "Cerrar",
+    "search": "Buscar",
+    "submit": "Enviar",
+    "edit": "Editar",
+    "delete": "Eliminar",
+    "view": "Ver",
+    "add": "Añadir",
+    "complete": "Completo",
+    "in_progress": "En Progreso",
+    "starting": "Iniciando",
+    "ready": "Listo",
+    "email_placeholder": "Ingresa tu correo electrónico"
+  }
+}

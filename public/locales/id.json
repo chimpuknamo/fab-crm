@@ -1,0 +1,1345 @@
+{
+  "common": {
+    "loading": "Memuat...",
+    "error": "Error",
+    "success": "Berhasil",
+    "welcome": "Selamat datang",
+    "home": "Beranda",
+    "back": "Kembali",
+    "next": "Selanjutnya",
+    "previous": "Sebelumnya",
+    "save": "Simpan",
+    "cancel": "Batal",
+    "close": "Tutup",
+    "search": "Cari",
+    "submit": "Kirim",
+    "edit": "Edit",
+    "delete": "Hapus",
+    "view": "Lihat",
+    "add": "Tambah",
+    "complete": "Selesai",
+    "in_progress": "Dalam Proses",
+    "starting": "Memulai",
+    "ready": "Siap"
+  },
+  "navigation": {
+    "capabilities": "Kemampuan",
+    "platform": "Platform",
+    "partnership": "Kemitraan",
+    "support": "Dukungan",
+    "about": "Tentang",
+    "process": "Proses",
+    "services": "Layanan",
+    "portfolio": "Portofolio",
+    "contact": "Kontak",
+    "corporate_login": "Login Korporat",
+    "projects": "Proyek"
+  },
+  "cta": {
+    "lets_cocreate": "Mari berkreasi bersama",
+    "cocreate_short": "Berkreasi",
+    "cocreate_letter": "B",
+    "partnership_application": "Aplikasi Kemitraan",
+    "learn_more": "Pelajari Lebih Lanjut",
+    "get_started": "Mulai",
+    "contact_us": "Hubungi Kami",
+    "view_details": "Lihat Detail",
+    "read_more": "Baca Lebih Lanjut",
+    "download": "Unduh",
+    "subscribe": "Berlangganan",
+    "schedule": "Jadwalkan",
+    "connect": "Terhubung",
+    "explore_core_capabilities": "Jelajahi Kemampuan Inti",
+    "become_development_partner": "Menjadi Mitra Pengembangan"
+  },
+  "hero": {
+    "title": "FabriiQ - Sistem Operasi Sekolah Pertama",
+    "subtitle": "Platform Kecerdasan Pendidikan",
+    "description": "Mentransformasi pendidikan melalui sistem multi-agen bertenaga AI dan manajemen sekolah yang komprehensif.",
+    "cta_primary": "Mulai Sekarang",
+    "cta_secondary": "Pelajari Lebih Lanjut",
+    "watch_demo": "Tonton Demo",
+    "typing": {
+      "base_text": "Sistem pertama yang komprehensif untuk ",
+      "school_os": "Sistem Operasi Sekolah",
+      "educational_intelligence": "kecerdasan pendidikan",
+      "unified_platform": "platform terpadu"
+    },
+    "alpha_status": "Fase Pengembangan Alpha - Peluang Kemitraan Tersedia",
+    "description_detailed": "Satu platform. Semua operasi. Dibuat khusus untuk pendidikan."
+  "capabilities": {
+    "title": "Kemampuan Inti",
+    "subtitle": "Solusi Pendidikan Komprehensif",
+    "description": "Fitur-fitur canggih yang dirancang khusus untuk lingkungan pendidikan modern",
+    "aivy": {
+      "title": "Sistem Multi-Agen AIVY",
+      "subtitle": "AI Pendidikan yang Dibuat Khusus",
+      "description": "Transformasi alur kerja pendidikan dengan agen khusus yang dirancang khusus untuk lingkungan pembelajaran. Pendamping Siswa, Asisten Guru, Generasi Konten, Kecerdasan Penilaian, dan Pemantauan Kepatuhan - semuanya bekerja sama dengan mulus.",
+      "features": {
+        "personalized_support": "Dukungan pembelajaran yang dipersonalisasi",
+        "lesson_planning": "Perencanaan pelajaran yang cerdas",
+        "content_creation": "Pembuatan konten otomatis",
+        "analytics_insights": "Wawasan analitik real-time"
+      },
+      "stats": {
+        "time_saved": "Waktu Guru yang Dihemat",
+        "engagement": "Keterlibatan Siswa",
+        "accuracy": "Akurasi Penilaian"
+      }
+    },
+    "operations": {
+      "title": "Hub Operasi Terpadu",
+      "subtitle": "Manajemen Institusi Lengkap",
+      "description": "Ganti sistem yang terpecah dengan satu platform komprehensif yang mengelola pendaftaran, keuangan, kehadiran, dan analitik. Arsitektur multi-kampus asli dengan tata kelola terpusat dan otonomi kampus.",
+      "features": {
+        "enrollment_workflows": "Alur kerja pendaftaran otomatis",
+        "financial_management": "Manajemen keuangan multi-mata uang",
+        "attendance_analytics": "Analitik kehadiran prediktif",
+        "reporting_dashboards": "Dashboard laporan real-time"
+      },
+      "stats": {
+        "admin_reduction": "Pengurangan Waktu Admin",
+        "data_accuracy": "Akurasi Data",
+        "system_uptime": "Waktu Aktif Sistem"
+      }
+    },
+    "pedagogy": {
+      "title": "Integrasi Taksonomi Bloom",
+      "subtitle": "Pembelajaran Cerdas Secara Pedagogis",
+      "description": "Melampaui nilai menuju pemahaman sejati dengan analitik Taksonomi Bloom terintegrasi. Lacak perkembangan kognitif dari Mengingat hingga Mencipta dengan pengukuran penguasaan real-time dan pemicu intervensi.",
+      "features": {
+        "cognitive_classification": "Klasifikasi tingkat kognitif otomatis",
+        "mastery_tracking": "Pelacakan penguasaan real-time",
+        "progression_analytics": "Analitik perkembangan pembelajaran",
+        "intervention_engine": "Mesin rekomendasi intervensi"
+      },
+      "stats": {
+        "outcome_improvement": "Peningkatan Hasil Pembelajaran",
+        "teacher_satisfaction": "Kepuasan Guru",
+        "faster_mastery": "Penguasaan Lebih Cepat"
+      }
+    },
+    "gamification": {
+      "title": "Gamifikasi & Pembelajaran Sosial",
+      "subtitle": "Keterlibatan Melalui Pencapaian",
+      "description": "Ubah pembelajaran menjadi perjalanan yang menarik dengan sistem pencapaian komprehensif, dinding pembelajaran sosial, dan mesin motivasi cerdas yang beradaptasi dengan kebutuhan individu siswa.",
+      "features": {
+        "point_systems": "Sistem poin multi-sumber",
+        "achievement_levels": "Level pencapaian progresif",
+        "social_collaboration": "Kolaborasi sosial kelas",
+        "motivation_triggers": "Pemicu motivasi yang dipersonalisasi"
+      },
+      "stats": {
+        "engagement_increase": "Peningkatan Keterlibatan",
+        "assignment_completion": "Penyelesaian Tugas",
+        "student_satisfaction": "Kepuasan Siswa"
+      }
+    },
+    "offline": {
+      "title": "Arsitektur Offline-First",
+      "subtitle": "Pembelajaran Tak Pernah Berhenti",
+      "description": "Fungsionalitas pendidikan lengkap tanpa ketergantungan internet. Guru menilai, siswa belajar, koordinator mengelola - semua offline. Sinkronisasi cerdas saat konektivitas kembali dengan resolusi konflik.",
+      "features": {
+        "offline_functionality": "Fungsionalitas offline lengkap",
+        "data_synchronization": "Sinkronisasi data cerdas",
+        "conflict_resolution": "Otomasi resolusi konflik",
+        "pwa_capabilities": "Kemampuan aplikasi web progresif"
+      },
+      "stats": {
+        "offline_coverage": "Fungsionalitas Offline",
+        "sync_accuracy": "Akurasi Sinkronisasi",
+        "continuous_operation": "Operasi Berkelanjutan"
+      }
+    },
+    "privacy": {
+      "title": "Keunggulan Privasi & Kepatuhan",
+      "subtitle": "Arsitektur FERPA-Asli",
+      "description": "Arsitektur privasi-by-design dengan pemantauan kepatuhan otomatis, penilaian risiko cerdas, dan jejak audit komprehensif. Perlindungan bawaan, bukan keamanan yang ditambahkan.",
+      "features": {
+        "ferpa_compliance": "Kepatuhan FERPA otomatis",
+        "privacy_protection": "Perlindungan privasi bertenaga AI",
+        "audit_trails": "Jejak audit komprehensif",
+        "risk_assessment": "Otomasi penilaian risiko"
+      },
+      "stats": {
+        "compliance_rate": "Kepatuhan FERPA",
+        "data_protection": "Perlindungan Data",
+        "security_incidents": "Insiden Keamanan"
+      }
+    }
+  },
+  "services": {
+    "title": "Layanan Kami",
+    "subtitle": "Solusi Komprehensif",
+    "description": "Solusi komprehensif untuk pendidikan modern",
+    "ai_management": "Manajemen AI",
+    "student_tracking": "Pelacakan Siswa",
+    "analytics": "Analitik & Laporan",
+    "communication": "Alat Komunikasi",
+    "enrollment": "Manajemen Pendaftaran",
+    "assessment": "Alat Penilaian",
+    "reporting": "Pelaporan Lanjutan",
+    "integration": "Integrasi Sistem"
+  },
+  "contact": {
+    "title": "Terhubung",
+    "subtitle": "Hubungi Kami",
+    "description": "Tertarik untuk membahas solusi keamanan atau kolaborasi profesional? Hubungi melalui salah satu saluran di bawah ini.",
+    "links": {
+      "github": {
+        "name": "GitHub",
+        "description": "Lihat proyek dan kontribusi"
+      },
+      "email": {
+        "name": "Email",
+        "description": "Kontak langsung untuk pertanyaan"
+      },
+      "telegram": {
+        "name": "Telegram",
+        "description": "Platform pesan aman"
+      },
+      "linkedin": {
+        "name": "LinkedIn",
+        "description": "Profil profesional dan jaringan"
+      }
+    },
+    "confidentiality_note": "Semua komunikasi dienkripsi dan ditangani dengan tingkat kerahasiaan tertinggi."
+  },
+  "forms": {
+    "name": "Nama",
+    "email": "Email",
+    "message": "Pesan",
+    "phone": "Telepon",
+    "company": "Perusahaan",
+    "subject": "Subjek",
+    "submit": "Kirim",
+    "required": "Wajib diisi",
+    "invalid_email": "Alamat email tidak valid",
+    "success_message": "Terima kasih atas pesan Anda! Kami akan segera menghubungi Anda.",
+    "error_message": "Terjadi kesalahan. Silakan coba lagi.",
+    "validation": {
+      "required": "Bidang ini wajib diisi",
+      "email_invalid": "Silakan masukkan alamat email yang valid",
+      "phone_invalid": "Silakan masukkan nomor telepon yang valid",
+      "min_length": "Minimal {count} karakter diperlukan",
+      "max_length": "Maksimal {count} karakter diperbolehkan"
+    }
+  },
+  "footer": {
+    "powered_by": "Didukung oleh FabriiQ",
+    "rights": "Semua hak dilindungi",
+    "phone": "Telepon",
+    "address": "Alamat",
+    "linkedin": "LinkedIn",
+    "platform": {
+      "title": "Platform",
+      "capabilities": "Kemampuan",
+      "about": "Tentang",
+      "process": "Proses"
+    },
+    "partnership": {
+      "title": "Kemitraan",
+      "apply": "Ajukan Kemitraan",
+      "contact": "Hubungi Kami",
+      "hero": {
+        "alphaBadge": "Fase Alpha - Kemitraan Pengembangan Terbatas",
+        "title": "Kemitraan",
+        "titleHighlight": "Pengembangan",
+        "description": "Bergabunglah dengan kelompok institusi visioner yang membentuk masa depan teknologi pendidikan. Berkreasi bersama FabriiQ sambil mendapatkan keunggulan kompetitif.",
+        "partnerCardTitle": "Mitra Pengembangan FabriiQ",
+        "partnerCardSubtitle": "Berkreasi masa depan pendidikan",
+        "valueLabel": "Nilai Kemitraan",
+        "valueText": "Tak Ternilai",
+        "valueSubtext": "Keunggulan kompetitif"
+      },
+      "benefits": {
+        "strategic": {
+          "title": "Investasi Strategis",
+          "subtitle": "Pertukaran Nilai Bersama",
+          "badge": "Fase Alpha"
+        },
+        "codevelopment": {
+          "title": "Ko-pengembangan",
+          "subtitle": "Bentuk Roadmap Produk",
+          "badge": "Pengaruh Langsung"
+        },
+        "earlyAccess": {
+          "title": "Akses Awal",
+          "subtitle": "Keunggulan Kompetitif",
+          "badge": "Keunggulan Kompetitif"
+        },
+        "aivy": {
+          "title": "Akses AIVY",
+          "subtitle": "Sistem AI Multi-Agen",
+          "badge": "Eksklusif"
+        },
+        "multiCampus": {
+          "title": "Multi-Kampus",
+          "subtitle": "Arsitektur Asli",
+          "badge": "Dapat Diskalakan"
+        },
+        "ferpa": {
+          "title": "FERPA Asli",
+          "subtitle": "Privasi berdasarkan Desain",
+          "badge": "Patuh"
+        }
+      },
+      "coCreators": {
+        "title": "Ko-Kreator,",
+        "titleHighlight": "Bukan Pelanggan",
+        "description": "Kami tidak menginginkan pengguna yang menerima apa yang kami bangun - kami menginginkan mitra yang membantu kami membangun apa yang benar-benar dibutuhkan pendidikan. Setiap mitra pengembangan secara langsung memengaruhi roadmap produk kami, menerima integrasi merek kustom, dan memvalidasi solusi di lingkungan pendidikan nyata."
+      },
+      "journey": {
+        "title": "Perjalanan",
+        "titleHighlight": "Kemitraan",
+        "description": "Timeline interaktif yang menunjukkan perjalanan Anda dari undangan hingga kemitraan berkelanjutan"
+      }
+    },
+    "newsletter": {
+      "title": "Tetap Terupdate",
+      "description": "Berlangganan newsletter kami untuk update terbaru",
+      "placeholder": "Masukkan email Anda",
+      "subscribe": "Berlangganan"
+    }
+  },
+  "status": {
+    "active": "Aktif",
+    "beta": "Beta",
+    "development": "Dalam Pengembangan",
+    "coming_soon": "Segera Hadir",
+    "maintenance": "Pemeliharaan"
+  },
+  "errors": {
+    "page_not_found": "Halaman Tidak Ditemukan",
+    "server_error": "Kesalahan Server",
+    "network_error": "Kesalahan Jaringan",
+    "try_again": "Coba Lagi",
+    "go_home": "Ke Beranda",
+    "contact_support": "Hubungi Dukungan",
+    "form_validation": {
+      "required_field": "Bidang ini wajib diisi",
+      "invalid_email": "Silakan masukkan alamat email yang valid",
+      "invalid_phone": "Silakan masukkan nomor telepon yang valid",
+      "min_length": "Minimal {min} karakter diperlukan",
+      "max_length": "Maksimal {max} karakter diperbolehkan",
+      "invalid_format": "Format tidak valid",
+      "passwords_dont_match": "Kata sandi tidak cocok",
+      "invalid_url": "Silakan masukkan URL yang valid",
+      "file_too_large": "Ukuran file terlalu besar. Maksimal {size} diperbolehkan",
+      "invalid_file_type": "Jenis file tidak valid. Hanya {types} yang diperbolehkan"
+    },
+    "api": {
+      "connection_failed": "Koneksi gagal. Silakan periksa koneksi internet Anda.",
+      "timeout": "Batas waktu habis. Silakan coba lagi.",
+      "unauthorized": "Anda tidak berwenang melakukan tindakan ini.",
+      "forbidden": "Akses ditolak. Anda tidak memiliki izin untuk mengakses sumber daya ini.",
+      "not_found": "Sumber daya yang diminta tidak ditemukan.",
+      "conflict": "Terjadi konflik dengan permintaan Anda. Silakan periksa dan coba lagi.",
+      "validation_failed": "Validasi gagal. Silakan periksa input Anda.",
+      "server_unavailable": "Server sementara tidak tersedia. Silakan coba lagi nanti.",
+      "rate_limit_exceeded": "Terlalu banyak permintaan. Silakan tunggu sebelum mencoba lagi.",
+      "unknown_error": "Terjadi kesalahan tak terduga. Silakan coba lagi."
+    },
+    "rtl": {
+      "text_direction_error": "Masalah arah teks terdeteksi. Silakan muat ulang halaman.",
+      "language_load_failed": "Gagal memuat sumber daya bahasa. Silakan muat ulang halaman."
+    }
+  },
+  "auth": {
+    "login": "Masuk",
+    "logout": "Keluar",
+    "register": "Daftar",
+    "forgot_password": "Lupa Password",
+    "reset_password": "Reset Password",
+    "profile": "Profil",
+    "settings": "Pengaturan",
+    "email_placeholder": "Email Anda",
+    "thanks_subscribing": "Terima kasih telah berlangganan!",
+    "complete": "Selesai",
+    "in_progress": "Sedang Berlangsung",
+    "starting": "Memulai",
+    "ready": "Siap"
+  },
+  "pages": {
+    "about": {
+      "title": "Tentang FabriiQ",
+      "hero": {
+        "badge": "Cerita Kami",
+        "title": "Merevolusi Teknologi Pendidikan",
+        "subtitle": "Delapan tahun pengalaman teknologi pendidikan membawa kami pada satu kesadaran: institusi membutuhkan Sistem Operasi Sekolah, bukan alat terfragmentasi lainnya."
+      },
+      "mission": {
+        "title": "Misi Kami",
+        "description": "Menghilangkan kompleksitas dan fragmentasi yang mencegah institusi pendidikan mencapai potensi penuh mereka dengan menyediakan Sistem Operasi Sekolah komprehensif pertama yang dirancang khusus untuk keunggulan pendidikan modern."
+      },
+      "vision": {
+        "title": "Visi Kami",
+        "description": "Dunia di mana setiap institusi pendidikan memiliki teknologi yang terpadu, cerdas, dan intuitif yang memberdayakan pendidik, melibatkan siswa, dan memungkinkan pertumbuhan institusional."
+      },
+      "origin_story": {
+        "title": "Kisah Asal FabriiQ",
+        "subtitle": "Bagaimana delapan tahun pengalaman mengungkap masalah sebenarnya",
+        "problem": {
+          "title": "Masalah yang Kami Temukan",
+          "description_1": "Selama delapan tahun, kami telah terlibat mendalam dalam lanskap teknologi pendidikan, bekerja dengan institusi di berbagai skala dan konteks. Yang dimulai sebagai antusiasme untuk \"meningkatkan pendidikan melalui teknologi\" secara bertahap mengungkap pola yang mengkhawatirkan.",
+          "description_2": "Kami menyaksikan institusi berjuang dengan 3-7 sistem berbeda yang tidak dapat berkomunikasi. Informasi siswa berada di satu tempat, manajemen pembelajaran di tempat lain, data keuangan di tempat ketiga, dan komunikasi tersebar di berbagai platform."
+        },
+        "revelation": {
+          "title": "Pencerahan",
+          "description_1": "Terobosan datang ketika kami menyadari bahwa kami mengajukan pertanyaan yang salah. Alih-alih \"Bagaimana kita bisa membangun LMS yang lebih baik?\" kami seharusnya bertanya: \"Mengapa institusi pendidikan dipaksa beroperasi seperti kumpulan departemen yang terputus?\"",
+          "description_2": "Tidak ada yang memikirkan pendidikan sebagai ekosistem yang lengkap dan terintegrasi."
+        },
+        "solution": {
+          "title": "Filosofi Solusi Kami",
+          "description": "Daripada membangun alat lain untuk ditambahkan ke tumpukan teknologi institusional, kami merancang sesuatu yang secara fundamental berbeda: Sistem Operasi Sekolah komprehensif pertama.",
+          "features": {
+            "not_lms": {
+              "title": "Bukan LMS Plus",
+              "description": "Kami mulai dengan misi institusional yang lengkap"
+            },
+            "ai_native": {
+              "title": "Arsitektur AI Asli",
+              "description": "Dibangun untuk hubungan pendidikan dari awal"
+            },
+            "multi_campus": {
+              "title": "Multi-Kampus Pertama",
+              "description": "Dirancang untuk kompleksitas sejak hari pertama"
+            }
+          }
+        }
+      },
+      "development_philosophy": {
+        "title": "Kemitraan di Atas Produk",
+        "subtitle": "Mengapa kami memilih pengembangan kolaboratif",
+        "alpha_development": {
+          "title": "Pengembangan Fase Alpha",
+          "description": "Sebagian besar teknologi pendidikan dibangun di ruang rapat oleh orang-orang yang tidak pernah berada di kelas selama bertahun-tahun. Kami percaya teknologi pendidikan terbaik muncul dari kolaborasi sejati dengan pendidik."
+        },
+        "transparency": {
+          "title": "Janji Transparansi",
+          "description": "Kami berkomunikasi dengan jelas tentang apa yang bekerja hari ini versus apa yang kami bangun besok. Tidak ada overselling. Tidak ada timeline palsu. Tidak ada batasan tersembunyi."
+        }
+      },
+      "alpha_journey": {
+        "badge": "Status Saat Ini",
+        "title": "Perjalanan Satu Tahun ke Alpha",
+        "subtitle": "Dari konsep ke Sistem Operasi Sekolah operasional",
+        "milestones": {
+          "core_systems": {
+            "title": "Sistem Inti Operasional",
+            "description": "Semua operasi institusional penting berfungsi dengan andal"
+          },
+          "ai_features": {
+            "title": "Fitur AI Aktif",
+            "description": "Agen AIVY menyediakan bantuan cerdas di seluruh platform"
+          },
+          "multi_campus": {
+            "title": "Multi-Kampus Terbukti",
+            "description": "Berhasil mengelola hierarki institusional yang kompleks"
+          }
+        }
+      },
+      "school_os": {
+        "title": "Mengapa \"Sistem Operasi Sekolah\"?",
+        "description": "Seperti sistem operasi komputer mengelola sumber daya perangkat keras dan memungkinkan aplikasi, sistem operasi pendidikan harus mengelola sumber daya institusional dan memungkinkan keunggulan pendidikan.",
+        "features": {
+          "unified_data": {
+            "title": "Model Data Terpadu",
+            "description": "Semua informasi institusional terhubung"
+          },
+          "intelligent_automation": {
+            "title": "Otomasi Cerdas",
+            "description": "Manusia fokus pada pendidikan"
+          },
+          "extensible_architecture": {
+            "title": "Arsitektur Dapat Diperluas",
+            "description": "Platform tumbuh dengan kebutuhan"
+          },
+          "resource_optimization": {
+            "title": "Optimasi Sumber Daya",
+            "description": "Penggunaan waktu dan sumber daya yang efisien"
+          }
+        }
+      },
+      "partnership_invitation": {
+        "title": "Undangan Kemitraan",
+        "description": "Kami tidak mencari pelanggan - kami mencari co-creator. Institusi pendidikan yang memahami bahwa masa depan pendidikan memerlukan teknologi yang terpadu dan cerdas.",
+        "limited_positions": {
+          "title": "Posisi Kemitraan Terbatas Tersedia",
+          "description": "Kami menerima maksimal 12 mitra pengembangan untuk memastikan kolaborasi yang bermakna dan kustomisasi komprehensif untuk setiap institusi."
+        },
+        "cta": {
+          "explore": "Jelajahi Kemitraan",
+          "contact": "Hubungi Kami"
+        },
+        "footer_text": "Masa depan teknologi pendidikan bukan tentang alat yang lebih baik - ini tentang kecerdasan terpadu yang"
+      }
+    },
+    "contact": {
+      "title": "Hubungi Kami",
+      "subtitle": "Ngobrol dengan asisten AI kami atau hubungi kami langsung. Kami di sini untuk membantu mengubah ide Anda menjadi kenyataan.",
+      "ai_assistant": {
+        "title": "Asisten AI FabriiQ",
+        "status": "Online • Merespons secara instan",
+        "initial_message": "Halo! Saya asisten AI FabriiQ. Bagaimana saya bisa membantu Anda dengan proyek Anda hari ini?",
+        "typing_indicator": "AI sedang berpikir...",
+        "placeholder": "Ketik pesan Anda..."
+      },
+      "contact_methods": {
+        "title": "Metode Kontak",
+        "email": {
+          "title": "Email",
+          "value": "hello@fabriiq.com",
+          "description": "Kirim email kapan saja"
+        },
+        "phone": {
+          "title": "Telepon",
+          "value": "+1 (555) 123-4567",
+          "description": "Sen-Jum dari 8 pagi hingga 6 sore PST"
+        },
+        "office": {
+          "title": "Kantor",
+          "value": "San Francisco, CA",
+          "description": "Datang dan sapa kami di kantor pusat"
+        },
+        "response_time": {
+          "title": "Waktu Respons",
+          "value": "< 24 jam",
+          "description": "Kami akan membalas dengan cepat"
+        }
+      },
+      "follow_us": "Ikuti Kami"
+    },
+    "support": {
+      "title": "Dapatkan Bantuan Instan",
+      "subtitle": "Ngobrol dengan asisten AI kami untuk dukungan langsung, atau jelajahi bagian FAQ komprehensif kami untuk jawaban cepat tentang platform pendidikan FabriiQ.",
+      "ai_support": {
+        "badge": "Dukungan Bertenaga AI",
+        "assistant_title": "Asisten Dukungan FabriiQ",
+        "status": "Online",
+        "initial_message": "Halo! Saya asisten dukungan AI Anda. Bagaimana saya bisa membantu Anda hari ini?",
+        "placeholder": "Tanya tentang kemampuan FabriiQ, program kemitraan, atau detail teknis..."
+      },
+      "faq": {
+        "title": "Pertanyaan yang Sering Diajukan",
+        "subtitle": "Pertanyaan kunci tentang platform pendidikan FabriiQ dan program kemitraan pengembangan."
+      }
+    },
+    "process": {
+      "title": "Berkreasi Masa Depan",
+      "titleHighlight": "Teknologi Pendidikan",
+      "subtitle": "Metodologi kolaboratif yang mentransformasi institusi pendidikan melalui inovasi yang didorong kemitraan, transparansi, dan ko-kreasi.",
+      "badge": "Proses Kemitraan Pengembangan"
+    }
+  },
+  "homepage": {
+    "sections": {
+      "platform_philosophy": {
+        "title_platform": "Filosofi",
+        "title_philosophy": "Platform",
+        "description": "Memahami perbedaan mendasar antara pendekatan tradisional dan solusi komprehensif FabriiQ.",
+        "comparisons": {
+          "school_os_vs_lms": {
+            "title": "Sistem Operasi Sekolah vs. Sistem Manajemen Pembelajaran",
+            "description": "Manajemen institusional komprehensif melampaui hanya pengiriman kursus dan manajemen konten."
+          },
+          "unified_vs_fragmented": {
+            "title": "Pendekatan Terpadu vs. Terfragmentasi",
+            "description": "Platform terintegrasi tunggal menggantikan 5-10 sistem terpisah dengan aliran data yang mulus."
+          },
+          "ai_native_vs_added": {
+            "title": "Pendekatan AI-Asli vs. AI-Ditambahkan",
+            "description": "Dibangun dari dasar dengan kecerdasan AI, bukan ditambahkan ke sistem legacy yang ada."
+          },
+          "online_vs_blended": {
+            "title": "Lingkungan Pembelajaran Online vs. Campuran",
+            "description": "Dukungan komprehensif untuk modalitas pengiriman yang beragam dengan pengalaman kampus dan virtual yang terintegrasi."
+          }
+        }
+      },
+      "key_cornerstones": {
+        "title_key": "6 Fondasi",
+        "title_cornerstones": "Utama",
+        "description": "Fitur yang dirancang khusus untuk institusi pendidikan, bukan solusi generik yang diadaptasi untuk sekolah.",
+        "features": {
+          "aivy": {
+            "title": "Kecerdasan Multi-Agen AIVY",
+            "description": "Bukan AI generik, tetapi agen khusus yang dirancang khusus untuk pendidikan. Pendamping Siswa, Asisten Guru, Pembuatan Konten, Kecerdasan Penilaian, dan Pemantauan Kepatuhan - semua bekerja bersama dengan mulus.",
+            "status": "Agen inti aktif, kolaborasi lanjutan dalam beta"
+          },
+          "pedagogical": {
+            "title": "Pedagogis yang Kokoh",
+            "description": "Setiap pertanyaan, penilaian, dan aktivitas secara otomatis diselaraskan dengan Taksonomi Bloom. Lacak perkembangan kognitif dari Mengingat hingga Menciptakan dengan analisis penguasaan real-time dan pemicu intervensi.",
+            "status": "Mesin klasifikasi aktif, analisis keseimbangan dalam pengembangan"
+          },
+          "gamification": {
+            "title": "Gamifikasi & Pembelajaran Sosial",
+            "description": "Sistem poin komprehensif, pembukaan pencapaian, dinding sosial kelas, dan mesin motivasi cerdas. Transformasi pembelajaran menjadi perjalanan yang menarik dengan pengakuan rekan dan pertumbuhan kolaboratif.",
+            "status": "Gamifikasi inti lengkap, fitur sosial lengkap"
+          },
+          "multi_campus": {
+            "title": "Operasi Multi-Kampus",
+            "description": "Arsitektur multi-kampus asli mengelola pendaftaran, biaya, kehadiran, dan analitik di lokasi tak terbatas. Tata kelola terpusat dengan otonomi kampus - dirancang dari awal, bukan retrofit.",
+            "status": "Operasi inti aktif, analitik lanjutan dalam pengembangan"
+          },
+          "offline_first": {
+            "title": "Pembelajaran Offline-First",
+            "description": "Fungsionalitas offline lengkap dengan sinkronisasi cerdas. Guru memberi nilai, siswa belajar, koordinator mengelola - semua tanpa internet. Ketika koneksi kembali, semuanya tersinkronisasi dengan sempurna dengan resolusi konflik.",
+            "status": "Inti offline lengkap, fitur sinkronisasi lanjutan dalam beta"
+          },
+          "privacy_compliance": {
+            "title": "Kepatuhan Privasi-by-Design",
+            "description": "Bukan kepatuhan yang ditambahkan kemudian, tetapi privasi yang dirancang dari baris kode pertama. Retensi otomatis, redaksi cerdas, jejak audit komprehensif, dan penilaian risiko bertenaga AI terintegrasi ke setiap fitur.",
+            "status": "Mesin kepatuhan aktif, fitur lanjutan dalam pengembangan"
+          }
+        },
+        "status_prefix": "Status Alpha:"
+      },
+      "comprehensive_capabilities": {
+        "badge": "Kemampuan Platform Komprehensif",
+        "title_capabilities": "Kemampuan yang",
+        "title_transform": "Mentransformasi",
+        "description": "Lima kemampuan komprehensif yang dirancang untuk merevolusi operasi pendidikan dan meningkatkan hasil pembelajaran",
+        "capabilities": {
+          "enrollment_mgmt": {
+            "title": "Manajemen Pendaftaran Cerdas",
+            "description": "Sederhanakan manajemen siklus hidup siswa dengan pemrosesan otomatis dan koordinasi multi-kampus. Pembuatan pendaftaran tunggal dan massal, validasi CSV real-time, dan analitik prediktif mentransformasi efisiensi administratif melintasi hierarki institusional.",
+            "features": {
+              "multi_campus": "Koordinasi pendaftaran multi-kampus",
+              "automated_workflows": "Alur kerja manajemen status otomatis",
+              "validation": "Validasi real-time dan penanganan kesalahan",
+              "forecasting": "Prakiraan pendaftaran prediktif"
+            },
+            "benefits": {
+              "task_reduction": "75% Pengurangan Tugas Manual",
+              "data_accuracy": "98% Akurasi Data",
+              "time_savings": "65% Penghematan Waktu"
+            },
+            "status": {
+              "active": "Operasi inti",
+              "development": "Analitik lanjutan",
+              "planned": "Prakiraan berbasis AI"
+            }
+          },
+          "financial_ops": {
+            "title": "Otomasi Operasi Keuangan",
+            "description": "Transformasi manajemen biaya dengan otomasi cerdas, dukungan multi-mata uang, dan analitik keuangan komprehensif. Pembuatan kwitansi otomatis, pemrosesan pembayaran, dan manajemen biaya terlambat berbasis kebijakan menyederhanakan operasi keuangan institusional.",
+            "features": {
+              "fee_structure": "Manajemen struktur biaya yang fleksibel",
+              "payment_methods": "Pemrosesan metode pembayaran multi",
+              "compliance": "Pelaporan kepatuhan otomatis",
+              "analytics": "Analitik keuangan real-time"
+            },
+            "benefits": {
+              "efficiency": "80% Efisiensi Tugas Keuangan",
+              "accuracy": "99% Akurasi Perhitungan",
+              "speed": "50% Peningkatan Kecepatan Pemrosesan"
+            },
+            "status": {
+              "complete": "Fungsionalitas inti",
+              "development": "Pelaporan lanjutan",
+              "planned": "Analitik keuangan prediktif"
+            }
+          },
+          "pedagogical_intel": {
+            "title": "Kerangka Kecerdasan Pedagogis",
+            "description": "Selaraskan kurikulum dengan hasil pembelajaran menggunakan integrasi Taksonomi Bloom dan analisis keseimbangan kognitif. Pemetaan hasil pembelajaran, verifikasi keselarasan kurikulum, dan pelacakan korelasi kinerja meningkatkan efektivitas pendidikan.",
+            "features": {
+              "blooms_framework": "Kerangka Taksonomi Bloom enam tingkat",
+              "curriculum_alignment": "Keselarasan kurikulum otomatis",
+              "cognitive_balance": "Analisis keseimbangan kognitif",
+              "performance_tracking": "Pelacakan korelasi kinerja"
+            },
+            "benefits": {
+              "alignment_accuracy": "65% Akurasi Keselarasan Kurikulum",
+              "outcome_correlation": "92% Korelasi Hasil",
+              "planning_efficiency": "55% Efisiensi Perencanaan"
+            },
+            "status": {
+              "complete": "Kerangka inti",
+              "development": "Analitik lanjutan",
+              "beta": "Optimasi keseimbangan kognitif"
+            }
+          },
+          "communication_intel": {
+            "title": "Kecerdasan Komunikasi Strategis",
+            "description": "Koordinasikan komunikasi institusional dengan pesan yang mematuhi FERPA, siaran darurat, dan perutean cerdas. Pengiriman multi-saluran, prioritas otomatis, dan analitik komprehensif memastikan keterlibatan pemangku kepentingan yang efektif.",
+            "features": {
+              "ferpa_messaging": "Sistem pesan yang mematuhi FERPA",
+              "emergency_broadcast": "Kemampuan siaran darurat",
+              "intelligent_routing": "Perutean dan prioritas cerdas",
+              "analytics_insights": "Wawasan analitik komunikasi"
+            },
+            "benefits": {
+              "communication_efficiency": "85% Efisiensi Komunikasi",
+              "compliance_adherence": "100% Kepatuhan",
+              "response_time": "60% Peningkatan Waktu Respons"
+            },
+            "status": {
+              "active": "Pesan inti",
+              "planned": "Fitur lanjutan",
+              "beta": "Dashboard analitik"
+            }
+          },
+          "teaching_analytics": {
+            "title": "Analitik Pengajaran Berbasis Data",
+            "description": "Akses wawasan kinerja kelas yang komprehensif dengan analisis hasil siswa prediktif dan rekomendasi intervensi. Dashboard real-time, pelacakan kognitif Taksonomi Bloom, dan identifikasi siswa berisiko meningkatkan efektivitas pengajaran.",
+            "features": {
+              "performance_dashboards": "Dashboard kinerja real-time",
+              "predictive_analysis": "Analisis hasil prediktif",
+              "risk_identification": "Identifikasi siswa berisiko",
+              "cognitive_tracking": "Pelacakan tingkat kognitif Bloom"
+            },
+            "benefits": {
+              "prediction_accuracy": "70% Akurasi Prediksi",
+              "intervention_reliability": "88% Keandalan Intervensi",
+              "risk_identification_speed": "50% Identifikasi Risiko Lebih Cepat"
+            },
+            "status": {
+              "active": "Pelaporan inti",
+              "development": "Fitur prediktif",
+              "planned": "Intervensi berbasis AI"
+            }
+          }
+        },
+        "labels": {
+          "key_features": "Fitur Utama",
+          "expected_benefits": "Manfaat yang Diharapkan",
+          "development_status": "Status Pengembangan",
+          "tech_stack": "Stack Teknologi",
+          "interactive_demo": "Demo Interaktif Tersedia"
+        }
+      },
+      "platform_showcase": {
+        "badge": "Keunggulan Platform",
+        "title_built": "Dibangun untuk",
+        "title_education": "Pendidikan",
+        "description": "Arsitektur yang dirancang khusus untuk institusi pendidikan, bukan solusi generik yang diadaptasi untuk sekolah",
+        "platform_name": "Platform FabriiQ",
+        "platform_tagline": "Kecerdasan Pendidikan Komprehensif",
+        "excellence": {
+          "title": "Keunggulan Platform",
+          "description": "Setiap komponen FabriiQ dirancang dengan mempertimbangkan alur kerja pendidikan, dari kecerdasan multi-agen AIVY hingga arsitektur privasi asli FERPA.",
+          "features": {
+            "aivy_system": {
+              "title": "Sistem Multi-Agen AIVY",
+              "description": "Agen AI yang dirancang khusus yang memahami konteks dan alur kerja pendidikan"
+            },
+            "blooms_native": {
+              "title": "Taksonomi Bloom Asli",
+              "description": "Pelacakan tingkat kognitif terintegrasi dan pengukuran penguasaan di inti"
+            },
+            "privacy_design": {
+              "title": "Privasi-by-Design",
+              "description": "Kepatuhan FERPA dibangun ke dalam arsitektur, bukan ditambahkan setelahnya"
+            }
+          },
+          "status": {
+            "title": "Status Pengembangan Alpha",
+            "description": "Sistem inti aktif dan sedang disempurnakan melalui kemitraan pengembangan. Bergabunglah dengan kami dalam menciptakan masa depan teknologi pendidikan."
+          }
+        }
+      },
+      "contact": {
+        "title_ready": "Siap untuk",
+        "title_cocreate": "berkolaborasi?",
+        "description": "Bergabunglah dengan kelompok institusi visioner yang membentuk masa depan teknologi pendidikan. Kemitraan pengembangan terbatas tersedia.",
+        "cta": {
+          "apply_partnership": "Ajukan Kemitraan",
+          "schedule_discussion": "Jadwalkan Diskusi",
+          "alpha_documentation": "Dokumentasi Alpha"
+        },
+        "process": {
+          "strategic_investment": "Investasi Strategis",
+          "codevelopment": "Kesempatan ko-pengembangan",
+          "competitive_advantage": "Keunggulan kompetitif"
+        }
+      }
+    }
+  },
+  "pages": {
+    "capabilities": {
+      "title": "Kemampuan Platform",
+      "description": "Jelajahi kemampuan teknologi pendidikan komprehensif FabriiQ yang dirancang untuk institusi modern.",
+      "search_placeholder": "Cari kemampuan...",
+      "filters": {
+        "all": "Semua Kemampuan",
+        "system_admin": "Portal Administrator Sistem",
+        "teacher": "Portal Guru",
+        "student": "Portal Siswa"
+      },
+      "select_capability": "Pilih Kemampuan",
+      "select_capability_desc": "Pilih kemampuan dari daftar untuk melihat informasi detail dan demo.",
+      "interactive_demo": "Demo Interaktif",
+      "interactive_demos": "Demo Interaktif",
+      "key_features": "Fitur Utama",
+      "expected_benefits": "Manfaat yang Diharapkan (Fase Alpha)",
+      "alpha_performance": "Ekspektasi Kinerja Alpha",
+      "tags": "Tag"
+    },
+    "projects": {
+      "capabilities": {
+        "user-management": {
+          "name": "Manajemen Pengguna Lanjutan",
+          "subtitle": "Kontrol Akses Komprehensif",
+          "description": "Kelola hierarki pengguna, peran, dan izin lintas kampus dengan otomatisasi cerdas.",
+          "features": [
+            "Manajemen peran hierarkis multi-kampus",
+            "Izin granular dan kontrol akses",
+            "Otomatisasi siklus hidup pengguna",
+            "Autentikasi SSO dan federasi",
+            "Jejak audit real-time"
+          ],
+          "benefits": [
+            "Proyeksi pengurangan 80% tugas administratif",
+            "Antisipasi peningkatan kepatuhan keamanan",
+            "Ekspektasi kontrol akses yang disederhanakan",
+            "Rencana manajemen pengguna terpadu"
+          ],
+          "tags": ["Manajemen Pengguna", "Keamanan", "Kontrol Akses", "Multi-Kampus"],
+          "performance": {
+            "efficiency": "+80%",
+            "security": "45%",
+            "compliance": "95%"
+          }
+        },
+        "system-monitoring": {
+          "name": "Pemantauan Sistem Cerdas",
+          "subtitle": "Observabilitas Operasional",
+          "description": "Pantau kesehatan, kinerja, dan keamanan sistem dengan peringatan prediktif dan laporan otomatis.",
+          "features": [
+            "Dashboard kesehatan sistem real-time",
+            "Analitik prediktif dan peringatan dini",
+            "Pemantauan kinerja otomatis",
+            "Pelacakan kepatuhan keamanan",
+            "Laporan status multi-kampus"
+          ],
+          "benefits": [
+            "Proyeksi pengurangan 90% waktu henti",
+            "Antisipasi deteksi masalah proaktif",
+            "Ekspektasi peningkatan reliabilitas sistem",
+            "Rencana pemeliharaan prediktif"
+          ],
+          "tags": ["Pemantauan Sistem", "Analitik Prediktif", "Peringatan", "Kinerja"],
+          "performance": {
+            "uptime": "+90%",
+            "detection": "30%",
+            "reliability": "98%"
+          }
+        },
+        "audit-trails": {
+          "name": "Jejak Audit Komprehensif",
+          "subtitle": "Pelacakan Tindakan Lengkap",
+          "description": "Pertahankan catatan detail semua tindakan sistem dengan pencarian cerdas dan analisis kepatuhan.",
+          "features": [
+            "Pencatatan otomatis semua tindakan sistem",
+            "Pencarian lanjutan dan kemampuan penyaringan",
+            "Laporan kepatuhan otomatis",
+            "Deteksi anomali bertenaga AI",
+            "Pengarsipan aman dan tidak berubah"
+          ],
+          "benefits": [
+            "Proyeksi kepatuhan 100% dengan standar audit",
+            "Antisipasi transparensi tindakan lengkap",
+            "Ekspektasi investigasi insiden yang disederhanakan",
+            "Rencana persiapan audit otomatis"
+          ],
+          "tags": ["Jejak Audit", "Kepatuhan", "Pelacakan", "Keamanan"],
+          "performance": {
+            "compliance": "100%",
+            "searchSpeed": "60%",
+            "completeness": "99%"
+          }
+        },
+        "automated-backups": {
+          "name": "Pencadangan Otomatis Cerdas",
+          "subtitle": "Kontinuitas Data Terjamin",
+          "description": "Kelola pencadangan otomatis dengan pemulihan cerdas dan verifikasi integritas data.",
+          "features": [
+            "Pencadangan terjadwal otomatis",
+            "Verifikasi integritas data",
+            "Pemulihan bencana satu klik",
+            "Enkripsi dan penyimpanan aman",
+            "Pemantauan kesehatan pencadangan"
+          ],
+          "benefits": [
+            "Proyeksi perlindungan data 99,9%",
+            "Antisipasi pemulihan bencana cepat",
+            "Ekspektasi ketenangan pikiran data",
+            "Rencana kontinuitas operasional tanpa gangguan"
+          ],
+          "tags": ["Pencadangan Data", "Pemulihan Bencana", "Integritas Data", "Otomatisasi"],
+          "performance": {
+            "protection": "99.9%",
+            "recovery": "75%",
+            "reliability": "99%"
+          }
+        },
+        "security-compliance": {
+          "name": "Kerangka Kepatuhan Keamanan",
+          "subtitle": "Perlindungan Privasi Asli",
+          "description": "Pastikan kepatuhan FERPA dan standar privasi dengan pemantauan otomatis dan penilaian risiko.",
+          "features": [
+            "Kepatuhan FERPA otomatis",
+            "Penilaian risiko privasi berkelanjutan",
+            "Enkripsi data dan kontrol akses",
+            "Kebijakan retensi otomatis",
+            "Laporan kepatuhan reguler"
+          ],
+          "benefits": [
+            "Proyeksi kepatuhan 100% dengan FERPA",
+            "Antisipasi pengurangan risiko keamanan",
+            "Ekspektasi perlindungan privasi otomatis",
+            "Rencana persiapan audit yang disederhanakan"
+          ],
+          "tags": ["Kepatuhan FERPA", "Privasi Data", "Penilaian Risiko", "Keamanan"],
+          "performance": {
+            "compliance": "100%",
+            "riskReduction": "85%",
+            "protection": "99%"
+          }
+        },
+        "academic-calendar": {
+          "name": "Manajemen Kalender Akademik Cerdas",
+          "subtitle": "Penjadwalan Institusional Terpadu",
+          "description": "Kelola kalender akademik kompleks dengan penjadwalan otomatis dan integrasi multi-kampus.",
+          "features": [
+            "Template kalender yang dapat disesuaikan",
+            "Penjadwalan acara otomatis",
+            "Sinkronisasi multi-kampus",
+            "Resolusi konflik cerdas",
+            "Integrasi dengan sistem eksternal"
+          ],
+          "benefits": [
+            "Proyeksi pengurangan 65% waktu perencanaan",
+            "Antisipasi eliminasi konflik penjadwalan",
+            "Ekspektasi koordinasi multi-kampus yang ditingkatkan",
+            "Rencana otomatisasi penjadwalan"
+          ],
+          "tags": ["Kalender Akademik", "Penjadwalan", "Multi-Kampus", "Otomatisasi"],
+          "performance": {
+            "efficiency": "+65%",
+            "conflicts": "55%",
+            "coordination": "92%"
+          }
+        },
+        "class-analytics": {
+          "name": "Analitik Kelas Komprehensif",
+          "subtitle": "Wawasan Pengajaran Berbasis Data",
+          "description": "Akses analitik kinerja kelas detail dengan wawasan siswa dan rekomendasi intervensi.",
+          "features": [
+            "Dashboard kinerja kelas real-time",
+            "Pelacakan kemajuan individual siswa",
+            "Analisis kognitif Taksonomi Bloom",
+            "Identifikasi siswa berisiko",
+            "Mesin rekomendasi intervensi"
+          ],
+          "benefits": [
+            "Proyeksi peningkatan 70% prediksi hasil siswa",
+            "Antisipasi efektivitas pengajaran yang ditingkatkan",
+            "Ekspektasi pengambilan keputusan berbasis data",
+            "Rencana strategi intervensi personal"
+          ],
+          "tags": ["Analitik", "Kinerja Siswa", "Kecerdasan Prediktif", "Intervensi"],
+          "performance": {
+            "insight": "+70%",
+            "identification": "50%",
+            "reliability": "88%"
+          }
+        },
+        "resource-management": {
+          "name": "Manajemen Sumber Daya Dinamis",
+          "subtitle": "Organisasi Konten Cerdas",
+          "description": "Organisir dan distribusikan sumber daya pendidikan dengan berbagi cerdas dan analitik penggunaan.",
+          "features": [
+            "Organisasi sumber daya hierarkis",
+            "Berbagi cerdas berdasarkan pendaftaran",
+            "Analitik penggunaan dan metrik keterlibatan",
+            "Kontrol versi dan kolaborasi",
+            "Rekomendasi konten bertenaga AI"
+          ],
+          "benefits": [
+            "Proyeksi peningkatan 60% aksesibilitas sumber daya",
+            "Antisipasi peningkatan pemanfaatan konten",
+            "Ekspektasi keuntungan efisiensi kolaboratif",
+            "Rencana kurasi konten cerdas"
+          ],
+          "tags": ["Manajemen Sumber Daya", "Analitik Konten", "Kolaborasi", "Rekomendasi AI"],
+          "performance": {
+            "efficiency": "+60%",
+            "accessTime": "40%",
+            "utilization": "85%"
+          }
+        },
+        "quiz-activities": {
+          "name": "Aktivitas Kuis Interaktif",
+          "subtitle": "Pembuatan Penilaian Menarik",
+          "description": "Buat aktivitas kuis dinamis dengan berbagai jenis pertanyaan dan pelacakan keterlibatan siswa real-time.",
+          "features": [
+            "Format pertanyaan dan dukungan media beragam",
+            "Pelacakan respons siswa real-time",
+            "Keselarasan kognitif Taksonomi Bloom",
+            "Umpan balik instan dan penjelasan",
+            "Analitik kinerja dan wawasan"
+          ],
+          "benefits": [
+            "Proyeksi peningkatan 75% keterlibatan siswa",
+            "Antisipasi efisiensi penilaian yang ditingkatkan",
+            "Ekspektasi hasil pembelajaran yang ditingkatkan",
+            "Rencana penyesuaian kesulitan adaptif"
+          ],
+          "tags": ["Penilaian Interaktif", "Keterlibatan Siswa", "Analitik Real-time", "Keselarasan Kognitif"],
+          "performance": {
+            "engagement": "+75%",
+            "creationTime": "55%",
+            "accuracy": "90%"
+          }
+        },
+        "personal-dashboard": {
+          "name": "Dashboard Personal Siswa",
+          "subtitle": "Perjalanan Pembelajaran Individual",
+          "description": "Akses dashboard pembelajaran personal dengan pelacakan kemajuan dan wawasan yang dipersonalisasi.",
+          "features": [
+            "Visualisasi kemajuan individual",
+            "Penetapan dan pelacakan tujuan",
+            "Wawasan kinerja dan rekomendasi",
+            "Perayaan tonggak pembelajaran",
+            "Manajemen jadwal belajar"
+          ],
+          "benefits": [
+            "Proyeksi peningkatan 80% pembelajaran mandiri",
+            "Antisipasi motivasi dan keterlibatan yang ditingkatkan",
+            "Ekspektasi pengalaman pembelajaran personal",
+            "Rencana sistem pengakuan pencapaian"
+          ],
+          "tags": ["Pengembangan Personal", "Pelacakan Kemajuan", "Keterlibatan Siswa", "Pembelajaran Mandiri"],
+          "performance": {
+            "motivation": "+80%",
+            "selfDirected": "65%",
+            "goalCompletion": "92%"
+          }
+        },
+        "assignment-submission": {
+          "name": "Pengumpulan Tugas Cerdas",
+          "subtitle": "Manajemen Pekerjaan Rumah yang Disederhanakan",
+          "description": "Kumpulkan tugas dengan deteksi plagiarisme cerdas dan umpan balik instan tentang format dan kualitas konten.",
+          "features": [
+            "Dukungan unggah file multi-format",
+            "Deteksi plagiarisme real-time",
+            "Penilaian kualitas konten",
+            "Pelacakan pengumpulan dan pengingat",
+            "Alat review sejawat dan kolaborasi"
+          ],
+          "benefits": [
+            "Proyeksi pengurangan 70% insiden plagiarisme",
+            "Antisipasi kualitas tugas yang ditingkatkan",
+            "Ekspektasi integritas akademik yang ditingkatkan",
+            "Rencana kesempatan pembelajaran kolaboratif"
+          ],
+          "tags": ["Manajemen Tugas", "Deteksi Plagiarisme", "Penilaian Kualitas", "Kolaborasi"],
+          "performance": {
+            "qualityImprovement": "+70%",
+            "plagiarismReduction": "85%",
+            "submissionRate": "95%"
+          }
+        },
+        "interactive-learning": {
+          "name": "Modul Pembelajaran Interaktif",
+          "subtitle": "Konten Pendidikan Menarik",
+          "description": "Alami modul pembelajaran interaktif dengan elemen gamifikasi dan penyesuaian kesulitan adaptif.",
+          "features": [
+            "Pengalaman pembelajaran yang digamifikasi",
+            "Progresivitas kesulitan adaptif",
+            "Konten multimedia interaktif",
+            "Lencana pencapaian dan reward",
+            "Tantangan pembelajaran kolaboratif"
+          ],
+          "benefits": [
+            "Proyeksi peningkatan 85% keterlibatan pembelajaran",
+            "Antisipasi retensi pengetahuan yang ditingkatkan",
+            "Ekspektasi motivasi pembelajaran yang ditingkatkan",
+            "Rencana jalur pembelajaran personal"
+          ],
+          "tags": ["Pembelajaran Interaktif", "Gamifikasi", "Sistem Adaptif", "Keterlibatan Siswa"],
+          "performance": {
+            "engagement": "+85%",
+            "retention": "75%",
+            "completion": "88%"
+          }
+        }
+      },
+      "status": {
+        "alpha": "Alpha"
+      }
+    }
+  },
+  "partnership": {
+    "title": "Program Kemitraan Pengembangan",
+    "subtitle": "Bergabunglah dengan masa depan teknologi pendidikan",
+    "hero": {
+      "alphaBadge": "Fase Alpha - Kemitraan Pengembangan Terbatas",
+      "title": "Kemitraan",
+      "titleHighlight": "Pengembangan",
+      "description": "Bergabunglah dengan kelompok pilihan institusi progresif yang membentuk masa depan teknologi pendidikan. Co-create FabriiQ sambil mendapatkan keunggulan kompetitif.",
+      "partnerCardTitle": "Mitra Pengembangan FabriiQ",
+      "partnerCardSubtitle": "Co-create masa depan pendidikan",
+      "valueLabel": "Nilai Kemitraan",
+      "valueText": "Tak Ternilai",
+      "valueSubtext": "Keunggulan kompetitif",
+      "badge": "Posisi Kemitraan Terbatas"
+    },
+    "benefits": {
+      "strategic": {
+        "title": "Investasi Strategis",
+        "subtitle": "Pertukaran Nilai Timbal Balik",
+        "badge": "Fase Alpha"
+      },
+      "codevelopment": {
+        "title": "Co-development",
+        "subtitle": "Bentuk Roadmap Produk",
+        "badge": "Pengaruh Langsung"
+      },
+      "earlyAccess": {
+        "title": "Akses Awal",
+        "subtitle": "Keunggulan Kompetitif",
+        "badge": "Keunggulan Kompetitif"
+      },
+      "aivy": {
+        "title": "Akses AIVY",
+        "subtitle": "Sistem AI Multi-Agen",
+        "badge": "Eksklusif"
+      },
+      "multiCampus": {
+        "title": "Multi-Campus",
+        "subtitle": "Arsitektur Asli",
+        "badge": "Skalabel"
+      },
+      "ferpa": {
+        "title": "FERPA Asli",
+        "subtitle": "Privasi by Design",
+        "badge": "Compliant"
+      }
+    },
+    "coCreators": {
+      "title": "Co-Creator,",
+      "titleHighlight": "Bukan Pelanggan",
+      "description": "Kami tidak menginginkan pengguna yang menerima apa yang kami bangun - kami menginginkan mitra yang membantu kami membangun apa yang benar-benar dibutuhkan pendidikan. Setiap mitra pengembangan secara langsung mempengaruhi roadmap produk kami, menerima integrasi branding kustom, dan memvalidasi solusi di lingkungan pendidikan nyata."
+    },
+    "journey": {
+      "title": "Perjalanan",
+      "titleHighlight": "Kemitraan",
+      "description": "Timeline interaktif yang menunjukkan jalur Anda dari undangan hingga kemitraan berkelanjutan"
+    },
+    "form": {
+      "header": {
+        "title": "Undangan Kemitraan",
+        "titleHighlight": "Co-Creation",
+        "description": "Penilaian kompatibilitas kemitraan lengkap untuk memulai proses evaluasi strategis"
+      },
+      "title": "Penilaian Co-Creation Kemitraan",
+      "subtitle": "Bantu kami memahami visi institusi Anda dan kesiapan co-development",
+      "sections": {
+        "institution": "Informasi Institusi",
+        "contact": "Informasi Kontak Strategis",
+        "partnership": "Detail Kemitraan Co-Development"
+      },
+      "fields": {
+        "institutionName": "Nama Institusi *",
+        "institutionType": "Jenis Institusi *",
+        "campusCount": "Jumlah Kampus",
+        "studentPopulation": "Populasi Siswa",
+        "contactName": "Nama Kontak Utama *",
+        "email": "Alamat Email *",
+        "phone": "Nomor Telepon",
+        "role": "Peran/Jabatan *",
+        "currentSystems": "Ekosistem Teknologi Saat Ini & Tantangan Strategis",
+        "timeline": "Timeline Investasi & Kesiapan",
+        "commitment": "Level Komitmen Investasi Kemitraan",
+        "customRequirements": "Persyaratan Kustom & Visi"
+      },
+      "placeholders": {
+        "institutionName": "Institusi pendidikan Anda",
+        "institutionType": "Pilih jenis institusi",
+        "campusCount": "Jumlah lokasi kampus",
+        "studentPopulation": "Total pendaftaran siswa di semua kampus",
+        "contactName": "Nama eksekutif atau pembuat keputusan",
+        "email": "executive.email@institution.edu",
+        "phone": "Format internasional lebih disukai",
+        "role": "Pilih peran Anda",
+        "currentSystems": "Deskripsikan sistem teknologi pendidikan saat ini, tantangan operasional, dan tujuan transformasi digital strategis...",
+        "timeline": "Pilih timeline",
+        "commitment": "Pilih level komitmen",
+        "customRequirements": "Deskripsikan kebutuhan spesifik institusi Anda, persyaratan branding, dan visi untuk inovasi teknologi pendidikan..."
+      },
+      "options": {
+        "institutionType": {
+          "multiCampus": "Sistem Sekolah Swasta Multi-Campus",
+          "university": "Universitas/Pendidikan Tinggi",
+          "international": "Jaringan Pendidikan Internasional",
+          "specialized": "Institusi Pendidikan Khusus",
+          "other": "Organisasi Pendidikan Lainnya"
+        },
+        "role": {
+          "ceo": "Chief Executive Officer/Presiden",
+          "cto": "Chief Technology Officer",
+          "cao": "Chief Academic Officer",
+          "director": "Direktur Kampus/Kepala Sekolah",
+          "itDirector": "Direktur IT",
+          "other": "Peran Eksekutif Lainnya"
+        },
+        "timeline": {
+          "immediate": "Segera (Siap memulai dalam 30 hari)",
+          "shortTerm": "Jangka pendek (Siap dalam 2-3 bulan)",
+          "mediumTerm": "Jangka menengah (Siap dalam 4-6 bulan)",
+          "strategic": "Perencanaan strategis (Periode evaluasi 6+ bulan)"
+        },
+        "commitment": {
+          "full": "Kemitraan Strategis Penuh (Partisipasi co-development lengkap)",
+          "focused": "Kemitraan Terfokus (Area kolaborasi spesifik)",
+          "evaluation": "Kemitraan Evaluasi (Fase penilaian dengan potensi ekspansi)"
+        }
+      },
+      "submit": "Kirim Penilaian Co-Creation Kemitraan",
+      "disclaimer": "Dengan mengirimkan, Anda menyatakan minat pada kemitraan co-development strategis dan setuju untuk berpartisipasi dalam proses evaluasi timbal balik untuk kolaborasi fase Alpha.",
+      "success": {
+        "title": "Penilaian Kemitraan Terkirim!",
+        "message": "Kami telah menerima penilaian kemitraan komprehensif Anda. Tim pengembangan kami akan meninjau pengajuan Anda dan menghubungi Anda dalam 48 jam untuk membahas kompatibilitas strategis dan langkah selanjutnya.",
+        "another": "Kirim Penilaian Lain"
+      }
+    }
+  },
+  "partnership_extended": {
+    "timeline": {
+      "steps": {
+        "discovery": {
+          "title": "Undangan & Penemuan",
+          "description": "Penilaian kebutuhan institusional dan evaluasi kompatibilitas strategis"
+        },
+        "selection": {
+          "title": "Seleksi Bersama",
+          "description": "Penandatanganan Piagam Kemitraan dan formalisasi komitmen sumber daya"
+        },
+        "pilot": {
+          "title": "Implementasi Pilot",
+          "description": "Penyebaran sistem inti dengan dukungan khusus dan integrasi branding kustom"
+        },
+        "partnership": {
+          "title": "Kemitraan Penuh",
+          "description": "Akses platform lengkap dengan hak co-development dan kustomisasi alur kerja"
+        },
+        "sustained": {
+          "title": "Melampaui Alpha - Kemitraan Berkelanjutan",
+          "description": "Syarat preferensial, akses inovasi berkelanjutan, dan pengakuan sebagai mitra pendiri"
+        }
+      }
+    },
+    "investment": {
+      "title": "Kerangka",
+      "titleHighlight": "Investasi Seimbang",
+      "description": "Kemitraan strategis di mana institusi dan FabriiQ berinvestasi secara bermakna untuk kesuksesan bersama",
+      "institutions": {
+        "title": "Untuk Institusi Pendidikan",
+        "subtitle": "Investasi strategis dalam penyebaran dan berbagi keahlian",
+        "benefits": {
+          "custom_features": "Pengembangan fitur kustom yang selaras dengan alur kerja institusional",
+          "competitive_advantage": {
+            "title": "Keunggulan kompetitif atas alternatif pasar",
+            "description": "Dapatkan posisi strategis di pasar melalui akses awal ke solusi teknologi pendidikan canggih."
+          },
+          "influence_roadmap": "Pengaruh langsung pada roadmap produk dan prioritas pengembangan",
+          "custom_branding": "Branding kustom dan integrasi identitas institusional",
+          "thought_leadership": "Pengakuan kepemimpinan pemikiran dalam inovasi teknologi pendidikan",
+          "preferential_pricing": "Harga preferensial pasca-Alpha dan syarat kemitraan berkelanjutan"
+        }
+      },
+      "fabriiq": {
+        "title": "Untuk Pengembangan FabriiQ",
+        "subtitle": "Investasi dalam sumber daya co-development khusus dan dukungan prioritas",
+        "benefits": {
+          "validation": "Validasi dunia nyata dalam lingkungan pendidikan autentik",
+          "user_input": "Input desain berpusat pengguna dari pendidik dan administrator sesungguhnya",
+          "quality_assurance": "Jaminan kualitas melalui pengujian multi-institusional komprehensif",
+          "use_case_refinement": "Penyempurnaan kasus penggunaan dan wawasan optimalisasi alur kerja",
+          "market_validation": "Validasi pasar dan pengembangan bukti konsep",
+          "success_stories": "Dokumentasi kisah sukses dan pembuatan studi kasus"
+        }
+      }
+    },
+    "idealPartner": {
+      "title": "Profil",
+      "titleHighlight": "Mitra Ideal",
+      "description": "Kami mencari institusi yang siap untuk kemitraan co-development strategis",
+      "institutional": {
+        "title": "Karakteristik Institusional",
+        "items": {
+          "multi_campus": "Organisasi pendidikan multi-kampus dengan kebutuhan operasional kompleks",
+          "progressive_leadership": "Kepemimpinan progresif yang berkomitmen pada transformasi digital komprehensif",
+          "technology_readiness": "Kesiapan teknologi dengan sumber daya IT khusus dan kapasitas implementasi",
+          "collaborative_culture": "Budaya kolaboratif yang bersedia berpartisipasi dalam co-development iteratif",
+          "financial_readiness": "Kesiapan finansial untuk berinvestasi dalam biaya penyebaran dan infrastruktur"
+        }
+      },
+      "partnership_requirements": {
+        "title": "Persyaratan Kemitraan",
+        "items": {
+          "csuite_commitment": "Komitmen tingkat C-suite untuk adopsi platform dan manajemen perubahan organisasi",
+          "staff_allocation": "Alokasi staf khusus (10-15 jam bulanan) untuk partisipasi co-development",
+          "investment_deployment": "Investasi dalam biaya penyebaran, pelatihan, dan persyaratan infrastruktur",
+          "reference_willingness": "Kesediaan untuk menjadi referensi dan studi kasus kepemimpinan pemikiran",
+          "research_participation": "Partisipasi dalam riset pengguna, sesi umpan balik, dan validasi produk"
+        }
+      }
+    },
+    "charter": {
+      "title": "Piagam Kemitraan",
+      "titleHighlight": "Komitmen",
+      "institution": {
+        "title": "Institusi Anda Berkomitmen Untuk:",
+        "items": {
+          "cover_deployment": "Menutupi investasi penyebaran, infrastruktur, dan pelatihan",
+          "allocate_staff": "Mengalokasikan waktu staf khusus untuk aktivitas kemitraan",
+          "participate_feedback": "Berpartisipasi dalam sesi umpan balik bulanan dan workshop strategi triwulanan",
+          "provide_assessment": "Memberikan penilaian jujur dan panduan pengembangan konstruktif",
+          "maintain_confidentiality": "Menjaga kerahasiaan mengenai fitur Alpha dan roadmap pengembangan"
+        }
+      },
+      "fabriiq": {
+        "title": "FabriiQ Berkomitmen Untuk:",
+        "items": {
+          "provide_access": "Memberikan akses co-development Alpha khusus dan pengembangan fitur prioritas",
+          "deliver_branding": "Menyediakan integrasi branding kustom dan personalisasi alur kerja",
+          "maintain_communication": "Menjaga komunikasi transparan tentang kemajuan pengembangan dan jadwal",
+          "honor_terms": "Menghormati syarat kemitraan dan harga preferensial pasca-Alpha",
+          "recognize_institution": "Mengakui institusi Anda sebagai mitra pengembangan pendiri dengan peluang kepemimpinan pemikiran"
+        }
+      }
+    },
+    "beyondAlpha": {
+      "title": "Melampaui Alpha:",
+      "titleHighlight": "Nilai Kemitraan Berkelanjutan",
+      "description": "Kemitraan Pengembangan Alpha menetapkan fondasi untuk keunggulan strategis jangka panjang",
+      "benefits": {
+        "preferential_terms": {
+          "title": "Syarat Kemitraan Preferensial",
+          "description": "Mitra pendiri mempertahankan harga menguntungkan dan akses prioritas dibandingkan dengan adopter masa depan"
+        },
+        "innovation_leadership": {
+          "title": "Kepemimpinan Inovasi Berkelanjutan",
+          "description": "Akses pertama ke fitur baru, peningkatan platform, dan pengembangan strategis"
+        },
+        "legacy_advantage": {
+          "title": "Keunggulan Warisan",
+          "description": "Alur kerja institusional dan branding Anda tetap terintegrasi mendalam dalam evolusi platform"
+        },
+        "thought_leadership": {
+          "title": "Pengakuan Kepemimpinan Pemikiran",
+          "description": "Ditampilkan sebagai kontributor pendiri transformasi teknologi pendidikan"
+        }
+      }
+    },
+    "intelligence": {
+      "title": "Platform Kecerdasan Pendidikan",
+      "description": "Fondasi teknologi yang mendukung pendidikan generasi berikutnya"
+    }
+  }
+}

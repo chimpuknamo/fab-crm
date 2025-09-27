@@ -1,0 +1,118 @@
+{
+  "pages": {
+    "about": {
+      "title": "Acerca de FabriiQ",
+      "hero": {
+        "badge": "Nuestra Historia",
+        "title": "Revolucionando la Tecnología Educativa",
+        "subtitle": "Ocho años de experiencia en tecnología educativa nos llevaron a una realización: las instituciones necesitan un Sistema Operativo Escolar, no otra herramienta fragmentada."
+      },
+      "mission": {
+        "title": "Nuestra Misión",
+        "description": "Eliminar la complejidad y fragmentación que impide a las instituciones educativas alcanzar su máximo potencial proporcionando el primer Sistema Operativo Escolar integral diseñado específicamente para la excelencia educativa moderna."
+      },
+      "vision": {
+        "title": "Nuestra Visión",
+        "description": "Un mundo donde cada institución educativa tenga tecnología unificada, inteligente e intuitiva que empodere a los educadores, involucre a los estudiantes y permita el crecimiento institucional."
+      },
+      "origin_story": {
+        "title": "La Historia de Origen de FabriiQ",
+        "subtitle": "Cómo ocho años de experiencia revelaron el verdadero problema",
+        "problem": {
+          "title": "El Problema que Descubrimos",
+          "description_1": "Durante ocho años, hemos estado profundamente inmersos en el panorama de la tecnología educativa, trabajando con instituciones de diferentes escalas y contextos. Lo que comenzó como entusiasmo por \"mejorar la educación a través de la tecnología\" gradualmente reveló un patrón preocupante.",
+          "description_2": "Vimos instituciones luchar con 3-7 sistemas diferentes que no podían comunicarse. La información estudiantil vivía en un lugar, la gestión del aprendizaje en otro, los datos financieros en un tercero, y la comunicación dispersa en múltiples plataformas."
+        },
+        "revelation": {
+          "title": "La Revelación",
+          "description_1": "El avance llegó cuando nos dimos cuenta de que estábamos haciendo la pregunta equivocada. En lugar de \"¿Cómo podemos construir un mejor LMS?\" deberíamos haber estado preguntando: \"¿Por qué las instituciones educativas se ven obligadas a operar como una colección de departamentos desconectados?\"",
+          "description_2": "Nadie estaba pensando en la educación como un ecosistema completo e integrado."
+        },
+        "solution": {
+          "title": "Nuestra Filosofía de Solución",
+          "description": "En lugar de construir otra herramienta para agregar al stack tecnológico institucional, diseñamos algo fundamentalmente diferente: el primer Sistema Operativo Escolar integral.",
+          "features": {
+            "not_lms": {
+              "title": "No es un LMS Plus",
+              "description": "Comenzamos con la misión institucional completa"
+            },
+            "ai_native": {
+              "title": "Arquitectura Nativa de IA",
+              "description": "Construido para relaciones educativas desde cero"
+            },
+            "multi_campus": {
+              "title": "Multi-Campus Primero",
+              "description": "Diseñado para la complejidad desde el día uno"
+            }
+          }
+        }
+      },
+      "development_philosophy": {
+        "title": "Asociación Sobre Producto",
+        "subtitle": "Por qué elegimos el desarrollo colaborativo",
+        "alpha_development": {
+          "title": "Desarrollo de Fase Alfa",
+          "description": "La mayoría de la tecnología educativa se construye en salas de juntas por personas que no han estado en un aula en años. Creemos que la mejor tecnología educativa emerge de la colaboración genuina con educadores."
+        },
+        "transparency": {
+          "title": "Promesa de Transparencia",
+          "description": "Comunicamos claramente lo que funciona hoy versus lo que estamos construyendo mañana. Sin sobreventa. Sin cronogramas falsos. Sin limitaciones ocultas."
+        }
+      },
+      "alpha_journey": {
+        "badge": "Estado Actual",
+        "title": "Viaje de Un Año a Alfa",
+        "subtitle": "Del concepto al Sistema Operativo Escolar operacional",
+        "milestones": {
+          "core_systems": {
+            "title": "Sistemas Centrales Operacionales",
+            "description": "Todas las operaciones institucionales esenciales funcionan de manera confiable"
+          },
+          "ai_features": {
+            "title": "Características de IA Activas",
+            "description": "Los agentes AIVY proporcionan asistencia inteligente en toda la plataforma"
+          },
+          "multi_campus": {
+            "title": "Multi-Campus Probado",
+            "description": "Gestionando exitosamente jerarquías institucionales complejas"
+          }
+        }
+      },
+      "school_os": {
+        "title": "¿Por qué \"Sistema Operativo Escolar\"?",
+        "description": "Como los sistemas operativos de computadora gestionan recursos de hardware y habilitan aplicaciones, los sistemas operativos educativos deberían gestionar recursos institucionales y habilitar la excelencia educativa.",
+        "features": {
+          "unified_data": {
+            "title": "Modelo de Datos Unificado",
+            "description": "Toda la información institucional conectada"
+          },
+          "intelligent_automation": {
+            "title": "Automatización Inteligente",
+            "description": "Los humanos se enfocan en la educación"
+          },
+          "extensible_architecture": {
+            "title": "Arquitectura Extensible",
+            "description": "La plataforma crece con las necesidades"
+          },
+          "resource_optimization": {
+            "title": "Optimización de Recursos",
+            "description": "Uso eficiente del tiempo y recursos"
+          }
+        }
+      },
+      "partnership_invitation": {
+        "title": "Invitación de Asociación",
+        "description": "No buscamos clientes - buscamos co-creadores. Instituciones educativas que entienden que el futuro de la educación requiere tecnología unificada e inteligente.",
+        "limited_positions": {
+          "title": "Posiciones de Asociación Limitadas Disponibles",
+          "description": "Estamos aceptando un máximo de 12 socios de desarrollo para asegurar colaboración significativa y personalización integral para cada institución."
+        },
+        "cta": {
+          "explore": "Explorar Asociación",
+          "contact": "Contáctanos"
+        },
+        "footer_text": "El futuro de la tecnología educativa no se trata de mejores herramientas - se trata de inteligencia unificada que"
+      }
+    }
+  }
+}

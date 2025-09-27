@@ -1,0 +1,850 @@
+{
+  "pages": {
+    "capabilities": {
+      "title": "Capacidades de la Plataforma",
+      "subtitle": "Características integrales diseñadas para instituciones educativas modernas",
+      "description": "Explora las capacidades integrales de tecnología educativa de FabriiQ diseñadas para instituciones modernas.",
+      "search_placeholder": "Buscar capacidades...",
+      "filters": {
+        "all": "Todas las Capacidades",
+        "system_admin": "Portal de Administrador del Sistema",
+        "teacher_portal": "Portal del Profesor",
+        "student_portal": "Portal del Estudiante",
+        "teacher": "Portal del Profesor",
+        "student": "Portal del Estudiante"
+      },
+      "select_capability": "Seleccionar una Capacidad",
+      "select_capability_desc": "Elige una capacidad de la lista para ver información detallada y demostraciones.",
+      "interactive_demo": "Demostración Interactiva",
+      "interactive_demos": "Demostraciones Interactivas",
+      "key_features": "Características Clave",
+      "expected_benefits": "Beneficios Esperados (Fase Alfa)",
+      "alpha_performance": "Expectativas de Rendimiento Alfa",
+      "tags": "Etiquetas",
+      "status": {
+        "alpha": "Fase Alfa",
+        "beta": "Fase Beta",
+        "development": "En Desarrollo",
+        "coming_soon": "Próximamente"
+      },
+      "performance_metrics": {
+        "coordination": "Coordinación",
+        "time_reduction": "Reducción de Tiempo",
+        "accuracy": "Precisión",
+        "efficiency": "Eficiencia"
+      },
+      "categories": {
+        "system_admin_portal": "Portal de Administrador del Sistema",
+        "teacher_portal": "Portal del Profesor",
+        "student_portal": "Portal del Estudiante"
+      },
+      "expected_prefix": "Esperado",
+      "demo": {
+        "creation": "Proceso de Creación",
+        "grading": "Calificación y Análisis"
+      }
+    },
+    "projects": {
+      "title": "Capacidades de la Plataforma",
+      "subtitle": "Características integrales diseñadas para instituciones educativas modernas",
+      "description": "Explora las capacidades integrales de tecnología educativa de FabriiQ diseñadas para instituciones modernas.",
+      "search_placeholder": "Buscar capacidades...",
+      "filters": {
+        "all": "Todas las Capacidades",
+        "system_admin": "Portal de Administrador del Sistema",
+        "teacher_portal": "Portal del Profesor",
+        "student_portal": "Portal del Estudiante"
+      },
+      "select_capability": "Seleccionar una Capacidad",
+      "select_capability_desc": "Elige una capacidad de la lista para ver información detallada y demostraciones.",
+      "interactive_demo": "Demostración Interactiva",
+      "interactive_demos": "Demostraciones Interactivas",
+      "key_features": "Características Clave",
+      "expected_benefits": "Beneficios Esperados (Fase Alfa)",
+      "alpha_performance": "Expectativas de Rendimiento Alfa",
+      "tags": "Etiquetas",
+      "status": {
+        "alpha": "Fase Alfa",
+        "beta": "Fase Beta",
+        "development": "En Desarrollo",
+        "coming_soon": "Próximamente"
+      },
+      "performance_metrics": {
+        "coordination": "Coordinación",
+        "time_reduction": "Reducción de Tiempo",
+        "accuracy": "Precisión",
+        "efficiency": "Eficiencia"
+      },
+      "capabilities": {
+        "system-admin-dashboard": {
+          "name": "Panel de Control de Administrador del Sistema",
+          "subtitle": "Centro de Control Administrativo Integral",
+          "description": "Panel de control centralizado que proporciona a los administradores del sistema supervisión completa y control de todas las operaciones educativas en múltiples campus.",
+          "features": [
+            "Monitoreo del sistema multi-campus",
+            "Análisis operativos en tiempo real",
+            "Gestión de usuarios y permisos",
+            "Métricas de salud y rendimiento del sistema",
+            "Alertas y notificaciones automáticas"
+          ],
+          "benefits": [
+            "Mejora proyectada del 85% en eficiencia administrativa",
+            "Supervisión del sistema mejorada anticipada",
+            "Gestión de operaciones simplificada esperada",
+            "Resolución proactiva de problemas planificada"
+          ],
+          "tags": ["Administración", "Panel de Control", "Gestión del Sistema", "Análisis"],
+          "performance": {
+            "efficiency": "+85%",
+            "oversight": "95%",
+            "responseTime": "<30s"
+          }
+        },
+        "academic-calendar": {
+          "name": "Gestión de Calendario Académico",
+          "subtitle": "Programación Unificada Multi-Campus",
+          "description": "Centralice la planificación académica en múltiples campus con detección inteligente de conflictos y sincronización automatizada.",
+          "features": [
+            "Coordinación de calendario multi-campus",
+            "Gestión de eventos académicos (exámenes, orientaciones, graduaciones)",
+            "Gestión de feriados con exclusiones automáticas",
+            "Programación de recursos con detección de conflictos",
+            "Sincronización en tiempo real en todos los campus"
+          ],
+          "benefits": [
+            "Reducción proyectada del 60% en conflictos de programación",
+            "Coordinación multi-campus simplificada anticipada",
+            "Mejora esperada en la utilización de recursos",
+            "Seguimiento de cumplimiento automatizado planificado"
+          ],
+          "tags": ["Multi-Campus", "Programación", "Planificación Académica", "Gestión de Conflictos"],
+          "performance": {
+            "coordination": "+60%",
+            "timeReduction": "40%",
+            "accuracy": "95%"
+          }
+        },
+        "enrollment-management": {
+          "name": "Sistema de Gestión de Matrículas",
+          "subtitle": "Gestión Inteligente del Ciclo de Vida Estudiantil",
+          "description": "Automatice los procesos de matrícula de estudiantes con validación inteligente y seguimiento integral en toda la jerarquía institucional.",
+          "features": [
+            "Procesamiento de matrículas individuales y masivas",
+            "Gestión automatizada de estados (ACTIVO, PENDIENTE, COMPLETADO, RETIRADO)",
+            "Importación de CSV con validación en tiempo real",
+            "Análisis de matrículas multi-campus",
+            "Pronóstico de matrículas predictivo"
+          ],
+          "benefits": [
+            "Reducción proyectada del 75% en tareas de matrícula manuales",
+            "Visibilidad de matrículas en tiempo real anticipada",
+            "Precisión en la creación de perfiles automatizada esperada",
+            "Perspectivas inter-campus planificadas"
+          ],
+          "tags": ["Gestión de Estudiantes", "Automatización", "Multi-Campus", "Análisis de Datos"],
+          "performance": {
+            "efficiency": "+75%",
+            "timeReduction": "65%",
+            "accuracy": "98%"
+          }
+        },
+        "fee-management": {
+          "name": "Gestión Integral de Tasas",
+          "subtitle": "Automatización de Operaciones Financieras",
+          "description": "Optimice las operaciones financieras con estructuras de tasas automatizadas, procesamiento de pagos y soporte multi-moneda.",
+          "features": [
+            "Gestión flexible de la estructura de tasas",
+            "Generación automatizada de recibos y facturas",
+            "Soporte para múltiples métodos de pago",
+            "Automatización de tasas por mora con reglas de política",
+            "Informes y análisis financieros"
+          ],
+          "benefits": [
+            "Reducción proyectada del 80% en tareas financieras manuales",
+            "Mejora anticipada en las tasas de cobro de pagos",
+            "Visibilidad financiera integral esperada",
+            "Informes de cumplimiento automatizados planificados"
+          ],
+          "tags": ["Gestión Financiera", "Automatización", "Multi-Moneda", "Cumplimiento"],
+          "performance": {
+            "efficiency": "+80%",
+            "processing": "50%",
+            "accuracy": "99%"
+          }
+        },
+        "question-bank": {
+          "name": "Banco de Preguntas Impulsado por IA",
+          "subtitle": "Creación Inteligente de Evaluaciones",
+          "description": "Construya repositorios de preguntas integrales con la integración de la Taxonomía de Bloom y generación de contenido impulsada por IA.",
+          "features": [
+            "Más de 16 tipos de preguntas con soporte de medios enriquecidos",
+            "Etiquetado de nivel cognitivo de la Taxonomía de Bloom",
+            "Generación de preguntas impulsada por IA",
+            "Métricas de calidad y análisis de uso",
+            "Revisión y validación colaborativa"
+          ],
+          "benefits": [
+            "Creación de preguntas 70% más rápida proyectada",
+            "Mejora anticipada en la calidad de las evaluaciones",
+            "Validación del equilibrio cognitivo esperada",
+            "Recomendaciones inteligentes planificadas"
+          ],
+          "tags": ["Evaluación", "Contenido de IA", "Taxonomía de Bloom", "Garantía de Calidad"],
+          "performance": {
+            "efficiency": "+70%",
+            "timeReduction": "45%",
+            "quality": "95%"
+          }
+        },
+        "communication-hub": {
+          "name": "Centro de Comunicación Estratégica",
+          "subtitle": "Inteligencia de Mensajería a Nivel Institucional",
+          "description": "Coordine las comunicaciones institucionales con enrutamiento inteligente, monitoreo de cumplimiento y análisis.",
+          "features": [
+            "Mensajería multicanal (directa, grupal, de difusión)",
+            "Comunicación compatible con FERPA",
+            "Capacidades de transmisión de emergencia",
+            "Análisis y perspectivas de comunicación",
+            "Enrutamiento y priorización automatizados"
+          ],
+          "benefits": [
+            "Mejora proyectada del 85% en el alcance de la comunicación",
+            "Monitoreo de cumplimiento mejorado anticipado",
+            "Comunicación de crisis simplificada esperada",
+            "Análisis de participación de las partes interesadas planificado"
+          ],
+          "tags": ["Comunicación", "Cumplimiento de FERPA", "Gestión de Emergencias", "Análisis"],
+          "performance": {
+            "efficiency": "+85%",
+            "responseTime": "60%",
+            "compliance": "100%"
+          }
+        },
+        "curriculum-management": {
+          "name": "Gestión Pedagógica del Currículo",
+          "subtitle": "Inteligencia de Resultados de Aprendizaje",
+          "description": "Alinee el currículo con los resultados de aprendizaje utilizando la integración de la Taxonomía de Bloom y el análisis del equilibrio cognitivo.",
+          "features": [
+            "Definición y mapeo de resultados de aprendizaje",
+            "Marco de seis niveles de la Taxonomía de Bloom",
+            "Verificación de la alineación del currículo",
+            "Análisis del equilibrio cognitivo",
+            "Seguimiento de la correlación del rendimiento"
+          ],
+          "benefits": [
+            "Mejora proyectada del 65% en la alineación del currículo",
+            "Claridad mejorada de los resultados de aprendizaje anticipada",
+            "Seguimiento del desarrollo cognitivo esperado",
+            "Validación pedagógica planificada"
+          ],
+          "tags": ["Currículo", "Taxonomía de Bloom", "Resultados de Aprendizaje", "Inteligencia Pedagógica"],
+            "performance": {
+              "alignment": "+65%",
+              "efficiency": "55%",
+              "correlation": "92%"
+            }
+          },
+          "system-compliance": {
+            "name": "Gestión de Cumplimiento del Sistema",
+            "subtitle": "Excelencia en Cumplimiento FERPA y GDPR",
+            "description": "Gestión integral de cumplimiento que garantiza la adhesión a FERPA y GDPR con monitoreo y reportes automatizados.",
+            "features": [
+              "Monitoreo y cumplimiento de FERPA",
+              "Controles de protección de datos y privacidad GDPR",
+              "Reportes de cumplimiento automatizados",
+              "Evaluación y mitigación de riesgos",
+              "Gestión de pistas de auditoría y documentación"
+            ],
+            "benefits": [
+              "Tasa de cumplimiento FERPA proyectada del 100%",
+              "Protección de datos GDPR mejorada anticipada",
+              "Procesos de auditoría simplificados esperados",
+              "Gestión de riesgos proactiva planificada"
+            ],
+            "tags": ["FERPA", "GDPR", "Cumplimiento", "Protección de Datos", "Gestión de Riesgos"],
+            "performance": {
+              "compliance": "100%",
+              "riskReduction": "95%",
+              "auditReadiness": "98%"
+            }
+          },
+          "class-analytics": {
+          "name": "Análisis Integral de Clases",
+          "subtitle": "Perspectivas de Enseñanza Basadas en Datos",
+          "description": "Acceda a análisis detallados del rendimiento de la clase con perspectivas de los estudiantes y recomendaciones de intervención.",
+          "features": [
+            "Paneles de rendimiento de la clase en tiempo real",
+            "Seguimiento del progreso individual del estudiante",
+            "Análisis cognitivo de la Taxonomía de Bloom",
+            "Identificación de estudiantes en riesgo",
+            "Motor de recomendación de intervenciones"
+          ],
+          "benefits": [
+            "Mejora proyectada del 70% en la predicción de resultados de los estudiantes",
+            "Eficacia docente mejorada anticipada",
+            "Toma de decisiones basada en datos esperada",
+            "Estrategias de intervención personalizadas planificadas"
+          ],
+          "tags": ["Análisis", "Rendimiento Estudiantil", "Inteligencia Predictiva", "Intervención"],
+          "performance": {
+            "insight": "+70%",
+            "identification": "50%",
+            "reliability": "88%"
+          }
+        },
+        "resource-management": {
+          "name": "Gestión Dinámica de Recursos",
+          "subtitle": "Organización Inteligente de Contenidos",
+          "description": "Organice y distribuya recursos educativos con intercambio inteligente y análisis de uso.",
+          "features": [
+            "Organización jerárquica de recursos",
+            "Intercambio inteligente basado en la matrícula",
+            "Análisis de uso y métricas de participación",
+            "Control de versiones y colaboración",
+            "Recomendaciones de contenido impulsadas por IA"
+          ],
+          "benefits": [
+            "Mejora proyectada del 60% en la accesibilidad de los recursos",
+            "Utilización de contenido mejorada anticipada",
+            "Ganancias de eficiencia colaborativa esperadas",
+            "Curación de contenido inteligente planificada"
+          ],
+          "tags": ["Gestión de Recursos", "Análisis de Contenido", "Colaboración", "Recomendaciones de IA"],
+          "performance": {
+            "efficiency": "+60%",
+            "accessTime": "40%",
+            "utilization": "85%"
+          }
+        },
+        "quiz-activities": {
+          "name": "Actividades de Cuestionarios Interactivos",
+          "subtitle": "Creación de Evaluaciones Atractivas",
+          "description": "Cree actividades de cuestionarios dinámicos con múltiples tipos de preguntas y seguimiento de la participación de los estudiantes en tiempo real.",
+          "features": [
+            "Múltiples formatos de preguntas y soporte de medios",
+            "Seguimiento de respuestas de los estudiantes en tiempo real",
+            "Alineación cognitiva con la Taxonomía de Bloom",
+            "Retroalimentación y explicación instantáneas",
+            "Análisis de rendimiento y perspectivas"
+          ],
+          "benefits": [
+            "Aumento proyectado del 75% en la participación de los estudiantes",
+            "Eficiencia de evaluación mejorada anticipada",
+            "Resultados de aprendizaje mejorados esperados",
+            "Ajuste de dificultad adaptativo planificado"
+          ],
+          "tags": ["Evaluación Interactiva", "Participación Estudiantil", "Análisis en Tiempo Real", "Alineación Cognitiva"],
+          "performance": {
+            "engagement": "+75%",
+            "creationTime": "55%",
+            "accuracy": "90%"
+          }
+        },
+        "personal-dashboard": {
+          "name": "Panel de Control Personalizado del Estudiante",
+          "subtitle": "Viaje de Aprendizaje Individual",
+          "description": "Acceda a su panel de control de aprendizaje personal con seguimiento del progreso y perspectivas personalizadas.",
+          "features": [
+            "Visualización del progreso individual",
+            "Establecimiento y seguimiento de metas",
+            "Perspectivas de rendimiento y recomendaciones",
+            "Celebraciones de hitos de aprendizaje",
+            "Gestión del horario de estudio"
+          ],
+          "benefits": [
+            "Mejora proyectada del 80% en el aprendizaje autodirigido",
+            "Motivación y participación mejoradas anticipadas",
+            "Experiencia de aprendizaje personalizada esperada",
+            "Sistema de reconocimiento de logros planificado"
+          ],
+          "tags": ["Desarrollo Personal", "Seguimiento del Progreso", "Participación Estudiantil", "Autoaprendizaje"],
+          "performance": {
+            "motivation": "+80%",
+            "selfDirected": "65%",
+            "goalCompletion": "92%"
+          }
+        },
+        "assignment-submission": {
+          "name": "Entrega Inteligente de Tareas",
+          "subtitle": "Gestión Simplificada de Tareas",
+          "description": "Entregue tareas con detección inteligente de plagio y retroalimentación instantánea sobre el formato y la calidad del contenido.",
+          "features": [
+            "Soporte para carga de archivos de múltiples formatos",
+            "Detección de plagio en tiempo real",
+            "Evaluación de la calidad del contenido",
+            "Seguimiento de entregas y recordatorios",
+            "Herramientas de revisión por pares y colaboración"
+          ],
+          "benefits": [
+            "Reducción proyectada del 70% en incidentes de plagio",
+            "Calidad de las tareas mejorada anticipada",
+            "Integridad académica mejorada esperada",
+            "Oportunidades de aprendizaje colaborativo planificadas"
+          ],
+          "tags": ["Gestión de Tareas", "Detección de Plagio", "Evaluación de Calidad", "Colaboración"],
+          "performance": {
+            "qualityImprovement": "+70%",
+            "plagiarismReduction": "85%",
+            "submissionRate": "95%"
+          }
+        },
+        "interactive-learning": {
+          "name": "Módulos de Aprendizaje Interactivos",
+          "subtitle": "Contenido Educativo Atractivo",
+          "description": "Experimente módulos de aprendizaje interactivos con elementos de gamificación y ajuste de dificultad adaptativo.",
+          "features": [
+            "Experiencias de aprendizaje gamificadas",
+            "Progresión de dificultad adaptativa",
+            "Contenido multimedia interactivo",
+            "Insignias de logros y recompensas",
+            "Desafíos de aprendizaje colaborativo"
+          ],
+          "benefits": [
+            "Aumento proyectado del 85% en la participación en el aprendizaje",
+            "Retención de conocimientos mejorada anticipada",
+            "Motivación de aprendizaje mejorada esperada",
+            "Rutas de aprendizaje personalizadas planificadas"
+          ],
+          "tags": ["Aprendizaje Interactivo", "Gamificación", "Sistemas Adaptativos", "Participación Estudiantil"],
+          "performance": {
+            "engagement": "+85%",
+            "retention": "75%",
+            "completion": "88%"
+          }
+        },
+        "user-management": {
+          "name": "Gestión Avanzada de Usuarios",
+          "subtitle": "Control de Acceso Integral",
+          "description": "Gestione jerarquías de usuarios, roles y permisos a través de múltiples campus con automatización inteligente.",
+          "features": [
+            "Gestión de roles jerárquicos multi-campus",
+            "Permisos granulares y control de acceso",
+            "Automatización del ciclo de vida del usuario",
+            "Autenticación SSO y federada",
+            "Registros de auditoría en tiempo real"
+          ],
+          "benefits": [
+            "Reducción proyectada del 80% en tareas administrativas",
+            "Cumplimiento de seguridad mejorado anticipado",
+            "Control de acceso simplificado esperado",
+            "Gestión unificada de usuarios planificada"
+          ],
+          "tags": ["Gestión de Usuarios", "Seguridad", "Control de Acceso", "Multi-Campus"],
+          "performance": {
+            "efficiency": "+80%",
+            "security": "45%",
+            "compliance": "95%"
+          }
+        },
+        "system-monitoring": {
+          "name": "Monitoreo Inteligente del Sistema",
+          "subtitle": "Observabilidad Operacional",
+          "description": "Monitoree la salud, rendimiento y seguridad del sistema con alertas predictivas e informes automatizados.",
+          "features": [
+            "Paneles de salud del sistema en tiempo real",
+            "Análisis predictivo y alertas tempranas",
+            "Monitoreo de rendimiento automatizado",
+            "Seguimiento de cumplimiento de seguridad",
+            "Informes de estado multi-campus"
+          ],
+          "benefits": [
+            "Reducción proyectada del 90% en tiempo de inactividad",
+            "Detección proactiva de problemas anticipada",
+            "Confiabilidad del sistema mejorada esperada",
+            "Mantenimiento predictivo planificado"
+          ],
+          "tags": ["Monitoreo del Sistema", "Análisis Predictivo", "Alertas", "Rendimiento"],
+          "performance": {
+            "uptime": "+90%",
+            "detection": "30%",
+            "reliability": "98%"
+          }
+        },
+        "audit-trails": {
+          "name": "Registros de Auditoría Integrales",
+          "subtitle": "Seguimiento Completo de Acciones",
+          "description": "Mantenga registros detallados de todas las acciones del sistema con búsqueda inteligente y análisis de cumplimiento.",
+          "features": [
+            "Registro automático de todas las acciones del sistema",
+            "Capacidades avanzadas de búsqueda y filtrado",
+            "Informes de cumplimiento automatizados",
+            "Detección de anomalías impulsada por IA",
+            "Archivo seguro e inmutable"
+          ],
+          "benefits": [
+            "Cumplimiento proyectado del 100% con estándares de auditoría",
+            "Transparencia completa de acciones anticipada",
+            "Investigación de incidentes simplificada esperada",
+            "Preparación automática para auditorías planificada"
+          ],
+          "tags": ["Registros de Auditoría", "Cumplimiento", "Seguimiento", "Seguridad"],
+          "performance": {
+            "compliance": "100%",
+            "searchSpeed": "60%",
+            "completeness": "99%"
+          }
+        },
+        "automated-backups": {
+          "name": "Copias de Seguridad Automatizadas Inteligentes",
+          "subtitle": "Continuidad de Datos Garantizada",
+          "description": "Gestione copias de seguridad automatizadas con recuperación inteligente y verificación de integridad de datos.",
+          "features": [
+            "Copias de seguridad programadas automáticas",
+            "Verificación de integridad de datos",
+            "Recuperación de desastres de un clic",
+            "Encriptación y almacenamiento seguro",
+            "Monitoreo de salud de copias de seguridad"
+          ],
+          "benefits": [
+            "Protección de datos proyectada del 99.9%",
+            "Recuperación rápida de desastres anticipada",
+            "Tranquilidad de datos esperada",
+            "Continuidad operacional sin interrupciones planificada"
+          ],
+          "tags": ["Copias de Seguridad de Datos", "Recuperación de Desastres", "Integridad de Datos", "Automatización"],
+          "performance": {
+            "protection": "99.9%",
+            "recovery": "75%",
+            "reliability": "99%"
+          }
+        },
+        "security-compliance": {
+          "name": "Marco de Cumplimiento de Seguridad",
+          "subtitle": "Protección de Privacidad Nativa",
+          "description": "Asegure el cumplimiento de FERPA y estándares de privacidad con monitoreo automatizado y evaluación de riesgos.",
+          "features": [
+            "Cumplimiento automatizado de FERPA",
+            "Evaluación continua de riesgos de privacidad",
+            "Encriptación de datos y controles de acceso",
+            "Políticas de retención automatizadas",
+            "Informes regulares de cumplimiento"
+          ],
+          "benefits": [
+            "Cumplimiento proyectado del 100% con FERPA",
+            "Reducción de riesgos de seguridad anticipada",
+            "Protección automática de privacidad esperada",
+            "Preparación simplificada para auditorías planificada"
+          ],
+          "tags": ["Cumplimiento FERPA", "Privacidad de Datos", "Evaluación de Riesgos", "Seguridad"],
+          "performance": {
+            "compliance": "100%",
+            "riskReduction": "85%",
+            "protection": "99%"
+          }
+        },
+        "assessment-creation": {
+          "name": "Creación de Evaluaciones",
+          "subtitle": "Constructor de Evaluaciones Integral",
+          "description": "Cree diversos tipos de evaluaciones con soporte multimedia y alineación de nivel cognitivo.",
+          "features": [
+            "Múltiples formatos y plantillas de evaluación",
+            "Integración y soporte de medios enriquecidos",
+            "Alineación cognitiva de Taxonomía de Bloom",
+            "Puntuación y retroalimentación automatizadas",
+            "Análisis de rendimiento y perspectivas"
+          ],
+          "benefits": [
+            "Creación de evaluaciones 70% más rápida proyectada",
+            "Mejora anticipada en la calidad de las evaluaciones",
+            "Evaluación de aprendizaje mejorada esperada",
+            "Recomendaciones de evaluación inteligentes planificadas"
+          ],
+          "tags": ["Evaluación", "Herramientas del Profesor", "Alineación Cognitiva", "Análisis"],
+          "performance": {
+            "efficiency": "+70%",
+            "quality": "90%",
+            "alignment": "95%"
+          }
+        },
+        "reading-activities": {
+          "name": "Actividades de Lectura",
+          "subtitle": "Comprensión de Lectura Interactiva",
+          "description": "Involucre a los estudiantes con actividades de lectura interactivas y seguimiento de comprensión.",
+          "features": [
+            "Biblioteca de materiales de lectura interactivos",
+            "Seguimiento y análisis de comprensión",
+            "Ejercicios de construcción de vocabulario",
+            "Monitoreo del progreso de lectura",
+            "Ajuste adaptativo de dificultad"
+          ],
+          "benefits": [
+            "Mejora proyectada del 65% en comprensión de lectura",
+            "Desarrollo de vocabulario mejorado anticipado",
+            "Aumento esperado en el compromiso con la lectura",
+            "Rutas de lectura personalizadas planificadas"
+          ],
+          "tags": ["Lectura", "Comprensión", "Herramientas del Profesor", "Compromiso Estudiantil"],
+          "performance": {
+            "comprehension": "+65%",
+            "engagement": "80%",
+            "vocabulary": "75%"
+          }
+        },
+        "reward-system": {
+          "name": "Sistema de Recompensas",
+          "subtitle": "Plataforma de Reconocimiento de Logros",
+          "description": "Motive a los estudiantes a través de un sistema integral de recompensas y reconocimiento.",
+          "features": [
+            "Insignias y certificados digitales",
+            "Sistema de recompensas basado en puntos",
+            "Clasificaciones de logros",
+            "Creación de recompensas personalizadas",
+            "Integración de notificaciones para padres"
+          ],
+          "benefits": [
+            "Aumento proyectado del 85% en la motivación estudiantil",
+            "Mejora anticipada en la finalización de tareas",
+            "Participación en clase mejorada esperada",
+            "Refuerzo de comportamiento positivo planificado"
+          ],
+          "tags": ["Recompensas", "Motivación", "Herramientas del Profesor", "Compromiso Estudiantil"],
+          "performance": {
+            "motivation": "+85%",
+            "completion": "90%",
+            "participation": "78%"
+          }
+        },
+        "student-profiles": {
+          "name": "Perfiles de Estudiantes",
+          "subtitle": "Gestión Integral del Alumno",
+          "description": "Gestione perfiles detallados de estudiantes con seguimiento académico y perspectivas personalizadas.",
+          "features": [
+            "Seguimiento detallado del rendimiento académico",
+            "Identificación del estilo de aprendizaje",
+            "Análisis de patrones de comportamiento",
+            "Integración de comunicación con padres",
+            "Creación de planes de aprendizaje individuales"
+          ],
+          "benefits": [
+            "Mejora proyectada del 75% en aprendizaje personalizado",
+            "Relaciones profesor-estudiante mejoradas anticipadas",
+            "Resultados académicos mejorados esperados",
+            "Aumento de compromiso familiar planificado"
+          ],
+          "tags": ["Gestión de Estudiantes", "Personalización", "Herramientas del Profesor", "Análisis"],
+          "performance": {
+            "personalization": "+75%",
+            "outcomes": "82%",
+            "engagement": "88%"
+          }
+        },
+        "aivy-assistant": {
+          "name": "Asistente Aivy",
+          "subtitle": "Asistente de IA Inteligente",
+          "description": "Acceda a asistencia personalizada impulsada por IA para navegación, soporte y recomendaciones de aprendizaje.",
+          "features": [
+            "Asistencia de navegación inteligente",
+            "Recomendaciones de aprendizaje personalizadas",
+            "Soporte contextual en tiempo real",
+            "Integración de procesamiento de lenguaje natural",
+            "Análisis de patrones de aprendizaje"
+          ],
+          "benefits": [
+            "Mejora proyectada del 80% en la experiencia del usuario",
+            "Navegación de plataforma simplificada anticipada",
+            "Soporte de aprendizaje personalizado esperado",
+            "Participación mejorada de estudiantes planificada"
+          ],
+          "tags": ["Asistente de IA", "Portal de Estudiantes", "Personalización", "Soporte"],
+          "performance": {
+            "efficiency": "+80%",
+            "satisfaction": "90%",
+            "engagement": "85%"
+          }
+        },
+        "calendar-management": {
+          "name": "Gestión de Calendario",
+          "subtitle": "Organización de Horarios Personal",
+          "description": "Administre horarios personales y académicos con sincronización inteligente y recordatorios automatizados.",
+          "features": [
+            "Visualización de calendario personal",
+            "Integración de horarios académicos",
+            "Recordatorios y notificaciones automatizados",
+            "Sincronización con calendarios externos",
+            "Planificación de estudio y tareas"
+          ],
+          "benefits": [
+            "Mejora proyectada del 70% en organización personal",
+            "Reducción anticipada de conflictos de horario",
+            "Gestión de tiempo mejorada esperada",
+            "Productividad académica aumentada planificada"
+          ],
+          "tags": ["Calendario", "Portal de Estudiantes", "Organización", "Gestión del Tiempo"],
+          "performance": {
+            "organization": "+70%",
+            "efficiency": "65%",
+            "punctuality": "85%"
+          }
+        },
+        "teacher-communication": {
+          "name": "Comunicación con Profesores",
+          "subtitle": "Canal de Comunicación Directo",
+          "description": "Facilite la comunicación directa entre estudiantes y profesores con mensajería organizada y seguimiento.",
+          "features": [
+            "Sistema de mensajería profesor-estudiante",
+            "Organización de conversaciones por materia",
+            "Notificaciones de lectura y respuesta",
+            "Compartir archivos y recursos",
+            "Historial de comunicaciones"
+          ],
+          "benefits": [
+            "Mejora proyectada del 85% en comunicación académica",
+            "Tiempo de respuesta reducido anticipado",
+            "Relaciones profesor-estudiante mejoradas esperadas",
+            "Soporte académico personalizado planificado"
+          ],
+          "tags": ["Comunicación", "Portal de Estudiantes", "Soporte Académico", "Mensajería"],
+          "performance": {
+            "communication": "+85%",
+            "responseTime": "60%",
+            "satisfaction": "90%"
+          }
+        },
+        "social-wall": {
+          "name": "Muro Social",
+          "subtitle": "Plataforma de Participación Comunitaria",
+          "description": "Participe en discusiones comunitarias con contenido educativo y moderación inteligente.",
+          "features": [
+            "Alimentación de noticias de la comunidad educativa",
+            "Compartir logros y hitos",
+            "Discusiones temáticas moderadas",
+            "Integración multimedia para publicaciones",
+            "Sistema de me gusta y comentarios"
+          ],
+          "benefits": [
+            "Aumento proyectado del 90% en participación comunitaria",
+            "Sentido de pertenencia mejorado anticipado",
+            "Aprendizaje colaborativo mejorado esperado",
+            "Cultura escolar fortalecida planificada"
+          ],
+          "tags": ["Red Social", "Portal de Estudiantes", "Comunidad", "Participación"],
+          "performance": {
+            "engagement": "+90%",
+            "participation": "85%",
+            "community": "88%"
+          }
+        },
+        "attendance-tracking": {
+          "name": "Seguimiento de Asistencia",
+          "subtitle": "Monitoreo de Asistencia Personal",
+          "description": "Rastree la asistencia personal a clases con análisis de patrones y alertas automatizadas.",
+          "features": [
+            "Seguimiento automático de asistencia",
+            "Visualización de patrones de asistencia",
+            "Alertas de ausencias excesivas",
+            "Integración con notificaciones para padres",
+            "Informes de asistencia personalizados"
+          ],
+          "benefits": [
+            "Mejora proyectada del 75% en puntualidad",
+            "Conciencia de asistencia mejorada anticipada",
+            "Intervención temprana esperada para ausencias",
+            "Responsabilidad estudiantil aumentada planificada"
+          ],
+          "tags": ["Asistencia", "Portal de Estudiantes", "Monitoreo", "Análisis"],
+          "performance": {
+            "punctuality": "+75%",
+            "awareness": "80%",
+            "accountability": "85%"
+          }
+        },
+        "learning-activities": {
+          "name": "Actividades de Aprendizaje",
+          "subtitle": "Experiencias de Aprendizaje Personalizadas",
+          "description": "Acceda a actividades de aprendizaje interactivas adaptadas a su nivel y estilo de aprendizaje individual.",
+          "features": [
+            "Actividades de aprendizaje personalizadas",
+            "Rutas de aprendizaje adaptativas",
+            "Contenido multimedia interactivo",
+            "Seguimiento del progreso en tiempo real",
+            "Recomendaciones inteligentes de actividades"
+          ],
+          "benefits": [
+            "Mejora proyectada del 80% en la retención de aprendizaje",
+            "Experiencia de aprendizaje personalizada anticipada",
+            "Participación estudiantil mejorada esperada",
+            "Resultados de aprendizaje optimizados planificados"
+          ],
+          "tags": ["Aprendizaje Personalizado", "Portal de Estudiantes", "Actividades Interactivas", "Sistemas Adaptativos"],
+          "performance": {
+            "retention": "+80%",
+            "engagement": "85%",
+            "personalization": "90%"
+          }
+        },
+        "personal-profile": {
+          "name": "Perfil Personal",
+          "subtitle": "Gestión de Identidad Digital",
+          "description": "Gestione su perfil personal con información académica, preferencias y configuraciones personalizadas.",
+          "features": [
+            "Gestión de información personal",
+            "Configuraciones de privacidad y preferencias",
+            "Historial académico y logros",
+            "Personalización de la interfaz",
+            "Integración con redes sociales académicas"
+          ],
+          "benefits": [
+            "Mejora proyectada del 70% en la experiencia personalizada",
+            "Control de privacidad mejorado anticipado",
+            "Identidad digital profesional esperada",
+            "Gestión de reputación académica planificada"
+          ],
+          "tags": ["Perfil Personal", "Portal de Estudiantes", "Privacidad", "Personalización"],
+          "performance": {
+            "personalization": "+70%",
+            "privacy": "95%",
+            "satisfaction": "85%"
+          }
+        },
+        "aivy-companion": {
+          "name": "Compañero Aivy",
+          "subtitle": "Asistente de Aprendizaje Personal",
+          "description": "Su compañero de aprendizaje personal impulsado por IA que brinda soporte continuo y motivación.",
+          "features": [
+            "Coaching de aprendizaje personalizado",
+            "Motivación y recordatorios inteligentes",
+            "Análisis de patrones de estudio",
+            "Recomendaciones de mejora continua",
+            "Soporte emocional y motivacional"
+          ],
+          "benefits": [
+            "Aumento proyectado del 85% en la motivación de estudio",
+            "Hábitos de estudio mejorados anticipados",
+            "Bienestar estudiantil mejorado esperado",
+            "Éxito académico sostenible planificado"
+          ],
+          "tags": ["Compañero de IA", "Portal de Estudiantes", "Motivación", "Coaching Personal"],
+          "performance": {
+            "motivation": "+85%",
+            "studyHabits": "80%",
+            "wellbeing": "75%"
+          }
+        },
+        "student-social": {
+          "name": "Red Social Estudiantil",
+          "subtitle": "Conexiones Académicas y Sociales",
+          "description": "Conéctese con compañeros de clase, forme grupos de estudio y participe en actividades sociales académicas.",
+          "features": [
+            "Red social de estudiantes",
+            "Formación de grupos de estudio",
+            "Mensajería entre compañeros",
+            "Eventos y actividades estudiantiles",
+            "Foros de discusión académica"
+          ],
+          "benefits": [
+            "Aumento proyectado del 90% en la colaboración estudiantil",
+            "Redes académicas fortalecidas anticipadas",
+            "Aprendizaje peer-to-peer mejorado esperado",
+            "Vida estudiantil enriquecida planificada"
+          ],
+          "tags": ["Red Social", "Portal de Estudiantes", "Colaboración", "Vida Estudiantil"],
+          "performance": {
+            "collaboration": "+90%",
+            "networking": "85%",
+            "engagement": "88%"
+          }
+        }
+      }
+    }
+  }
+}

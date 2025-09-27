@@ -1,0 +1,271 @@
+{
+  "partnership": {
+    "title": "Programa de Colaboración para el Desarrollo",
+    "subtitle": "Únete al futuro de la tecnología educativa",
+    "hero": {
+      "alphaBadge": "Fase Alfa - Colaboraciones de Desarrollo Limitadas",
+      "title": "Colaboración de",
+      "titleHighlight": "Desarrollo",
+      "description": "Únete a un grupo selecto de instituciones visionarias que dan forma al futuro de la tecnología educativa. Co-crea FabriiQ mientras obtienes una ventaja competitiva.",
+      "partnerCardTitle": "Socio de Desarrollo de FabriiQ",
+      "partnerCardSubtitle": "Co-crea el futuro de la educación",
+      "valueLabel": "Valor de la Colaboración",
+      "valueText": "Invaluable",
+      "valueSubtext": "Ventaja competitiva",
+      "badge": "Puestos de Colaboración Limitados"
+    },
+    "benefits": {
+      "strategic": {
+        "title": "Inversión Estratégica",
+        "subtitle": "Intercambio de Valor Mutuo",
+        "badge": "Fase Alfa"
+      },
+      "codevelopment": {
+        "title": "Co-desarrollo",
+        "subtitle": "Da Forma a la Hoja de Ruta del Producto",
+        "badge": "Influencia Directa"
+      },
+      "earlyAccess": {
+        "title": "Acceso Temprano",
+        "subtitle": "Ventaja Competitiva",
+        "badge": "Ventaja Competitiva"
+      },
+      "aivy": {
+        "title": "Acceso a AIVY",
+        "subtitle": "Sistema de IA Multi-Agente",
+        "badge": "Exclusivo"
+      },
+      "multiCampus": {
+        "title": "Multi-Campus",
+        "subtitle": "Arquitectura Nativa",
+        "badge": "Escalable"
+      },
+      "ferpa": {
+        "title": "Nativo de FERPA",
+        "subtitle": "Privacidad por Diseño",
+        "badge": "Cumple con la Normativa"
+      }
+    },
+    "coCreators": {
+      "title": "Co-Creadores,",
+      "titleHighlight": "No Clientes",
+      "description": "No queremos usuarios que acepten lo que construimos - queremos socios que nos ayuden a construir lo que la educación realmente necesita. Cada socio de desarrollo influye directamente en nuestra hoja de ruta de productos, recibe una integración de marca personalizada y valida soluciones en entornos educativos reales."
+    },
+    "journey": {
+      "title": "Viaje de",
+      "titleHighlight": "Colaboración",
+      "description": "Cronología interactiva que muestra tu camino desde la invitación hasta una colaboración sostenida"
+    },
+    "form": {
+      "header": {
+        "title": "Colaboración de Co-Creación",
+        "titleHighlight": "Invitación",
+        "description": "Completa la evaluación de compatibilidad de colaboración para comenzar el proceso de evaluación estratégica"
+      },
+      "title": "Evaluación de Colaboración de Co-Creación",
+      "subtitle": "Ayúdanos a comprender la visión de tu institución y la preparación para el co-desarrollo",
+      "sections": {
+        "institution": "Información de la Institución",
+        "contact": "Información de Contacto Estratégico",
+        "partnership": "Detalles de la Colaboración de Co-Desarrollo"
+      },
+      "fields": {
+        "institutionName": "Nombre de la Institución *",
+        "institutionType": "Tipo de Institución *",
+        "campusCount": "Número de Campus",
+        "studentPopulation": "Población Estudiantil",
+        "contactName": "Nombre del Contacto Principal *",
+        "email": "Dirección de Correo Electrónico *",
+        "phone": "Número de Teléfono",
+        "role": "Cargo/Título *",
+        "currentSystems": "Ecosistema Tecnológico Actual y Desafíos Estratégicos",
+        "timeline": "Cronograma de Inversión y Preparación",
+        "commitment": "Nivel de Compromiso de Inversión en la Colaboración",
+        "customRequirements": "Requisitos Personalizados y Visión"
+      },
+      "placeholders": {
+        "institutionName": "Tu institución educativa",
+        "institutionType": "Selecciona el tipo de institución",
+        "campusCount": "Número de ubicaciones de campus",
+        "studentPopulation": "Inscripción total de estudiantes en todos los campus",
+        "contactName": "Nombre del ejecutivo o persona con poder de decisión",
+        "email": "ejecutivo.email@institucion.edu",
+        "phone": "Se prefiere el formato internacional",
+        "role": "Selecciona tu cargo",
+        "currentSystems": "Describe tus sistemas de tecnología educativa actuales, desafíos operativos y objetivos estratégicos de transformación digital...",
+        "timeline": "Selecciona el cronograma",
+        "commitment": "Selecciona el nivel de compromiso",
+        "customRequirements": "Describe las necesidades específicas de tu institución, los requisitos de marca y la visión para la innovación en tecnología educativa..."
+      },
+      "options": {
+        "institutionType": {
+          "multiCampus": "Sistema de Escuelas Privadas Multi-Campus",
+          "university": "Universidad/Educación Superior",
+          "international": "Red de Educación Internacional",
+          "specialized": "Institución Educativa Especializada",
+          "other": "Otra Organización Educativa"
+        },
+        "role": {
+          "ceo": "Director Ejecutivo/Presidente",
+          "cto": "Director de Tecnología",
+          "cao": "Director Académico",
+          "director": "Director de Campus/Director de Escuela",
+          "itDirector": "Director de TI",
+          "other": "Otro Cargo Ejecutivo"
+        },
+        "timeline": {
+          "immediate": "Inmediato (Listo para comenzar en 30 días)",
+          "shortTerm": "A corto plazo (Listo en 2-3 meses)",
+          "mediumTerm": "A mediano plazo (Listo en 4-6 meses)",
+          "strategic": "Planificación estratégica (período de evaluación de más de 6 meses)"
+        },
+        "commitment": {
+          "full": "Colaboración Estratégica Completa (Participación completa en el co-desarrollo)",
+          "focused": "Colaboración Enfocada (Áreas específicas de colaboración)",
+          "evaluation": "Colaboración de Evaluación (Fase de evaluación con posible expansión)"
+        }
+      },
+      "submit": "Enviar Evaluación de Colaboración de Co-Creación",
+      "disclaimer": "Al enviar, expresas interés en una colaboración estratégica de co-desarrollo y aceptas participar en un proceso de evaluación mutua para la colaboración en la fase Alfa.",
+      "success": {
+        "title": "¡Evaluación de Colaboración Enviada!",
+        "message": "Hemos recibido tu evaluación de colaboración completa. Nuestro equipo de desarrollo revisará tu envío y se pondrá en contacto contigo en 48 horas para discutir la compatibilidad estratégica y los próximos pasos.",
+        "another": "Enviar Otra Evaluación"
+      }
+    }
+  },
+  "partnership_extended": {
+    "timeline": {
+      "steps": {
+        "discovery": {
+          "title": "Invitación y Descubrimiento",
+          "description": "Evaluación de las necesidades institucionales y de la compatibilidad estratégica"
+        },
+        "selection": {
+          "title": "Selección Mutua",
+          "description": "Firma del Acta de Colaboración y formalización del compromiso de recursos"
+        },
+        "pilot": {
+          "title": "Implementación Piloto",
+          "description": "Despliegue del sistema central con soporte dedicado e integración de marca personalizada"
+        },
+        "partnership": {
+          "title": "Colaboración Completa",
+          "description": "Acceso completo a la plataforma con derechos de co-desarrollo y personalización del flujo de trabajo"
+        },
+        "sustained": {
+          "title": "Más Allá de Alfa - Colaboración Sostenida",
+          "description": "Términos preferenciales, acceso continuo a la innovación y reconocimiento como socio fundador"
+        }
+      }
+    },
+    "investment": {
+      "title": "Marco de",
+      "titleHighlight": "Inversión Equilibrada",
+      "description": "Una colaboración estratégica en la que tanto las instituciones como FabriiQ invierten de manera significativa para el éxito mutuo",
+      "institutions": {
+        "title": "Para Instituciones Educativas",
+        "subtitle": "Inversión estratégica en despliegue y intercambio de conocimientos",
+        "benefits": {
+          "custom_features": "Desarrollo de funciones personalizadas alineadas con los flujos de trabajo institucionales",
+          "competitive_advantage": {
+            "title": "Ventaja competitiva sobre las alternativas del mercado",
+            "description": "Obtén un posicionamiento estratégico en el mercado a través del acceso temprano a soluciones de tecnología educativa de vanguardia."
+          },
+          "influence_roadmap": "Influencia directa en la hoja de ruta del producto y en las prioridades de desarrollo",
+          "custom_branding": "Integración de marca personalizada e identidad institucional",
+          "thought_leadership": "Reconocimiento como líder de opinión en innovación en tecnología educativa",
+          "preferential_pricing": "Precios preferenciales después de la fase Alfa y términos de colaboración sostenida"
+        }
+      },
+      "fabriiq": {
+        "title": "Para el Desarrollo de FabriiQ",
+        "subtitle": "Inversión en recursos dedicados de co-desarrollo y soporte prioritario",
+        "benefits": {
+          "validation": "Validación en el mundo real en entornos educativos auténticos",
+          "user_input": "Aportes de diseño centrados en el usuario de educadores y administradores reales",
+          "quality_assurance": "Garantía de calidad a través de pruebas exhaustivas en múltiples instituciones",
+          "use_case_refinement": "Refinamiento de casos de uso y perspectivas de optimización del flujo de trabajo",
+          "market_validation": "Validación del mercado y desarrollo de pruebas de concepto",
+          "success_stories": "Documentación de historias de éxito y creación de estudios de caso"
+        }
+      }
+    },
+    "idealPartner": {
+      "title": "Perfil del",
+      "titleHighlight": "Socio Ideal",
+      "description": "Buscamos instituciones listas para una colaboración estratégica de co-desarrollo",
+      "institutional": {
+        "title": "Características Institucionales",
+        "items": {
+          "multi_campus": "Organizaciones educativas multi-campus con necesidades operativas complejas",
+          "progressive_leadership": "Liderazgo progresista comprometido con una transformación digital integral",
+          "technology_readiness": "Preparación tecnológica con recursos de TI dedicados y capacidad de implementación",
+          "collaborative_culture": "Cultura colaborativa dispuesta a participar en un co-desarrollo iterativo",
+          "financial_readiness": "Preparación financiera para invertir en costos de despliegue e infraestructura"
+        }
+      },
+      "partnership_requirements": {
+        "title": "Requisitos de la Colaboración",
+        "items": {
+          "csuite_commitment": "Compromiso de la alta dirección para la adopción de la plataforma y la gestión del cambio organizacional",
+          "staff_allocation": "Asignación de personal dedicado (10-15 horas mensuales) para la participación en el co-desarrollo",
+          "investment_deployment": "Inversión en costos de despliegue, capacitación y requisitos de infraestructura",
+          "reference_willingness": "Disponibilidad para servir como referencia y estudio de caso de liderazgo de opinión",
+          "research_participation": "Participación en investigaciones de usuarios, sesiones de retroalimentación y validación de productos"
+        }
+      }
+    },
+    "charter": {
+      "title": "Acta de",
+      "titleHighlight": "Colaboración",
+      "institution": {
+        "title": "Tu Institución se Compromete a:",
+        "items": {
+          "cover_deployment": "Cubrir la inversión en despliegue, infraestructura y capacitación",
+          "allocate_staff": "Asignar tiempo de personal dedicado para las actividades de colaboración",
+          "participate_feedback": "Participar en sesiones de retroalimentación mensuales y talleres de estrategia trimestrales",
+          "provide_assessment": "Proporcionar una evaluación honesta y una guía de desarrollo constructiva",
+          "maintain_confidentiality": "Mantener la confidencialidad con respecto a las características de la fase Alfa y la hoja de ruta de desarrollo"
+        }
+      },
+      "fabriiq": {
+        "title": "FabriiQ se Compromete a:",
+        "items": {
+          "provide_access": "Proporcionar acceso dedicado al co-desarrollo en fase Alfa y al desarrollo de características prioritarias",
+          "deliver_branding": "Entregar una integración de marca personalizada y personalización del flujo de trabajo",
+          "maintain_communication": "Mantener una comunicación transparente sobre el progreso del desarrollo y los cronogramas",
+          "honor_terms": "Respetar los términos y precios preferenciales de la colaboración después de la fase Alfa",
+          "recognize_institution": "Reconocer a tu institución como socio fundador de desarrollo con oportunidades de liderazgo de opinión"
+        }
+      }
+    },
+    "beyondAlpha": {
+      "title": "Más Allá de Alfa:",
+      "titleHighlight": "Valor de la Colaboración Sostenida",
+      "description": "La Colaboración de Desarrollo en Fase Alfa establece las bases para una ventaja estratégica a largo plazo",
+      "benefits": {
+        "preferential_terms": {
+          "title": "Términos de Colaboración Preferenciales",
+          "description": "Los socios fundadores conservan precios ventajosos y acceso prioritario en comparación con los adoptantes futuros"
+        },
+        "innovation_leadership": {
+          "title": "Liderazgo Continuo en Innovación",
+          "description": "Acceso prioritario a nuevas características, mejoras de la plataforma y desarrollos estratégicos"
+        },
+        "legacy_advantage": {
+          "title": "Ventaja Heredada",
+          "description": "Tus flujos de trabajo institucionales y tu marca permanecen profundamente integrados en la evolución de la plataforma"
+        },
+        "thought_leadership": {
+          "title": "Reconocimiento como Líder de Opinión",
+          "description": "Destacado como contribuyente fundador a la transformación de la tecnología educativa"
+        }
+      }
+    },
+    "intelligence": {
+      "title": "Plataforma de Inteligencia Educativa",
+      "description": "La base tecnológica que impulsa la educación de próxima generación"
+    }
+  }
+}

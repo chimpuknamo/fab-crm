@@ -1,0 +1,25 @@
+{
+  "footer": {
+    "powered_by": "Didukung oleh FabriiQ",
+    "rights": "Semua hak dilindungi",
+    "phone": "Telepon",
+    "address": "Alamat",
+    "linkedin": "LinkedIn",
+    "platform": {
+      "title": "Platform",
+      "capabilities": "Kemampuan",
+      "about": "Tentang"
+    },
+    "partnership": {
+      "title": "Kemitraan",
+      "apply": "Ajukan Kemitraan",
+      "contact": "Hubungi Kami"
+    },
+    "newsletter": {
+      "title": "Tetap Terupdate",
+      "description": "Berlangganan newsletter kami untuk update terbaru",
+      "placeholder": "Masukkan email Anda",
+      "subscribe": "Berlangganan"
+    }
+  }
+}
